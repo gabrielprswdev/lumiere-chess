@@ -3,7 +3,7 @@ name: Lumiere Chess — Sync de Partidas
 on:
   # ─── Execução automática diária às 7h (horário de Brasília = 10h UTC) ───
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 * * * *'
 
   # ─── Permite executar manualmente pela interface do GitHub ───
   workflow_dispatch:
