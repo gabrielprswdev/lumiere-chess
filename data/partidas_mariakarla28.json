@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-07T15:37:23+00:00",
+      "adversario": "toomanyegos",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/168368291718",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1778168243
+    },
+    {
       "data": "2026-05-06T11:06:41+00:00",
       "adversario": "uxi_ave",
       "cor": "Pretas",
