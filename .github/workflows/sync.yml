@@ -1,0 +1,75 @@
+name: Lumiere Chess — Sync de Partidas
+
+on:
+  # ─── Execução automática diária às 7h (horário de Brasília = 10h UTC) ───
+  schedule:
+    - cron: '0 10 * * *'
+
+  # ─── Permite executar manualmente pela interface do GitHub ───
+  workflow_dispatch:
+    inputs:
+      forcar_sync_completo:
+        description: 'Forçar sync completo (apaga last_sync.json)'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  sync:
+    name: Sincronizar Partidas
+    runs-on: ubuntu-latest
+
+    # Timeout máximo de 6 horas (limite do GitHub Actions)
+    # Para 50 usuários, estimativa: ~2-3 horas
+    timeout-minutes: 360
+
+    # Permissão para fazer commit de volta ao repositório
+    permissions:
+      contents: write
+
+    steps:
+      # ─── 1. Checkout do repositório (com os arquivos data/) ───
+      - name: 📥 Checkout do repositório
+        uses: actions/checkout@v4
+        with:
+          # Usa o token padrão para poder fazer push depois
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─── 2. Configura Python ───
+      - name: 🐍 Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'           # Cache do pip para execuções mais rápidas
+
+      # ─── 3. Instala dependências ───
+      - name: 📦 Instalar dependências
+        run: pip install -r requirements.txt
+
+      # ─── 4. (Opcional) Força sync completo se solicitado manualmente ───
+      - name: 🔄 Forçar sync completo (se solicitado)
+        if: ${{ github.event.inputs.forcar_sync_completo == 'true' }}
+        run: |
+          echo "⚠️ Forçando sync completo — apagando last_sync.json"
+          echo "{}" > data/last_sync.json
+
+      # ─── 5. Executa o script principal ───
+      - name: 🏃 Executar sync de partidas
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: python main.py
+
+      # ─── 6. Faz commit automático dos arquivos de estado atualizados ───
+      - name: 💾 Commit e push do estado atualizado
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          # Só faz commit se houver mudanças (evita commits vazios)
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração nos arquivos de estado. Nada a commitar."
+          else
+            git commit -m "chore: sync automático de partidas [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+            echo "✓ Estado atualizado e enviado ao repositório."
+          fi

@@ -1,0 +1,8 @@
+{
+  "usuarios": [
+    {
+      "username": "SeuUsuarioDoChessCom",
+      "email": "seu-email-no-firebase@gmail.com"
+    }
+  ]
+}
