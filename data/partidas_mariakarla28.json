@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-07T17:51:52+00:00",
+      "adversario": "AdamBombe",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/168374415720",
+      "eco": "B40",
+      "pontos": 0.0,
+      "end_time": 1778176312
+    },
+    {
       "data": "2026-05-07T15:37:23+00:00",
       "adversario": "toomanyegos",
       "cor": "Pretas",
