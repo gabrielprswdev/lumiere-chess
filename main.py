@@ -318,49 +318,40 @@ def enviar_partidas_firestore(token: str, user_email: str, todas_partidas: list[
 # ─────────────────────────────────────────────
 
 def gerar_e_enviar_rating_diario(token: str, user_email: str, todas_partidas: list[dict]) -> None:
-    """
-    Replica a função migrarRatingDiario() do GAS.
-    Gera o documento ratingDiario_agregado no Firestore.
-    """
     hoje   = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
     limite = hoje - timedelta(days=365)
 
     ritmos = ["rapid", "blitz", "bullet", "daily"]
     dados_por_ritmo: dict[str, list[dict]] = {r: [] for r in ritmos}
 
-    # Filtra partidas rated dentro do período
     for p in todas_partidas:
-        if not p.get("rated"):
-            continue
+        if not p.get("rated"): continue
         try:
             data_p = datetime.fromisoformat(p["data"].replace("Z", "+00:00"))
-        except Exception:
-            continue
-        if data_p < limite or data_p > hoje:
-            continue
+        except: continue
+        if data_p < limite or data_p > hoje: continue
+        
         ritmo = calcular_ritmo(p["timeControl"])
         if ritmo in dados_por_ritmo:
             dados_por_ritmo[ritmo].append({"data": data_p, "rating": int(p["rating"])})
 
-    # Monta mapa de dias (igual ao GAS)
     dias_map: dict[str, dict] = {}
     data_iter = limite
     while data_iter <= hoje:
         data_str = data_iter.strftime("%Y-%m-%d")
-        dias_map[data_str] = {"rapid": None, "blitz": None, "bullet": None, "daily": None}
+        dias_map[data_str] = {r: None for r in ritmos}
         data_iter += timedelta(days=1)
 
-    # Preenche e faz forward-fill por ritmo
     for ritmo in ritmos:
         partidas_ritmo = sorted(dados_por_ritmo[ritmo], key=lambda x: x["data"])
-
-        # Atribui o rating de cada partida ao dia correspondente
+        
+        # 1. Preenche os dias que tiveram partidas
         for p in partidas_ritmo:
             data_str = p["data"].strftime("%Y-%m-%d")
             if data_str in dias_map:
                 dias_map[data_str][ritmo] = p["rating"]
 
-        # Forward-fill: dias sem partida herdam o último rating conhecido
+        # 2. Forward-fill (IGUAL AO GAS: preenche lacunas com o último conhecido)
         last_rating = None
         for data_str in sorted(dias_map.keys()):
             if dias_map[data_str][ritmo] is not None:
@@ -368,17 +359,25 @@ def gerar_e_enviar_rating_diario(token: str, user_email: str, todas_partidas: li
             elif last_rating is not None:
                 dias_map[data_str][ritmo] = last_rating
 
-    # Monta array de dias para o Firestore
+        # 3. BACKWARD-FILL (O QUE ESTAVA FALTANDO): 
+        # Se os dias iniciais ainda são None (não houve partida no começo do ano),
+        # usamos o primeiro rating que aparecer no período (o mais antigo).
+        primeiro_rating_do_periodo = next((p["rating"] for p in partidas_ritmo), 0)
+        
+        for data_str in sorted(dias_map.keys()):
+            if dias_map[data_str][ritmo] is None:
+                dias_map[data_str][ritmo] = primeiro_rating_do_periodo
+
+    # Monta array final (removendo o risco de 0 no gráfico)
     dias_array = []
     for data_str, ratings in sorted(dias_map.items()):
-        if any(v is not None for v in ratings.values()):
-            data_iso = datetime.strptime(data_str, "%Y-%m-%d").replace(tzinfo=timezone.utc).isoformat().replace("+00:00", "Z")
-            dias_array.append({
-                "data":    data_iso,
-                "ratings": {k: (v if v is not None else 0) for k, v in ratings.items()}
-            })
+        data_iso = datetime.strptime(data_str, "%Y-%m-%d").replace(tzinfo=timezone.utc).isoformat().replace("+00:00", "Z")
+        dias_array.append({
+            "data": data_iso,
+            "ratings": {k: (v if v is not None else 0) for k, v in ratings.items()}
+        })
 
-    # Monta documento Firestore (idêntico ao GAS)
+    # ... (restante do código de envio ao Firestore continua igual)
     doc_body = {
         "fields": {
             "dias": {
@@ -408,10 +407,8 @@ def gerar_e_enviar_rating_diario(token: str, user_email: str, todas_partidas: li
             "updatedAt": {"timestampValue": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")}
         }
     }
-
     encoded_email = requests.utils.quote(user_email, safe="")
     doc_path      = f"users/{encoded_email}/stats/ratingDiario_agregado"
-
     firestore_patch(token, doc_path, doc_body)
     print(f"  ✓ ratingDiario_agregado atualizado com {len(dias_array)} dias.")
 
