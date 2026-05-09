@@ -318,7 +318,8 @@ def enviar_partidas_firestore(token: str, user_email: str, todas_partidas: list[
 # ─────────────────────────────────────────────
 
 def gerar_e_enviar_rating_diario(token: str, user_email: str, todas_partidas: list[dict]) -> None:
-    hoje   = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+    # Define 'hoje' como o final do dia atual (23:59:59)
+    hoje = datetime.now(timezone.utc).replace(hour=23, minute=59, second=59, microsecond=999999)
     limite = hoje - timedelta(days=365)
 
     ritmos = ["rapid", "blitz", "bullet", "daily"]
