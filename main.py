@@ -337,7 +337,7 @@ def gerar_e_enviar_rating_diario(token: str, user_email: str, todas_partidas: li
 
     dias_map: dict[str, dict] = {}
     data_iter = limite
-    while data_iter <= hoje:
+    while data_iter <= hoje + timedelta(days=1):
         data_str = data_iter.strftime("%Y-%m-%d")
         dias_map[data_str] = {r: None for r in ritmos}
         data_iter += timedelta(days=1)
