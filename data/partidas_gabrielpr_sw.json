@@ -92650,45 +92650,6 @@
       "eco": "C47",
       "pontos": 1.0,
       "end_time": 1746875828
-    },
-    {
-      "data": "2025-05-09T20:50:24+00:00",
-      "adversario": "ir_abolfazl84",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "1/86400",
-      "rating": 814,
-      "link": "https://www.chess.com/game/daily/809181128",
-      "eco": "B27",
-      "pontos": 1.0,
-      "end_time": 1746823824
-    },
-    {
-      "data": "2025-05-09T20:49:24+00:00",
-      "adversario": "ir_abolfazl84",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "1/86400",
-      "rating": 814,
-      "link": "https://www.chess.com/game/daily/809181040",
-      "eco": "A00",
-      "pontos": 1.0,
-      "end_time": 1746823764
-    },
-    {
-      "data": "2025-05-09T20:49:10+00:00",
-      "adversario": "Balab777",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "1/86400",
-      "rating": 814,
-      "link": "https://www.chess.com/game/daily/807554818",
-      "eco": "C24",
-      "pontos": 1.0,
-      "end_time": 1746823750
     }
   ]
 }
