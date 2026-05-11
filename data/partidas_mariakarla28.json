@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-11T12:48:38+00:00",
+      "adversario": "Rookstar_10",
+      "cor": "Pretas",
+      "resultado": "stalemate",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/168546407792",
+      "eco": "B21",
+      "pontos": 0.5,
+      "end_time": 1778503718
+    },
+    {
       "data": "2026-05-09T12:56:12+00:00",
       "adversario": "tnjek",
       "cor": "Brancas",
@@ -16938,32 +16951,6 @@
       "eco": "C41",
       "pontos": 0.0,
       "end_time": 1746999256
-    },
-    {
-      "data": "2025-05-10T09:58:06+00:00",
-      "adversario": "Cookie010205",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1075,
-      "link": "https://www.chess.com/game/live/138301735130",
-      "eco": "D20",
-      "pontos": 0.0,
-      "end_time": 1746871086
-    },
-    {
-      "data": "2025-05-09T09:16:26+00:00",
-      "adversario": "udhaya750",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1083,
-      "link": "https://www.chess.com/game/live/138264894584",
-      "eco": "C55",
-      "pontos": 0.0,
-      "end_time": 1746782186
     }
   ]
 }
