@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-13T13:11:10+00:00",
+      "adversario": "xorrim12",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/168644521998",
+      "eco": "B50",
+      "pontos": 0.0,
+      "end_time": 1778677870
+    },
+    {
       "data": "2026-05-11T12:48:38+00:00",
       "adversario": "Rookstar_10",
       "cor": "Pretas",
@@ -16912,45 +16925,6 @@
       "eco": "B10",
       "pontos": 0.0,
       "end_time": 1747143736
-    },
-    {
-      "data": "2025-05-12T09:31:38+00:00",
-      "adversario": "shahidattar1",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1075,
-      "link": "https://www.chess.com/game/live/138370477884",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1747042298
-    },
-    {
-      "data": "2025-05-12T01:44:37+00:00",
-      "adversario": "negromx",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "1/259200",
-      "rating": 807,
-      "link": "https://www.chess.com/game/daily/810829068",
-      "eco": "B01",
-      "pontos": 0.0,
-      "end_time": 1747014277
-    },
-    {
-      "data": "2025-05-11T21:34:16+00:00",
-      "adversario": "carlomm73",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1067,
-      "link": "https://www.chess.com/game/live/138357173128",
-      "eco": "C41",
-      "pontos": 0.0,
-      "end_time": 1746999256
     }
   ]
 }
