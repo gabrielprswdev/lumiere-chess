@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-15T16:41:18+00:00",
+      "adversario": "Coach-Anna",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "-",
+      "rating": 800,
+      "link": "https://www.chess.com/game/daily/121628931",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1778863278
+    },
+    {
       "data": "2026-05-14T19:19:58+00:00",
       "adversario": "saber_21",
       "cor": "Pretas",
@@ -16886,19 +16899,6 @@
       "eco": "C00",
       "pontos": 1.0,
       "end_time": 1747323085
-    },
-    {
-      "data": "2025-05-14T10:38:39+00:00",
-      "adversario": "samthefatherofj",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1051,
-      "link": "https://www.chess.com/game/live/138445336690",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1747219119
     }
   ]
 }
