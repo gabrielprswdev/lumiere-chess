@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-16T11:46:23+00:00",
+      "adversario": "Teahuppo",
+      "cor": "Pretas",
+      "resultado": "abandoned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/168786085070",
+      "eco": "A04",
+      "pontos": 0.0,
+      "end_time": 1778931983
+    },
+    {
       "data": "2026-05-15T16:41:18+00:00",
       "adversario": "Coach-Anna",
       "cor": "Brancas",
@@ -16847,58 +16860,6 @@
       "eco": "C00",
       "pontos": 1.0,
       "end_time": 1747413746
-    },
-    {
-      "data": "2025-05-15T17:16:23+00:00",
-      "adversario": "dragonfly7485",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 367,
-      "link": "https://www.chess.com/game/live/138494519840",
-      "eco": "C48",
-      "pontos": 1.0,
-      "end_time": 1747329383
-    },
-    {
-      "data": "2025-05-15T17:09:00+00:00",
-      "adversario": "happy_1_farvardin",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 359,
-      "link": "https://www.chess.com/game/live/138494236776",
-      "eco": "B40",
-      "pontos": 1.0,
-      "end_time": 1747328940
-    },
-    {
-      "data": "2025-05-15T15:44:08+00:00",
-      "adversario": "Dbajvjfjsk",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1067,
-      "link": "https://www.chess.com/game/live/138490937348",
-      "eco": "C53",
-      "pontos": 1.0,
-      "end_time": 1747323848
-    },
-    {
-      "data": "2025-05-15T15:31:25+00:00",
-      "adversario": "Daulet8787",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1059,
-      "link": "https://www.chess.com/game/live/138490819300",
-      "eco": "C00",
-      "pontos": 1.0,
-      "end_time": 1747323085
     }
   ]
 }
