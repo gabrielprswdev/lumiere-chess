@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-17T11:23:40+00:00",
+      "adversario": "stukamp4",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/168831255138",
+      "eco": "D53",
+      "pontos": 1.0,
+      "end_time": 1779017020
+    },
+    {
       "data": "2026-05-16T11:46:23+00:00",
       "adversario": "Teahuppo",
       "cor": "Pretas",
@@ -16834,32 +16847,6 @@
       "eco": "B20",
       "pontos": 0.0,
       "end_time": 1747575203
-    },
-    {
-      "data": "2025-05-16T17:21:55+00:00",
-      "adversario": "Lord_or_Dev",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1067,
-      "link": "https://www.chess.com/game/live/138530971242",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1747416115
-    },
-    {
-      "data": "2025-05-16T16:42:26+00:00",
-      "adversario": "MBINGA100",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1075,
-      "link": "https://www.chess.com/game/live/138529613554",
-      "eco": "C00",
-      "pontos": 1.0,
-      "end_time": 1747413746
     }
   ]
 }
