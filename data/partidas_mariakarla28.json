@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-18T10:52:54+00:00",
+      "adversario": "ajosh77",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/168876141818",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1779101574
+    },
+    {
       "data": "2026-05-17T11:23:40+00:00",
       "adversario": "stukamp4",
       "cor": "Pretas",
