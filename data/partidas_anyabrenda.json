@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-21T12:08:01+00:00",
+      "adversario": "Jhem-27",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1409,
+      "link": "https://www.chess.com/game/live/169023566386",
+      "eco": "B86",
+      "pontos": 1.0,
+      "end_time": 1779365281
+    },
+    {
       "data": "2026-05-17T14:47:26+00:00",
       "adversario": "Jennyfer2024",
       "cor": "Pretas",
