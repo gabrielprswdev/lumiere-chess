@@ -16821,45 +16821,6 @@
       "eco": "B08",
       "pontos": 0.0,
       "end_time": 1747823761
-    },
-    {
-      "data": "2025-05-20T10:24:20+00:00",
-      "adversario": "Seikpaaaa",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1043,
-      "link": "https://www.chess.com/game/live/138660047388",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1747736660
-    },
-    {
-      "data": "2025-05-19T11:18:19+00:00",
-      "adversario": "Mika150884",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1051,
-      "link": "https://www.chess.com/game/live/138624700378",
-      "eco": "C42",
-      "pontos": 0.0,
-      "end_time": 1747653499
-    },
-    {
-      "data": "2025-05-18T13:33:23+00:00",
-      "adversario": "PALKONYEAH",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1059,
-      "link": "https://www.chess.com/game/live/138593486872",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1747575203
     }
   ]
 }
