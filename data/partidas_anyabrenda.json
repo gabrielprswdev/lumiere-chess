@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-22T11:39:54+00:00",
+      "adversario": "naqashali777",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1427,
+      "link": "https://www.chess.com/game/live/169071025328",
+      "eco": "C48",
+      "pontos": 1.0,
+      "end_time": 1779449994
+    },
+    {
       "data": "2026-05-21T12:08:01+00:00",
       "adversario": "Jhem-27",
       "cor": "Pretas",
