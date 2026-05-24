@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-24T11:11:51+00:00",
+      "adversario": "Ninjaarush",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1482,
+      "link": "https://www.chess.com/game/live/169163490160",
+      "eco": "B22",
+      "pontos": 1.0,
+      "end_time": 1779621111
+    },
+    {
       "data": "2026-05-23T14:22:44+00:00",
       "adversario": "ValeryGT",
       "cor": "Pretas",
