@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-27T11:18:18+00:00",
+      "adversario": "Rub_inettoo",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1516,
+      "link": "https://www.chess.com/game/live/169308102730",
+      "eco": "A45",
+      "pontos": 1.0,
+      "end_time": 1779880698
+    },
+    {
       "data": "2026-05-25T12:18:14+00:00",
       "adversario": "Il_Terrone",
       "cor": "Pretas",
