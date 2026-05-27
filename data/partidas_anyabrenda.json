@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-05-27T16:45:06+00:00",
+      "adversario": "SkaffyWife",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 1011,
+      "link": "https://www.chess.com/game/daily/976490029",
+      "eco": "B21",
+      "pontos": 1.0,
+      "end_time": 1779900306
+    },
+    {
       "data": "2026-05-27T11:18:18+00:00",
       "adversario": "Rub_inettoo",
       "cor": "Pretas",
