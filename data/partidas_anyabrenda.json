@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-06-04T16:22:34+00:00",
+      "adversario": "Dunnck",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/169707690544",
+      "eco": "A13",
+      "pontos": 1.0,
+      "end_time": 1780590154
+    },
+    {
+      "data": "2026-06-04T16:16:07+00:00",
+      "adversario": "Dunnck",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/169707442228",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1780589767
+    },
+    {
       "data": "2026-06-04T06:23:36+00:00",
       "adversario": "Oliver_Tsar",
       "cor": "Brancas",
