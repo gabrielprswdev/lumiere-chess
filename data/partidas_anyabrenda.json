@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-06-04T03:10:19+00:00",
+      "adversario": "Hian173Barth",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/169680327938",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1780542619
+    },
+    {
+      "data": "2026-06-04T03:03:38+00:00",
+      "adversario": "Hian173Barth",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/169680215752",
+      "eco": "A01",
+      "pontos": 1.0,
+      "end_time": 1780542218
+    },
+    {
       "data": "2026-05-27T16:45:06+00:00",
       "adversario": "SkaffyWife",
       "cor": "Brancas",
