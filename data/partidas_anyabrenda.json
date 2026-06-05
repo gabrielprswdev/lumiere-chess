@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-06-05T04:52:25+00:00",
+      "adversario": "FdoEVANDROBARBOSA",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/169731833844",
+      "eco": "A00",
+      "pontos": 0.0,
+      "end_time": 1780635145
+    },
+    {
+      "data": "2026-06-05T04:38:30+00:00",
+      "adversario": "chr0ll0boss",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/169731492070",
+      "eco": "B07",
+      "pontos": 1.0,
+      "end_time": 1780634310
+    },
+    {
       "data": "2026-06-04T16:22:34+00:00",
       "adversario": "Dunnck",
       "cor": "Pretas",
