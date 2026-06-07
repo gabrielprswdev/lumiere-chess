@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-07T20:24:56+00:00",
+      "adversario": "pavob4",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1979,
+      "link": "https://www.chess.com/game/live/169861831642",
+      "eco": "A46",
+      "pontos": 1.0,
+      "end_time": 1780863896
+    },
+    {
       "data": "2026-06-07T20:02:18+00:00",
       "adversario": "Charlie0822",
       "cor": "Pretas",
