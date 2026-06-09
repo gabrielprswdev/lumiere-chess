@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-06-09T05:03:31+00:00",
+      "adversario": "dabSzn",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1094,
+      "link": "https://www.chess.com/game/live/169924795746",
+      "eco": "B13",
+      "pontos": 1.0,
+      "end_time": 1780981411
+    },
+    {
+      "data": "2026-06-09T05:01:17+00:00",
+      "adversario": "Adp349",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1086,
+      "link": "https://www.chess.com/game/live/169924734338",
+      "eco": "C44",
+      "pontos": 1.0,
+      "end_time": 1780981277
+    },
+    {
+      "data": "2026-06-09T04:58:49+00:00",
+      "adversario": "Owen111Titan",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1077,
+      "link": "https://www.chess.com/game/live/169924672614",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1780981129
+    },
+    {
+      "data": "2026-06-09T04:56:21+00:00",
+      "adversario": "228nekit228",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1070,
+      "link": "https://www.chess.com/game/live/169924610192",
+      "eco": "C48",
+      "pontos": 0.5,
+      "end_time": 1780980981
+    },
+    {
+      "data": "2026-06-09T04:53:53+00:00",
+      "adversario": "Aaron921230",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1070,
+      "link": "https://www.chess.com/game/live/169924575456",
+      "eco": "D30",
+      "pontos": 0.0,
+      "end_time": 1780980833
+    },
+    {
       "data": "2026-06-05T04:52:25+00:00",
       "adversario": "FdoEVANDROBARBOSA",
       "cor": "Brancas",
