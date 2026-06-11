@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-11T12:44:47+00:00",
+      "adversario": "stephit",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1227,
+      "link": "https://www.chess.com/game/live/170038392156",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1781181887
+    },
+    {
       "data": "2026-06-11T12:25:41+00:00",
       "adversario": "basvandersande",
       "cor": "Brancas",
