@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-06-12T21:21:09+00:00",
+      "adversario": "raghav17sngl",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2007,
+      "link": "https://www.chess.com/game/live/170108156964",
+      "eco": "A48",
+      "pontos": 1.0,
+      "end_time": 1781299269
+    },
+    {
+      "data": "2026-06-12T20:52:12+00:00",
+      "adversario": "ProCokeCola",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2007,
+      "link": "https://www.chess.com/game/live/170107635144",
+      "eco": "B13",
+      "pontos": 1.0,
+      "end_time": 1781297532
+    },
+    {
+      "data": "2026-06-12T20:20:19+00:00",
+      "adversario": "fragov",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2007,
+      "link": "https://www.chess.com/game/live/170106237028",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1781295619
+    },
+    {
+      "data": "2026-06-12T20:11:06+00:00",
+      "adversario": "simkecar",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1998,
+      "link": "https://www.chess.com/game/live/170105505042",
+      "eco": "C21",
+      "pontos": 1.0,
+      "end_time": 1781295066
+    },
+    {
       "data": "2026-06-12T19:52:18+00:00",
       "adversario": "asher1981",
       "cor": "Pretas",
