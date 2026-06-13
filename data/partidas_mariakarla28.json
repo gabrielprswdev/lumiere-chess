@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-06-13T20:52:55+00:00",
+      "adversario": "Rav1414",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1243,
+      "link": "https://www.chess.com/game/live/170154192948",
+      "eco": "B01",
+      "pontos": 0.0,
+      "end_time": 1781383975
+    },
+    {
+      "data": "2026-06-13T20:18:01+00:00",
+      "adversario": "mugiwaraaaaaaaaaaaaj",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/170152877494",
+      "eco": "D40",
+      "pontos": 1.0,
+      "end_time": 1781381881
+    },
+    {
+      "data": "2026-06-13T19:35:55+00:00",
+      "adversario": "GabrielPR_SW",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/170151349512",
+      "eco": "B44",
+      "pontos": 0.0,
+      "end_time": 1781379355
+    },
+    {
       "data": "2026-06-13T12:41:06+00:00",
       "adversario": "slim_Jimy",
       "cor": "Pretas",

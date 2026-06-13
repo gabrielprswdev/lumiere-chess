@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-13T19:35:55+00:00",
+      "adversario": "MariaKarla28",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2023,
+      "link": "https://www.chess.com/game/live/170151349512",
+      "eco": "B44",
+      "pontos": 1.0,
+      "end_time": 1781379355
+    },
+    {
       "data": "2026-06-13T16:57:54+00:00",
       "adversario": "Lordelloni",
       "cor": "Brancas",
