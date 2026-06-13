@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-13T12:41:06+00:00",
+      "adversario": "slim_Jimy",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/170134301170",
+      "eco": "A04",
+      "pontos": 1.0,
+      "end_time": 1781354466
+    },
+    {
       "data": "2026-06-11T14:32:19+00:00",
       "adversario": "thekaumba",
       "cor": "Brancas",
@@ -15560,110 +15573,6 @@
       "eco": "B13",
       "pontos": 1.0,
       "end_time": 1749796717
-    },
-    {
-      "data": "2025-06-12T18:12:25+00:00",
-      "adversario": "vikimgguy5563",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1047,
-      "link": "https://www.chess.com/game/live/139518084250",
-      "eco": "A28",
-      "pontos": 0.0,
-      "end_time": 1749751945
-    },
-    {
-      "data": "2025-06-12T11:31:34+00:00",
-      "adversario": "AnwarALajaji",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1055,
-      "link": "https://www.chess.com/game/live/139504513068",
-      "eco": "A00",
-      "pontos": 1.0,
-      "end_time": 1749727894
-    },
-    {
-      "data": "2025-06-12T11:24:28+00:00",
-      "adversario": "AnwarALajaji",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1047,
-      "link": "https://www.chess.com/game/live/139504425972",
-      "eco": "C00",
-      "pontos": 0.0,
-      "end_time": 1749727468
-    },
-    {
-      "data": "2025-06-12T01:20:47+00:00",
-      "adversario": "kleinmoretti0",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1055,
-      "link": "https://www.chess.com/game/live/139490925394",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1749691247
-    },
-    {
-      "data": "2025-06-11T06:47:43+00:00",
-      "adversario": "malfinson123",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "1/86400",
-      "rating": 823,
-      "link": "https://www.chess.com/game/daily/821010608",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1749624463
-    },
-    {
-      "data": "2025-06-11T01:48:07+00:00",
-      "adversario": "najmahyusuf",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1063,
-      "link": "https://www.chess.com/game/live/139452845996",
-      "eco": "B50",
-      "pontos": 1.0,
-      "end_time": 1749606487
-    },
-    {
-      "data": "2025-06-11T00:36:14+00:00",
-      "adversario": "negromx",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "1/259200",
-      "rating": 855,
-      "link": "https://www.chess.com/game/daily/817932718",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1749602174
-    },
-    {
-      "data": "2025-06-11T00:14:45+00:00",
-      "adversario": "javk2024",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "900+10",
-      "rating": 1055,
-      "link": "https://www.chess.com/game/live/139451110090",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1749600885
     }
   ]
 }

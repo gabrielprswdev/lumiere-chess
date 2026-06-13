@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-13T11:53:24+00:00",
+      "adversario": "TheAce_Of_Hearts",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2007,
+      "link": "https://www.chess.com/game/live/170132671424",
+      "eco": "C53",
+      "pontos": 1.0,
+      "end_time": 1781351604
+    },
+    {
       "data": "2026-06-12T21:21:09+00:00",
       "adversario": "raghav17sngl",
       "cor": "Pretas",
@@ -91064,32 +91077,6 @@
       "eco": "C42",
       "pontos": 1.0,
       "end_time": 1749826200
-    },
-    {
-      "data": "2025-06-12T21:25:39+00:00",
-      "adversario": "TORCAB",
-      "cor": "Brancas",
-      "resultado": "abandoned",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 1402,
-      "link": "https://www.chess.com/game/live/139524255078",
-      "eco": "C01",
-      "pontos": 0.0,
-      "end_time": 1749763539
-    },
-    {
-      "data": "2025-06-12T18:38:33+00:00",
-      "adversario": "BuzzME40",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 1410,
-      "link": "https://www.chess.com/game/live/139519103284",
-      "eco": "C01",
-      "pontos": 0.0,
-      "end_time": 1749753513
     }
   ]
 }
