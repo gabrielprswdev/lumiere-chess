@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-06-13T16:57:54+00:00",
+      "adversario": "Lordelloni",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2023,
+      "link": "https://www.chess.com/game/live/170144989004",
+      "eco": "B22",
+      "pontos": 1.0,
+      "end_time": 1781369874
+    },
+    {
+      "data": "2026-06-13T16:44:13+00:00",
+      "adversario": "Harlem1977",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2015,
+      "link": "https://www.chess.com/game/live/170144560186",
+      "eco": "D35",
+      "pontos": 1.0,
+      "end_time": 1781369053
+    },
+    {
+      "data": "2026-06-13T16:34:18+00:00",
+      "adversario": "amarnath0038",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2007,
+      "link": "https://www.chess.com/game/live/170143749864",
+      "eco": "D32",
+      "pontos": 0.0,
+      "end_time": 1781368458
+    },
+    {
+      "data": "2026-06-13T16:13:07+00:00",
+      "adversario": "idey",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2015,
+      "link": "https://www.chess.com/game/live/170143315482",
+      "eco": "B13",
+      "pontos": 1.0,
+      "end_time": 1781367187
+    },
+    {
       "data": "2026-06-13T11:53:24+00:00",
       "adversario": "TheAce_Of_Hearts",
       "cor": "Brancas",
