@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-06-14T16:30:55+00:00",
+      "adversario": "mihir_verma",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2030,
+      "link": "https://www.chess.com/game/live/170190012796",
+      "eco": "D34",
+      "pontos": 1.0,
+      "end_time": 1781454655
+    },
+    {
+      "data": "2026-06-14T16:15:50+00:00",
+      "adversario": "anjaneypatitripathi",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2019,
+      "link": "https://www.chess.com/game/live/170189389694",
+      "eco": "C22",
+      "pontos": 0.0,
+      "end_time": 1781453750
+    },
+    {
+      "data": "2026-06-14T16:01:27+00:00",
+      "adversario": "Idolat",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2027,
+      "link": "https://www.chess.com/game/live/170188534174",
+      "eco": "C45",
+      "pontos": 0.5,
+      "end_time": 1781452887
+    },
+    {
       "data": "2026-06-14T15:41:54+00:00",
       "adversario": "chetanyatyagi",
       "cor": "Brancas",
