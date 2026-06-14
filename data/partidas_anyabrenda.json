@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-14T03:49:17+00:00",
+      "adversario": "sakurademon",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1322,
+      "link": "https://www.chess.com/game/live/170164640782",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1781408957
+    },
+    {
       "data": "2026-06-13T13:37:05+00:00",
       "adversario": "Thunderstrucked",
       "cor": "Brancas",
