@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-06-15T00:18:43+00:00",
+      "adversario": "ExactEnigma",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/175795755663",
+      "eco": "C48",
+      "pontos": 0.0,
+      "end_time": 1781482723
+    },
+    {
+      "data": "2026-06-15T00:11:28+00:00",
+      "adversario": "Carlos8327",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/175795155687",
+      "eco": "C02",
+      "pontos": 1.0,
+      "end_time": 1781482288
+    },
+    {
+      "data": "2026-06-15T00:00:09+00:00",
+      "adversario": "Kipena",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/175794555619",
+      "eco": "A28",
+      "pontos": 1.0,
+      "end_time": 1781481609
+    },
+    {
+      "data": "2026-06-14T23:49:21+00:00",
+      "adversario": "tayvan1",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/175793955699",
+      "eco": "B13",
+      "pontos": 1.0,
+      "end_time": 1781480961
+    },
+    {
+      "data": "2026-06-14T23:37:11+00:00",
+      "adversario": "F1992R",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/175793355875",
+      "eco": "C47",
+      "pontos": 1.0,
+      "end_time": 1781480231
+    },
+    {
       "data": "2026-06-14T23:05:41+00:00",
       "adversario": "Nychata",
       "cor": "Pretas",
@@ -91285,32 +91350,6 @@
       "eco": "A00",
       "pontos": 1.0,
       "end_time": 1749949349
-    },
-    {
-      "data": "2025-06-14T23:00:25+00:00",
-      "adversario": "Rafael-Dark",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1574,
-      "link": "https://www.chess.com/game/live/139599627760",
-      "eco": "C01",
-      "pontos": 1.0,
-      "end_time": 1749942025
-    },
-    {
-      "data": "2025-06-14T22:50:56+00:00",
-      "adversario": "arishukur",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1566,
-      "link": "https://www.chess.com/game/live/139599440860",
-      "eco": "D50",
-      "pontos": 1.0,
-      "end_time": 1749941456
     }
   ]
 }
