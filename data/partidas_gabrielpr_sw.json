@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-15T13:20:06+00:00",
+      "adversario": "maresombria",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2030,
+      "link": "https://www.chess.com/game/live/170228302276",
+      "eco": "B00",
+      "pontos": 1.0,
+      "end_time": 1781529606
+    },
+    {
       "data": "2026-06-15T00:18:43+00:00",
       "adversario": "ExactEnigma",
       "cor": "Pretas",

@@ -1,6 +1,84 @@
 {
   "partidas": [
     {
+      "data": "2026-06-15T12:27:09+00:00",
+      "adversario": "karlfeliks",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 619,
+      "link": "https://www.chess.com/game/live/170226587482",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1781526429
+    },
+    {
+      "data": "2026-06-15T12:24:46+00:00",
+      "adversario": "marmar123333",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 607,
+      "link": "https://www.chess.com/game/live/170226438578",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1781526286
+    },
+    {
+      "data": "2026-06-15T12:21:02+00:00",
+      "adversario": "Vijaykumarajmera1701",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 594,
+      "link": "https://www.chess.com/game/live/170226289110",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1781526062
+    },
+    {
+      "data": "2026-06-15T12:17:16+00:00",
+      "adversario": "jneeley32",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 581,
+      "link": "https://www.chess.com/game/live/170226116126",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1781525836
+    },
+    {
+      "data": "2026-06-15T12:12:51+00:00",
+      "adversario": "rykard2",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 567,
+      "link": "https://www.chess.com/game/live/170225935574",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1781525571
+    },
+    {
+      "data": "2026-06-15T12:05:55+00:00",
+      "adversario": "buddy_5",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 581,
+      "link": "https://www.chess.com/game/live/170225736548",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1781525155
+    },
+    {
       "data": "2026-06-14T10:46:39+00:00",
       "adversario": "Soleret11",
       "cor": "Brancas",
@@ -15625,19 +15703,6 @@
       "eco": "C45",
       "pontos": 1.0,
       "end_time": 1749949616
-    },
-    {
-      "data": "2025-06-14T10:38:20+00:00",
-      "adversario": "GAUTTAAMM",
-      "cor": "Pretas",
-      "resultado": "repetition",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1038,
-      "link": "https://www.chess.com/game/live/139577477082",
-      "eco": "A00",
-      "pontos": 0.5,
-      "end_time": 1749897500
     }
   ]
 }
