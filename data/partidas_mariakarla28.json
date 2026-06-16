@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-16T10:45:47+00:00",
+      "adversario": "abdelrahmanali719",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 631,
+      "link": "https://www.chess.com/game/live/170270260090",
+      "eco": "B40",
+      "pontos": 1.0,
+      "end_time": 1781606747
+    },
+    {
       "data": "2026-06-15T12:27:09+00:00",
       "adversario": "karlfeliks",
       "cor": "Pretas",
@@ -15625,84 +15638,6 @@
       "eco": "C02",
       "pontos": 0.0,
       "end_time": 1750032764
-    },
-    {
-      "data": "2025-06-15T23:42:09+00:00",
-      "adversario": "GabrielPR_SW",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": false,
-      "timeControl": "600+5",
-      "rating": 1062,
-      "link": "https://www.chess.com/game/live/144343170691",
-      "eco": "B80",
-      "pontos": 0.0,
-      "end_time": 1750030929
-    },
-    {
-      "data": "2025-06-15T21:49:16+00:00",
-      "adversario": "hugn7_tkd",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1062,
-      "link": "https://www.chess.com/game/live/139634698666",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1750024156
-    },
-    {
-      "data": "2025-06-15T16:05:44+00:00",
-      "adversario": "Johnhenderz",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1070,
-      "link": "https://www.chess.com/game/live/139624127454",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1750003544
-    },
-    {
-      "data": "2025-06-15T14:33:46+00:00",
-      "adversario": "Wittgenwey",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1062,
-      "link": "https://www.chess.com/game/live/139621136012",
-      "eco": "C45",
-      "pontos": 1.0,
-      "end_time": 1749998026
-    },
-    {
-      "data": "2025-06-15T13:15:36+00:00",
-      "adversario": "peteypoooo",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1054,
-      "link": "https://www.chess.com/game/live/139618488458",
-      "eco": "C00",
-      "pontos": 1.0,
-      "end_time": 1749993336
-    },
-    {
-      "data": "2025-06-15T01:06:56+00:00",
-      "adversario": "HughGanus002",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1046,
-      "link": "https://www.chess.com/game/live/139601981142",
-      "eco": "C45",
-      "pontos": 1.0,
-      "end_time": 1749949616
     }
   ]
 }
