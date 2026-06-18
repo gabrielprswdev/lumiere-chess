@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-06-18T00:22:49+00:00",
+      "adversario": "SaveD_ttk",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/176055555383",
+      "eco": "C43",
+      "pontos": 1.0,
+      "end_time": 1781742169
+    },
+    {
+      "data": "2026-06-18T00:15:05+00:00",
+      "adversario": "MRSCHESSOF",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/176054955415",
+      "eco": "B13",
+      "pontos": 0.0,
+      "end_time": 1781741705
+    },
+    {
+      "data": "2026-06-18T00:05:08+00:00",
+      "adversario": "ykaro_peao",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/176054355377",
+      "eco": "C47",
+      "pontos": 1.0,
+      "end_time": 1781741108
+    },
+    {
+      "data": "2026-06-17T23:51:40+00:00",
+      "adversario": "geek25x",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/176053755355",
+      "eco": "B32",
+      "pontos": 1.0,
+      "end_time": 1781740300
+    },
+    {
+      "data": "2026-06-17T23:40:13+00:00",
+      "adversario": "Floki793",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/176053155261",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1781739613
+    },
+    {
       "data": "2026-06-17T23:08:36+00:00",
       "adversario": "Jonass77",
       "cor": "Brancas",
@@ -91168,45 +91233,6 @@
       "eco": "C44",
       "pontos": 1.0,
       "end_time": 1750248748
-    },
-    {
-      "data": "2025-06-17T19:32:04+00:00",
-      "adversario": "Spirit64",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1614,
-      "link": "https://www.chess.com/game/live/139706343630",
-      "eco": "B13",
-      "pontos": 0.0,
-      "end_time": 1750188724
-    },
-    {
-      "data": "2025-06-17T19:07:20+00:00",
-      "adversario": "rileymuff",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1614,
-      "link": "https://www.chess.com/game/live/139705142558",
-      "eco": "C01",
-      "pontos": 1.0,
-      "end_time": 1750187240
-    },
-    {
-      "data": "2025-06-17T18:04:45+00:00",
-      "adversario": "aziel25chess",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1614,
-      "link": "https://www.chess.com/game/live/139703445980",
-      "eco": "C28",
-      "pontos": 0.0,
-      "end_time": 1750183485
     }
   ]
 }
