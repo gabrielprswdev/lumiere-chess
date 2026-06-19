@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-06-19T14:50:15+00:00",
+      "adversario": "Anass_M",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2030,
+      "link": "https://www.chess.com/game/live/170421209708",
+      "eco": "C53",
+      "pontos": 1.0,
+      "end_time": 1781880615
+    },
+    {
+      "data": "2026-06-19T14:38:13+00:00",
+      "adversario": "shanshannmm",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2022,
+      "link": "https://www.chess.com/game/live/170420387562",
+      "eco": "C47",
+      "pontos": 0.0,
+      "end_time": 1781879893
+    },
+    {
+      "data": "2026-06-19T14:19:08+00:00",
+      "adversario": "Sajal_Sharma",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2030,
+      "link": "https://www.chess.com/game/live/170419911474",
+      "eco": "C20",
+      "pontos": 0.0,
+      "end_time": 1781878748
+    },
+    {
       "data": "2026-06-18T23:28:11+00:00",
       "adversario": "Mavie_Chess",
       "cor": "Pretas",
