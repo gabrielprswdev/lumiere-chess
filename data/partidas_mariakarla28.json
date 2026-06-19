@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-19T16:09:08+00:00",
+      "adversario": "Fulgens9",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 679,
+      "link": "https://www.chess.com/game/live/170424782212",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1781885348
+    },
+    {
       "data": "2026-06-18T13:21:07+00:00",
       "adversario": "rayhaann76",
       "cor": "Brancas",
@@ -15586,84 +15599,6 @@
       "eco": "B00",
       "pontos": 1.0,
       "end_time": 1750338836
-    },
-    {
-      "data": "2025-06-18T14:02:31+00:00",
-      "adversario": "nicollasps",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1046,
-      "link": "https://www.chess.com/game/live/144568172969",
-      "eco": "B80",
-      "pontos": 0.0,
-      "end_time": 1750255351
-    },
-    {
-      "data": "2025-06-18T13:47:33+00:00",
-      "adversario": "RelievedDrizzle",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1046,
-      "link": "https://www.chess.com/game/live/144566980495",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1750254453
-    },
-    {
-      "data": "2025-06-18T13:33:37+00:00",
-      "adversario": "SableTable",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1046,
-      "link": "https://www.chess.com/game/live/144566373391",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1750253617
-    },
-    {
-      "data": "2025-06-18T13:04:22+00:00",
-      "adversario": "dadusko821",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1046,
-      "link": "https://www.chess.com/game/live/139730930526",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1750251862
-    },
-    {
-      "data": "2025-06-18T12:34:45+00:00",
-      "adversario": "SableTable",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": false,
-      "timeControl": "600+5",
-      "rating": 1054,
-      "link": "https://www.chess.com/game/live/144562769617",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1750250085
-    },
-    {
-      "data": "2025-06-18T12:18:01+00:00",
-      "adversario": "RelievedDrizzle",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": false,
-      "timeControl": "600+5",
-      "rating": 1054,
-      "link": "https://www.chess.com/game/live/144560975833",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1750249081
     }
   ]
 }

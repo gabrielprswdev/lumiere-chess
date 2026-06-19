@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-06-19T16:41:22+00:00",
+      "adversario": "Alioufall",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2046,
+      "link": "https://www.chess.com/game/live/170425863446",
+      "eco": "A13",
+      "pontos": 1.0,
+      "end_time": 1781887282
+    },
+    {
+      "data": "2026-06-19T15:31:59+00:00",
+      "adversario": "jir123456",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2038,
+      "link": "https://www.chess.com/game/live/170422778810",
+      "eco": "B38",
+      "pontos": 1.0,
+      "end_time": 1781883119
+    },
+    {
+      "data": "2026-06-19T15:13:46+00:00",
+      "adversario": "Sanjeev65",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2030,
+      "link": "https://www.chess.com/game/live/170422639908",
+      "eco": "C41",
+      "pontos": 1.0,
+      "end_time": 1781882026
+    },
+    {
+      "data": "2026-06-19T15:10:39+00:00",
+      "adversario": "Mohammed-Fadhel",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2022,
+      "link": "https://www.chess.com/game/live/170421741958",
+      "eco": "C24",
+      "pontos": 0.0,
+      "end_time": 1781881839
+    },
+    {
       "data": "2026-06-19T14:50:15+00:00",
       "adversario": "Anass_M",
       "cor": "Brancas",
