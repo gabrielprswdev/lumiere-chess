@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-20T12:06:34+00:00",
+      "adversario": "Ago_Ax",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 686,
+      "link": "https://www.chess.com/game/live/170461267092",
+      "eco": "B44",
+      "pontos": 1.0,
+      "end_time": 1781957194
+    },
+    {
       "data": "2026-06-19T16:09:08+00:00",
       "adversario": "Fulgens9",
       "cor": "Pretas",
@@ -15508,97 +15521,6 @@
       "eco": "B01",
       "pontos": 1.0,
       "end_time": 1750419979
-    },
-    {
-      "data": "2025-06-19T15:37:38+00:00",
-      "adversario": "Georghinoo",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1070,
-      "link": "https://www.chess.com/game/live/139773519578",
-      "eco": "B21",
-      "pontos": 0.0,
-      "end_time": 1750347458
-    },
-    {
-      "data": "2025-06-19T15:22:25+00:00",
-      "adversario": "Kushal30081992",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1078,
-      "link": "https://www.chess.com/game/live/139773175090",
-      "eco": "C40",
-      "pontos": 1.0,
-      "end_time": 1750346545
-    },
-    {
-      "data": "2025-06-19T15:15:13+00:00",
-      "adversario": "Bdr_sensei",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1070,
-      "link": "https://www.chess.com/game/live/139772941012",
-      "eco": "B01",
-      "pontos": 1.0,
-      "end_time": 1750346113
-    },
-    {
-      "data": "2025-06-19T13:48:14+00:00",
-      "adversario": "imranseric",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1062,
-      "link": "https://www.chess.com/game/live/139769472508",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1750340894
-    },
-    {
-      "data": "2025-06-19T13:24:32+00:00",
-      "adversario": "naran_ai",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1070,
-      "link": "https://www.chess.com/game/live/139769193346",
-      "eco": "B21",
-      "pontos": 1.0,
-      "end_time": 1750339472
-    },
-    {
-      "data": "2025-06-19T13:18:07+00:00",
-      "adversario": "Brendan135",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1062,
-      "link": "https://www.chess.com/game/live/139769018650",
-      "eco": "B32",
-      "pontos": 1.0,
-      "end_time": 1750339087
-    },
-    {
-      "data": "2025-06-19T13:13:56+00:00",
-      "adversario": "Krisp_ayyyy",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1054,
-      "link": "https://www.chess.com/game/live/139768835134",
-      "eco": "B00",
-      "pontos": 1.0,
-      "end_time": 1750338836
     }
   ]
 }

@@ -1,6 +1,84 @@
 {
   "partidas": [
     {
+      "data": "2026-06-20T13:56:16+00:00",
+      "adversario": "Ashraf041",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2039,
+      "link": "https://www.chess.com/game/live/170465457702",
+      "eco": "A00",
+      "pontos": 0.0,
+      "end_time": 1781963776
+    },
+    {
+      "data": "2026-06-20T13:46:57+00:00",
+      "adversario": "Rayyan_IAyoub",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2048,
+      "link": "https://www.chess.com/game/live/170464950000",
+      "eco": "D40",
+      "pontos": 1.0,
+      "end_time": 1781963217
+    },
+    {
+      "data": "2026-06-20T13:34:25+00:00",
+      "adversario": "panda_prince",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2040,
+      "link": "https://www.chess.com/game/live/170464681224",
+      "eco": "B38",
+      "pontos": 0.0,
+      "end_time": 1781962465
+    },
+    {
+      "data": "2026-06-20T13:26:02+00:00",
+      "adversario": "matooshka20",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2048,
+      "link": "https://www.chess.com/game/live/170463798432",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1781961962
+    },
+    {
+      "data": "2026-06-20T13:05:26+00:00",
+      "adversario": "Good_boy09",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2039,
+      "link": "https://www.chess.com/game/live/170463372634",
+      "eco": "B13",
+      "pontos": 0.5,
+      "end_time": 1781960726
+    },
+    {
+      "data": "2026-06-20T12:54:38+00:00",
+      "adversario": "edelstahlratte",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2039,
+      "link": "https://www.chess.com/game/live/170463012458",
+      "eco": "C28",
+      "pontos": 0.0,
+      "end_time": 1781960078
+    },
+    {
       "data": "2026-06-19T16:41:22+00:00",
       "adversario": "Alioufall",
       "cor": "Pretas",
@@ -91363,45 +91441,6 @@
       "eco": "C28",
       "pontos": 0.0,
       "end_time": 1750382133
-    },
-    {
-      "data": "2025-06-19T12:52:00+00:00",
-      "adversario": "MarcoEsposo",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1630,
-      "link": "https://www.chess.com/game/live/139768044758",
-      "eco": "C42",
-      "pontos": 1.0,
-      "end_time": 1750337520
-    },
-    {
-      "data": "2025-06-19T12:26:20+00:00",
-      "adversario": "KH2012",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1622,
-      "link": "https://www.chess.com/game/live/139766938480",
-      "eco": "D35",
-      "pontos": 1.0,
-      "end_time": 1750335980
-    },
-    {
-      "data": "2025-06-19T12:03:18+00:00",
-      "adversario": "Gyourj",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1614,
-      "link": "https://www.chess.com/game/live/139766413736",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1750334598
     }
   ]
 }
