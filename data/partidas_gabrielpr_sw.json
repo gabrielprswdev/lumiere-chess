@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-06-20T14:45:15+00:00",
+      "adversario": "DonMugger",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2050,
+      "link": "https://www.chess.com/game/live/170467132842",
+      "eco": "B32",
+      "pontos": 1.0,
+      "end_time": 1781966715
+    },
+    {
+      "data": "2026-06-20T14:27:16+00:00",
+      "adversario": "Kkls1402",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2042,
+      "link": "https://www.chess.com/game/live/170466547664",
+      "eco": "B13",
+      "pontos": 0.5,
+      "end_time": 1781965636
+    },
+    {
+      "data": "2026-06-20T14:13:44+00:00",
+      "adversario": "Depresa1",
+      "cor": "Pretas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2042,
+      "link": "https://www.chess.com/game/live/170465837050",
+      "eco": "C47",
+      "pontos": 0.5,
+      "end_time": 1781964824
+    },
+    {
       "data": "2026-06-20T13:56:16+00:00",
       "adversario": "Ashraf041",
       "cor": "Pretas",
