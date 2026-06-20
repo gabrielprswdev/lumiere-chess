@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-20T20:54:49+00:00",
+      "adversario": "Filipe-C",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2050,
+      "link": "https://www.chess.com/game/live/170481815600",
+      "eco": "A46",
+      "pontos": 1.0,
+      "end_time": 1781988889
+    },
+    {
       "data": "2026-06-20T18:31:59+00:00",
       "adversario": "Filipe-C",
       "cor": "Brancas",
