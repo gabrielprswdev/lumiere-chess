@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-06-20T17:50:47+00:00",
+      "adversario": "niko_tower",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 718,
+      "link": "https://www.chess.com/game/live/170475280916",
+      "eco": "C45",
+      "pontos": 0.5,
+      "end_time": 1781977847
+    },
+    {
+      "data": "2026-06-20T17:42:53+00:00",
+      "adversario": "trstnext",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 718,
+      "link": "https://www.chess.com/game/live/170475021858",
+      "eco": "B40",
+      "pontos": 1.0,
+      "end_time": 1781977373
+    },
+    {
+      "data": "2026-06-20T17:36:19+00:00",
+      "adversario": "tjujfjctnhcnfchv",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 710,
+      "link": "https://www.chess.com/game/live/170474943030",
+      "eco": "B30",
+      "pontos": 1.0,
+      "end_time": 1781976979
+    },
+    {
+      "data": "2026-06-20T17:34:18+00:00",
+      "adversario": "Stanislas_G",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 702,
+      "link": "https://www.chess.com/game/live/170474889134",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1781976858
+    },
+    {
+      "data": "2026-06-20T17:32:58+00:00",
+      "adversario": "MozartYT",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 694,
+      "link": "https://www.chess.com/game/live/170474759706",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1781976778
+    },
+    {
       "data": "2026-06-20T12:06:34+00:00",
       "adversario": "Ago_Ax",
       "cor": "Pretas",
