@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-20T16:58:12+00:00",
+      "adversario": "Agnivesh07",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1406,
+      "link": "https://www.chess.com/game/live/170473430856",
+      "eco": "B08",
+      "pontos": 1.0,
+      "end_time": 1781974692
+    },
+    {
       "data": "2026-06-18T14:58:05+00:00",
       "adversario": "Ashot25",
       "cor": "Pretas",
