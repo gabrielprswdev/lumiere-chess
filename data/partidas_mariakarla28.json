@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-06-21T20:37:00+00:00",
+      "adversario": "konstantine-1989",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 741,
+      "link": "https://www.chess.com/game/live/170527517266",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1782074220
+    },
+    {
+      "data": "2026-06-21T20:31:18+00:00",
+      "adversario": "King_phelps",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 749,
+      "link": "https://www.chess.com/game/live/170527360552",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1782073878
+    },
+    {
+      "data": "2026-06-21T20:27:19+00:00",
+      "adversario": "potatoking84",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 741,
+      "link": "https://www.chess.com/game/live/170527324438",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1782073639
+    },
+    {
+      "data": "2026-06-21T20:26:15+00:00",
+      "adversario": "Dmitry_Adoniev",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 733,
+      "link": "https://www.chess.com/game/live/170527305536",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1782073575
+    },
+    {
       "data": "2026-06-21T13:18:07+00:00",
       "adversario": "Oktacheck",
       "cor": "Brancas",
