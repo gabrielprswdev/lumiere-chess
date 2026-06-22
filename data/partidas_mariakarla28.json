@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-06-22T12:32:17+00:00",
+      "adversario": "queenskings74",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 725,
+      "link": "https://www.chess.com/game/live/170553529768",
+      "eco": "B02",
+      "pontos": 0.0,
+      "end_time": 1782131537
+    },
+    {
+      "data": "2026-06-22T12:23:36+00:00",
+      "adversario": "wrestlifer",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 733,
+      "link": "https://www.chess.com/game/live/170553417178",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1782131016
+    },
+    {
+      "data": "2026-06-22T12:20:55+00:00",
+      "adversario": "SAMBANDKAR",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 741,
+      "link": "https://www.chess.com/game/live/170553179658",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1782130855
+    },
+    {
+      "data": "2026-06-22T12:14:51+00:00",
+      "adversario": "FluerasPetru",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 733,
+      "link": "https://www.chess.com/game/live/170553111354",
+      "eco": "B50",
+      "pontos": 0.0,
+      "end_time": 1782130491
+    },
+    {
       "data": "2026-06-21T20:37:00+00:00",
       "adversario": "konstantine-1989",
       "cor": "Brancas",
@@ -15560,97 +15612,6 @@
       "eco": "B20",
       "pontos": 0.0,
       "end_time": 1750550950
-    },
-    {
-      "data": "2025-06-21T23:01:10+00:00",
-      "adversario": "samuelm181",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 442,
-      "link": "https://www.chess.com/game/live/139859824866",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1750546870
-    },
-    {
-      "data": "2025-06-21T19:15:46+00:00",
-      "adversario": "oscarandroid1964",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1053,
-      "link": "https://www.chess.com/game/live/139853867536",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1750533346
-    },
-    {
-      "data": "2025-06-21T15:23:04+00:00",
-      "adversario": "emilwirdsiegen",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 435,
-      "link": "https://www.chess.com/game/live/139846869578",
-      "eco": "B22",
-      "pontos": 1.0,
-      "end_time": 1750519384
-    },
-    {
-      "data": "2025-06-21T15:19:36+00:00",
-      "adversario": "brnmtf",
-      "cor": "Brancas",
-      "resultado": "abandoned",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 427,
-      "link": "https://www.chess.com/game/live/139846817410",
-      "eco": "C40",
-      "pontos": 0.0,
-      "end_time": 1750519176
-    },
-    {
-      "data": "2025-06-21T15:18:50+00:00",
-      "adversario": "Bakkie_the_Prodigy",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 434,
-      "link": "https://www.chess.com/game/live/139846783228",
-      "eco": "B01",
-      "pontos": 1.0,
-      "end_time": 1750519130
-    },
-    {
-      "data": "2025-06-21T12:06:58+00:00",
-      "adversario": "LaPlumada",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "180+2",
-      "rating": 421,
-      "link": "https://www.chess.com/game/live/139840618046",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1750507618
-    },
-    {
-      "data": "2025-06-21T10:14:50+00:00",
-      "adversario": "PaPaBeLe",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1061,
-      "link": "https://www.chess.com/game/live/139837243724",
-      "eco": "A13",
-      "pontos": 0.0,
-      "end_time": 1750500890
     }
   ]
 }
