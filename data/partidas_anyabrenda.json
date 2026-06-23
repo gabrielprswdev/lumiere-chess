@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-06-23T04:26:09+00:00",
+      "adversario": "Dunnck",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "60",
+      "rating": 1412,
+      "link": "https://www.chess.com/game/live/170586303876",
+      "eco": "B30",
+      "pontos": 1.0,
+      "end_time": 1782188769
+    },
+    {
+      "data": "2026-06-23T04:23:05+00:00",
+      "adversario": "Dunnck",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "60",
+      "rating": 1412,
+      "link": "https://www.chess.com/game/live/170586235384",
+      "eco": "B30",
+      "pontos": 1.0,
+      "end_time": 1782188585
+    },
+    {
+      "data": "2026-06-23T04:20:24+00:00",
+      "adversario": "alearean",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1412,
+      "link": "https://www.chess.com/game/live/170586194572",
+      "eco": "A01",
+      "pontos": 1.0,
+      "end_time": 1782188424
+    },
+    {
+      "data": "2026-06-23T04:18:53+00:00",
+      "adversario": "DeBaer333",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1405,
+      "link": "https://www.chess.com/game/live/170586164678",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1782188333
+    },
+    {
+      "data": "2026-06-23T00:18:43+00:00",
+      "adversario": "M-saber0000",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1414,
+      "link": "https://www.chess.com/game/live/170580686368",
+      "eco": "A04",
+      "pontos": 1.0,
+      "end_time": 1782173923
+    },
+    {
       "data": "2026-06-20T16:58:12+00:00",
       "adversario": "Agnivesh07",
       "cor": "Brancas",
