@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-23T11:52:21+00:00",
+      "adversario": "Seynethicchess",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 717,
+      "link": "https://www.chess.com/game/live/170599629830",
+      "eco": "B01",
+      "pontos": 0.0,
+      "end_time": 1782215541
+    },
+    {
       "data": "2026-06-22T12:32:17+00:00",
       "adversario": "queenskings74",
       "cor": "Brancas",
@@ -15534,84 +15547,6 @@
       "eco": "B40",
       "pontos": 1.0,
       "end_time": 1750673829
-    },
-    {
-      "data": "2025-06-22T20:32:35+00:00",
-      "adversario": "juki_global",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1037,
-      "link": "https://www.chess.com/game/live/139892254982",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1750624355
-    },
-    {
-      "data": "2025-06-22T17:50:26+00:00",
-      "adversario": "Cerictyus",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1045,
-      "link": "https://www.chess.com/game/live/139887305112",
-      "eco": "C45",
-      "pontos": 1.0,
-      "end_time": 1750614626
-    },
-    {
-      "data": "2025-06-22T16:57:20+00:00",
-      "adversario": "Hehesunil",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180+2",
-      "rating": 404,
-      "link": "https://www.chess.com/game/live/139885754288",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1750611440
-    },
-    {
-      "data": "2025-06-22T13:42:22+00:00",
-      "adversario": "chrisTokou",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180+2",
-      "rating": 413,
-      "link": "https://www.chess.com/game/live/139879285708",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1750599742
-    },
-    {
-      "data": "2025-06-22T10:16:15+00:00",
-      "adversario": "ajaytigga",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1037,
-      "link": "https://www.chess.com/game/live/139873259498",
-      "eco": "C41",
-      "pontos": 0.0,
-      "end_time": 1750587375
-    },
-    {
-      "data": "2025-06-22T00:09:10+00:00",
-      "adversario": "houdinipizza",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1045,
-      "link": "https://www.chess.com/game/live/139861021462",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1750550950
     }
   ]
 }
