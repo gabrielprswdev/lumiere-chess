@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-06-23T23:43:23+00:00",
+      "adversario": "hanker1313im",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1425,
+      "link": "https://www.chess.com/game/live/170627034954",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1782258203
+    },
+    {
+      "data": "2026-06-23T23:34:39+00:00",
+      "adversario": "mattperls",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1419,
+      "link": "https://www.chess.com/game/live/170626841574",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1782257679
+    },
+    {
+      "data": "2026-06-23T23:33:14+00:00",
+      "adversario": "bongobongoX",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1410,
+      "link": "https://www.chess.com/game/live/170626789566",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1782257594
+    },
+    {
+      "data": "2026-06-23T23:30:31+00:00",
+      "adversario": "NMJoelChess",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1418,
+      "link": "https://www.chess.com/game/live/170626719798",
+      "eco": "B13",
+      "pontos": 1.0,
+      "end_time": 1782257431
+    },
+    {
       "data": "2026-06-23T04:26:09+00:00",
       "adversario": "Dunnck",
       "cor": "Brancas",
