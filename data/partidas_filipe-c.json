@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-06-25T23:02:07+00:00",
+      "adversario": "Akashii-02",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 750,
+      "link": "https://www.chess.com/game/live/170719520032",
+      "eco": "D94",
+      "pontos": 0.0,
+      "end_time": 1782428527
+    },
+    {
+      "data": "2026-06-25T22:32:36+00:00",
+      "adversario": "Caio_Henriq",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 750,
+      "link": "https://www.chess.com/game/live/170718915668",
+      "eco": "D11",
+      "pontos": 0.5,
+      "end_time": 1782426756
+    },
+    {
+      "data": "2026-06-25T22:23:02+00:00",
+      "adversario": "MendigoManco",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 750,
+      "link": "https://www.chess.com/game/live/170718527756",
+      "eco": "E60",
+      "pontos": 1.0,
+      "end_time": 1782426182
+    },
+    {
+      "data": "2026-06-25T22:10:26+00:00",
+      "adversario": "Tanggang7",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 750,
+      "link": "https://www.chess.com/game/live/170718391680",
+      "eco": "B30",
+      "pontos": 0.0,
+      "end_time": 1782425426
+    },
+    {
+      "data": "2026-06-25T21:57:11+00:00",
+      "adversario": "soorikumar",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 758,
+      "link": "https://www.chess.com/game/live/170717876968",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1782424631
+    },
+    {
       "data": "2026-06-25T21:44:20+00:00",
       "adversario": "Thiago25i",
       "cor": "Pretas",
