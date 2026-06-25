@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-06-25T17:25:29+00:00",
+      "adversario": "ASHRAF2max",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 775,
+      "link": "https://www.chess.com/game/live/170707446444",
+      "eco": "A46",
+      "pontos": 1.0,
+      "end_time": 1782408329
+    },
+    {
+      "data": "2026-06-25T17:11:22+00:00",
+      "adversario": "renato-silveira",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "1/604800",
+      "rating": 824,
+      "link": "https://www.chess.com/game/daily/988580660",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1782407482
+    },
+    {
       "data": "2026-06-25T16:18:18+00:00",
       "adversario": "SurjeetSwain",
       "cor": "Pretas",
