@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-06-25T21:44:20+00:00",
+      "adversario": "Thiago25i",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 767,
+      "link": "https://www.chess.com/game/live/170717294252",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1782423860
+    },
+    {
+      "data": "2026-06-25T21:25:28+00:00",
+      "adversario": "SnakyPanda",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 775,
+      "link": "https://www.chess.com/game/live/170716920986",
+      "eco": "A22",
+      "pontos": 0.0,
+      "end_time": 1782422728
+    },
+    {
+      "data": "2026-06-25T21:04:29+00:00",
+      "adversario": "Pullo74",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 783,
+      "link": "https://www.chess.com/game/live/170715803106",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1782421469
+    },
+    {
+      "data": "2026-06-25T20:31:32+00:00",
+      "adversario": "siirmavisi55",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 791,
+      "link": "https://www.chess.com/game/live/170714852010",
+      "eco": "B30",
+      "pontos": 1.0,
+      "end_time": 1782419492
+    },
+    {
+      "data": "2026-06-25T20:08:20+00:00",
+      "adversario": "walterate",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 783,
+      "link": "https://www.chess.com/game/live/170714453818",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1782418100
+    },
+    {
       "data": "2026-06-25T17:25:29+00:00",
       "adversario": "ASHRAF2max",
       "cor": "Brancas",
