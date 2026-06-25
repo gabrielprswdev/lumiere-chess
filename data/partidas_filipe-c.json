@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-25T09:19:56+00:00",
+      "adversario": "michel_gmes",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "1/259200",
+      "rating": 857,
+      "link": "https://www.chess.com/game/daily/989741620",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1782379196
+    },
+    {
       "data": "2026-06-25T05:01:21+00:00",
       "adversario": "kaselarab",
       "cor": "Brancas",

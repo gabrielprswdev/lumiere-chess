@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-06-25T11:21:24+00:00",
+      "adversario": "liviu10001",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 767,
+      "link": "https://www.chess.com/game/live/170692421204",
+      "eco": "B22",
+      "pontos": 0.0,
+      "end_time": 1782386484
+    },
+    {
+      "data": "2026-06-25T11:11:08+00:00",
+      "adversario": "jim_ky",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 775,
+      "link": "https://www.chess.com/game/live/170692275784",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1782385868
+    },
+    {
+      "data": "2026-06-25T11:07:14+00:00",
+      "adversario": "VladimirKlimin",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 767,
+      "link": "https://www.chess.com/game/live/170692112574",
+      "eco": "B40",
+      "pontos": 1.0,
+      "end_time": 1782385634
+    },
+    {
       "data": "2026-06-24T11:31:41+00:00",
       "adversario": "Mistaecho679",
       "cor": "Brancas",
@@ -15482,110 +15521,6 @@
       "eco": "C45",
       "pontos": 0.0,
       "end_time": 1750849157
-    },
-    {
-      "data": "2025-06-24T19:51:25+00:00",
-      "adversario": "Paslek",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1076,
-      "link": "https://www.chess.com/game/live/139965517724",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1750794685
-    },
-    {
-      "data": "2025-06-24T19:29:53+00:00",
-      "adversario": "USAROCKS24",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1084,
-      "link": "https://www.chess.com/game/live/139964444770",
-      "eco": "A46",
-      "pontos": 1.0,
-      "end_time": 1750793393
-    },
-    {
-      "data": "2025-06-24T15:02:41+00:00",
-      "adversario": "Taryanaa",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 434,
-      "link": "https://www.chess.com/game/live/139955904686",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1750777361
-    },
-    {
-      "data": "2025-06-24T14:49:56+00:00",
-      "adversario": "ianlindsay2010",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1077,
-      "link": "https://www.chess.com/game/live/139955384496",
-      "eco": "C45",
-      "pontos": 1.0,
-      "end_time": 1750776596
-    },
-    {
-      "data": "2025-06-24T14:34:20+00:00",
-      "adversario": "edr0o",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1069,
-      "link": "https://www.chess.com/game/live/139954656048",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1750775660
-    },
-    {
-      "data": "2025-06-24T14:24:08+00:00",
-      "adversario": "Soditoprod",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1061,
-      "link": "https://www.chess.com/game/live/139954626994",
-      "eco": "B01",
-      "pontos": 1.0,
-      "end_time": 1750775048
-    },
-    {
-      "data": "2025-06-24T13:58:12+00:00",
-      "adversario": "Stealthycowbell",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1053,
-      "link": "https://www.chess.com/game/live/139953329656",
-      "eco": "B86",
-      "pontos": 1.0,
-      "end_time": 1750773492
-    },
-    {
-      "data": "2025-06-24T12:13:53+00:00",
-      "adversario": "R_Barbosa",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1045,
-      "link": "https://www.chess.com/game/live/139950195740",
-      "eco": "B27",
-      "pontos": 1.0,
-      "end_time": 1750767233
     }
   ]
 }
