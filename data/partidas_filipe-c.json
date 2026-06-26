@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-06-26T22:03:43+00:00",
+      "adversario": "armannasr",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 727,
+      "link": "https://www.chess.com/game/live/170765007914",
+      "eco": "B30",
+      "pontos": 1.0,
+      "end_time": 1782511423
+    },
+    {
+      "data": "2026-06-26T21:43:38+00:00",
+      "adversario": "261leti",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 718,
+      "link": "https://www.chess.com/game/live/170764231330",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1782510218
+    },
+    {
+      "data": "2026-06-26T21:02:41+00:00",
+      "adversario": "petsitter7256",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 727,
+      "link": "https://www.chess.com/game/live/170763183016",
+      "eco": "A80",
+      "pontos": 0.0,
+      "end_time": 1782507761
+    },
+    {
+      "data": "2026-06-26T20:49:41+00:00",
+      "adversario": "Fornasari82",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 735,
+      "link": "https://www.chess.com/game/live/170762805684",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1782506981
+    },
+    {
       "data": "2026-06-26T20:42:51+00:00",
       "adversario": "vbiss",
       "cor": "Pretas",
