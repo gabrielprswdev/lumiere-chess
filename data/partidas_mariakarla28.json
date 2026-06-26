@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-06-26T19:32:27+00:00",
+      "adversario": "FizzionKEKW",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 768,
+      "link": "https://www.chess.com/game/live/170760060588",
+      "eco": "C44",
+      "pontos": 0.0,
+      "end_time": 1782502347
+    },
+    {
+      "data": "2026-06-26T19:24:34+00:00",
+      "adversario": "selcan14",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 776,
+      "link": "https://www.chess.com/game/live/170759767288",
+      "eco": "A60",
+      "pontos": 1.0,
+      "end_time": 1782501874
+    },
+    {
       "data": "2026-06-25T11:21:24+00:00",
       "adversario": "liviu10001",
       "cor": "Pretas",
@@ -15469,58 +15495,6 @@
       "eco": "C41",
       "pontos": 1.0,
       "end_time": 1750938644
-    },
-    {
-      "data": "2025-06-25T23:26:47+00:00",
-      "adversario": "machine0921",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1076,
-      "link": "https://www.chess.com/game/live/140008733598",
-      "eco": "B80",
-      "pontos": 1.0,
-      "end_time": 1750894007
-    },
-    {
-      "data": "2025-06-25T20:07:16+00:00",
-      "adversario": "tdjenkins",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1068,
-      "link": "https://www.chess.com/game/live/140003636398",
-      "eco": "D20",
-      "pontos": 0.0,
-      "end_time": 1750882036
-    },
-    {
-      "data": "2025-06-25T18:13:24+00:00",
-      "adversario": "Stillmoving",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1068,
-      "link": "https://www.chess.com/game/live/139999919244",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1750875204
-    },
-    {
-      "data": "2025-06-25T10:59:17+00:00",
-      "adversario": "jackilaken",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1068,
-      "link": "https://www.chess.com/game/live/139985589272",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1750849157
     }
   ]
 }

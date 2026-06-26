@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-06-26T20:42:51+00:00",
+      "adversario": "vbiss",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 727,
+      "link": "https://www.chess.com/game/live/170762608680",
+      "eco": "C44",
+      "pontos": 0.0,
+      "end_time": 1782506571
+    },
+    {
+      "data": "2026-06-26T20:36:39+00:00",
+      "adversario": "luzfilipe01",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 735,
+      "link": "https://www.chess.com/game/live/170762038150",
+      "eco": "A41",
+      "pontos": 1.0,
+      "end_time": 1782506199
+    },
+    {
       "data": "2026-06-26T02:07:25+00:00",
       "adversario": "shaurya_0007",
       "cor": "Brancas",
