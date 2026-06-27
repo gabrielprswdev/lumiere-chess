@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-27T14:37:59+00:00",
+      "adversario": "sparks4321",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2017,
+      "link": "https://www.chess.com/game/live/170793509796",
+      "eco": "C30",
+      "pontos": 1.0,
+      "end_time": 1782571079
+    },
+    {
       "data": "2026-06-27T14:22:23+00:00",
       "adversario": "bigo1306",
       "cor": "Pretas",
