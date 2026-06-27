@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-06-27T14:22:23+00:00",
+      "adversario": "bigo1306",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2009,
+      "link": "https://www.chess.com/game/live/170792751584",
+      "eco": "C47",
+      "pontos": 0.0,
+      "end_time": 1782570143
+    },
+    {
+      "data": "2026-06-27T14:03:53+00:00",
+      "adversario": "anathnoenlle",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2017,
+      "link": "https://www.chess.com/game/live/170791973270",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1782569033
+    },
+    {
+      "data": "2026-06-27T13:44:52+00:00",
+      "adversario": "mustafa_deniz",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2009,
+      "link": "https://www.chess.com/game/live/170791145218",
+      "eco": "B10",
+      "pontos": 0.5,
+      "end_time": 1782567892
+    },
+    {
+      "data": "2026-06-27T13:14:07+00:00",
+      "adversario": "elsie147",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2009,
+      "link": "https://www.chess.com/game/live/170790160034",
+      "eco": "E00",
+      "pontos": 1.0,
+      "end_time": 1782566047
+    },
+    {
       "data": "2026-06-26T22:35:17+00:00",
       "adversario": "SlickCinnamon",
       "cor": "Pretas",
