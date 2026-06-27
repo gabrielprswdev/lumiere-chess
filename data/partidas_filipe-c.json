@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-06-27T20:03:39+00:00",
+      "adversario": "Gazkarbonix",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 781,
+      "link": "https://www.chess.com/game/live/170806560698",
+      "eco": "B07",
+      "pontos": 1.0,
+      "end_time": 1782590619
+    },
+    {
+      "data": "2026-06-27T19:38:48+00:00",
+      "adversario": "aydn1313",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 773,
+      "link": "https://www.chess.com/game/live/170806329972",
+      "eco": "A01",
+      "pontos": 1.0,
+      "end_time": 1782589128
+    },
+    {
+      "data": "2026-06-27T19:38:11+00:00",
+      "adversario": "Carlo_002",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 765,
+      "link": "https://www.chess.com/game/live/170805789006",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1782589091
+    },
+    {
       "data": "2026-06-27T03:47:37+00:00",
       "adversario": "RawasTheSlayer",
       "cor": "Pretas",
