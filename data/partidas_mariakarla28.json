@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-06-28T10:53:52+00:00",
+      "adversario": "jclanterna",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 737,
+      "link": "https://www.chess.com/game/live/170830605416",
+      "eco": "B40",
+      "pontos": 0.0,
+      "end_time": 1782644032
+    },
+    {
+      "data": "2026-06-28T10:44:02+00:00",
+      "adversario": "vishu8904",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 745,
+      "link": "https://www.chess.com/game/live/170830377604",
+      "eco": "B21",
+      "pontos": 0.0,
+      "end_time": 1782643442
+    },
+    {
+      "data": "2026-06-28T10:37:29+00:00",
+      "adversario": "Nero131",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 753,
+      "link": "https://www.chess.com/game/live/170830169860",
+      "eco": "B22",
+      "pontos": 1.0,
+      "end_time": 1782643049
+    },
+    {
       "data": "2026-06-27T11:10:02+00:00",
       "adversario": "qbatt_t",
       "cor": "Brancas",
@@ -15365,19 +15404,6 @@
       "eco": "A45",
       "pontos": 0.0,
       "end_time": 1751104140
-    },
-    {
-      "data": "2025-06-27T19:04:48+00:00",
-      "adversario": "user_guest2194",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1067,
-      "link": "https://www.chess.com/game/live/140076649648",
-      "eco": "A45",
-      "pontos": 0.0,
-      "end_time": 1751051088
     }
   ]
 }
