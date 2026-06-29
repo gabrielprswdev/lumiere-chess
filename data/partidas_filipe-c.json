@@ -1,6 +1,84 @@
 {
   "partidas": [
     {
+      "data": "2026-06-28T22:59:18+00:00",
+      "adversario": "aidanseeban",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 731,
+      "link": "https://www.chess.com/game/live/170858226260",
+      "eco": "B23",
+      "pontos": 0.0,
+      "end_time": 1782687558
+    },
+    {
+      "data": "2026-06-28T22:56:55+00:00",
+      "adversario": "PiereNiyum",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 739,
+      "link": "https://www.chess.com/game/live/170858067422",
+      "eco": "A00",
+      "pontos": 0.0,
+      "end_time": 1782687415
+    },
+    {
+      "data": "2026-06-28T22:50:36+00:00",
+      "adversario": "Russell1231",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 747,
+      "link": "https://www.chess.com/game/live/170857899550",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1782687036
+    },
+    {
+      "data": "2026-06-28T22:43:39+00:00",
+      "adversario": "kemossabi",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 755,
+      "link": "https://www.chess.com/game/live/170857711856",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1782686619
+    },
+    {
+      "data": "2026-06-28T22:36:55+00:00",
+      "adversario": "Regent3",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 747,
+      "link": "https://www.chess.com/game/live/170857412490",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1782686215
+    },
+    {
+      "data": "2026-06-28T22:25:47+00:00",
+      "adversario": "pedro1231129",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 755,
+      "link": "https://www.chess.com/game/live/170857234858",
+      "eco": "B21",
+      "pontos": 0.0,
+      "end_time": 1782685547
+    },
+    {
       "data": "2026-06-28T04:55:38+00:00",
       "adversario": "Raghu-M",
       "cor": "Pretas",
@@ -31355,71 +31433,6 @@
       "eco": "D00",
       "pontos": 0.0,
       "end_time": 1751163954
-    },
-    {
-      "data": "2025-06-28T22:07:11+00:00",
-      "adversario": "Lua_VB",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 339,
-      "link": "https://www.chess.com/game/live/140117050486",
-      "eco": "C42",
-      "pontos": 1.0,
-      "end_time": 1751148431
-    },
-    {
-      "data": "2025-06-28T03:31:32+00:00",
-      "adversario": "txtomgen",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 331,
-      "link": "https://www.chess.com/game/live/140087430604",
-      "eco": "A20",
-      "pontos": 1.0,
-      "end_time": 1751081492
-    },
-    {
-      "data": "2025-06-28T03:17:58+00:00",
-      "adversario": "zagoan",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 323,
-      "link": "https://www.chess.com/game/live/140087276466",
-      "eco": "C20",
-      "pontos": 0.0,
-      "end_time": 1751080678
-    },
-    {
-      "data": "2025-06-28T03:09:29+00:00",
-      "adversario": "ohnopradono",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 331,
-      "link": "https://www.chess.com/game/live/140087078290",
-      "eco": "A40",
-      "pontos": 0.0,
-      "end_time": 1751080169
-    },
-    {
-      "data": "2025-06-28T02:58:06+00:00",
-      "adversario": "aroulll",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 339,
-      "link": "https://www.chess.com/game/live/140086974422",
-      "eco": "C33",
-      "pontos": 1.0,
-      "end_time": 1751079486
     }
   ]
 }
