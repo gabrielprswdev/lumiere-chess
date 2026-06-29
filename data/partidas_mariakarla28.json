@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-06-29T11:36:22+00:00",
+      "adversario": "SaveNature141",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 738,
+      "link": "https://www.chess.com/game/live/170877988392",
+      "eco": "B40",
+      "pontos": 0.0,
+      "end_time": 1782732982
+    },
+    {
+      "data": "2026-06-29T11:26:55+00:00",
+      "adversario": "Bahru85",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 745,
+      "link": "https://www.chess.com/game/live/170877490370",
+      "eco": "C47",
+      "pontos": 1.0,
+      "end_time": 1782732415
+    },
+    {
       "data": "2026-06-28T10:53:52+00:00",
       "adversario": "jclanterna",
       "cor": "Pretas",
@@ -15352,58 +15378,6 @@
       "eco": "C41",
       "pontos": 0.0,
       "end_time": 1751196306
-    },
-    {
-      "data": "2025-06-28T19:09:59+00:00",
-      "adversario": "Golden_Luluss",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1059,
-      "link": "https://www.chess.com/game/live/140112535168",
-      "eco": "B21",
-      "pontos": 0.0,
-      "end_time": 1751137799
-    },
-    {
-      "data": "2025-06-28T18:46:53+00:00",
-      "adversario": "zbyszekgron",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1059,
-      "link": "https://www.chess.com/game/live/140111725124",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1751136413
-    },
-    {
-      "data": "2025-06-28T18:30:15+00:00",
-      "adversario": "Ventanus",
-      "cor": "Brancas",
-      "resultado": "abandoned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1051,
-      "link": "https://www.chess.com/game/live/140111594310",
-      "eco": "B01",
-      "pontos": 0.0,
-      "end_time": 1751135415
-    },
-    {
-      "data": "2025-06-28T09:49:00+00:00",
-      "adversario": "DrEdWo",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1059,
-      "link": "https://www.chess.com/game/live/140095652760",
-      "eco": "A45",
-      "pontos": 0.0,
-      "end_time": 1751104140
     }
   ]
 }
