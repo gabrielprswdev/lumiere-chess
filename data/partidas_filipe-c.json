@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-30T00:00:25+00:00",
+      "adversario": "Gabiixy",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 739,
+      "link": "https://www.chess.com/game/live/170905730598",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1782777625
+    },
+    {
       "data": "2026-06-28T22:59:18+00:00",
       "adversario": "aidanseeban",
       "cor": "Pretas",
@@ -31355,84 +31368,6 @@
       "eco": "B23",
       "pontos": 0.0,
       "end_time": 1751242609
-    },
-    {
-      "data": "2025-06-29T23:46:25+00:00",
-      "adversario": "cristobaytu",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 340,
-      "link": "https://www.chess.com/game/live/140155446558",
-      "eco": "B07",
-      "pontos": 1.0,
-      "end_time": 1751240785
-    },
-    {
-      "data": "2025-06-29T21:23:56+00:00",
-      "adversario": "BrandonVIP",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 332,
-      "link": "https://www.chess.com/game/live/140152532706",
-      "eco": "D00",
-      "pontos": 1.0,
-      "end_time": 1751232236
-    },
-    {
-      "data": "2025-06-29T18:17:22+00:00",
-      "adversario": "popey784",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 324,
-      "link": "https://www.chess.com/game/live/140147175920",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1751221042
-    },
-    {
-      "data": "2025-06-29T18:16:02+00:00",
-      "adversario": "Adamh735",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 315,
-      "link": "https://www.chess.com/game/live/140146831904",
-      "eco": "B00",
-      "pontos": 0.0,
-      "end_time": 1751220962
-    },
-    {
-      "data": "2025-06-29T02:31:42+00:00",
-      "adversario": "Gb_mister",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 323,
-      "link": "https://www.chess.com/game/live/140122138972",
-      "eco": "B02",
-      "pontos": 0.0,
-      "end_time": 1751164302
-    },
-    {
-      "data": "2025-06-29T02:25:54+00:00",
-      "adversario": "MostafaomarO",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 331,
-      "link": "https://www.chess.com/game/live/140121952750",
-      "eco": "D00",
-      "pontos": 0.0,
-      "end_time": 1751163954
     }
   ]
 }
