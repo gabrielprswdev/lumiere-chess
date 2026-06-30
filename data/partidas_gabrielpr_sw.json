@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-06-30T00:04:38+00:00",
+      "adversario": "Jhekk",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2002,
+      "link": "https://www.chess.com/game/live/170906024688",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1782777878
+    },
+    {
       "data": "2026-06-30T00:00:49+00:00",
       "adversario": "mondaljyoti",
       "cor": "Pretas",
