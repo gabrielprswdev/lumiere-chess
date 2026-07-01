@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-07-01T22:48:23+00:00",
+      "adversario": "SaveD_ttk",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 761,
+      "link": "https://www.chess.com/game/live/170995352694",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1782946103
+    },
+    {
+      "data": "2026-07-01T22:38:17+00:00",
+      "adversario": "HenriquewantUp",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 761,
+      "link": "https://www.chess.com/game/live/170994999062",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1782945497
+    },
+    {
+      "data": "2026-07-01T22:18:06+00:00",
+      "adversario": "HenriquewantUp",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 452,
+      "link": "https://www.chess.com/game/live/170994595088",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1782944286
+    },
+    {
+      "data": "2026-07-01T21:45:46+00:00",
+      "adversario": "MJrm1388",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 761,
+      "link": "https://www.chess.com/game/live/170993421232",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1782942346
+    },
+    {
       "data": "2026-07-01T21:17:30+00:00",
       "adversario": "alvaretemartin",
       "cor": "Pretas",
