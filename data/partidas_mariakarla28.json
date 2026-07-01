@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-01T11:24:18+00:00",
+      "adversario": "Mahmod024",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 713,
+      "link": "https://www.chess.com/game/live/170969419202",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1782905058
+    },
+    {
+      "data": "2026-07-01T11:13:42+00:00",
+      "adversario": "Mahmod024",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 721,
+      "link": "https://www.chess.com/game/live/170969386732",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1782904422
+    },
+    {
       "data": "2026-06-30T12:18:34+00:00",
       "adversario": "Sporks9",
       "cor": "Brancas",
@@ -15313,71 +15339,6 @@
       "eco": "A13",
       "pontos": 1.0,
       "end_time": 1751370828
-    },
-    {
-      "data": "2025-06-30T14:58:05+00:00",
-      "adversario": "phoenixflower5843",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 420,
-      "link": "https://www.chess.com/game/live/140176672948",
-      "eco": "C00",
-      "pontos": 0.0,
-      "end_time": 1751295485
-    },
-    {
-      "data": "2025-06-30T14:55:24+00:00",
-      "adversario": "RonnyCastro",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 428,
-      "link": "https://www.chess.com/game/live/140176587506",
-      "eco": "D02",
-      "pontos": 0.0,
-      "end_time": 1751295324
-    },
-    {
-      "data": "2025-06-30T10:06:13+00:00",
-      "adversario": "Sammmmmy14",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1045,
-      "link": "https://www.chess.com/game/live/140167665776",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1751277973
-    },
-    {
-      "data": "2025-06-30T10:03:57+00:00",
-      "adversario": "Sammmmmy14",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1052,
-      "link": "https://www.chess.com/game/live/140167632204",
-      "eco": "B21",
-      "pontos": 0.0,
-      "end_time": 1751277837
-    },
-    {
-      "data": "2025-06-30T03:23:36+00:00",
-      "adversario": "Deliriouslee",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1060,
-      "link": "https://www.chess.com/game/live/140159190304",
-      "eco": "B21",
-      "pontos": 1.0,
-      "end_time": 1751253816
     }
   ]
 }
