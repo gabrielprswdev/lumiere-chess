@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-02T10:27:13+00:00",
+      "adversario": "Kalukag",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 705,
+      "link": "https://www.chess.com/game/live/171012684258",
+      "eco": "C40",
+      "pontos": 0.0,
+      "end_time": 1782988033
+    },
+    {
       "data": "2026-07-01T11:24:18+00:00",
       "adversario": "Mahmod024",
       "cor": "Pretas",
@@ -15261,84 +15274,6 @@
       "eco": "C45",
       "pontos": 1.0,
       "end_time": 1751454564
-    },
-    {
-      "data": "2025-07-01T22:57:47+00:00",
-      "adversario": "Bot9374",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1054,
-      "link": "https://www.chess.com/game/live/140228113720",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1751410667
-    },
-    {
-      "data": "2025-07-01T22:42:28+00:00",
-      "adversario": "Davellis1001",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1061,
-      "link": "https://www.chess.com/game/live/140228028952",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1751409748
-    },
-    {
-      "data": "2025-07-01T22:21:48+00:00",
-      "adversario": "Abu-Karim-1234",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1069,
-      "link": "https://www.chess.com/game/live/140227461416",
-      "eco": "B00",
-      "pontos": 1.0,
-      "end_time": 1751408508
-    },
-    {
-      "data": "2025-07-01T14:57:24+00:00",
-      "adversario": "kurtaiken",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 413,
-      "link": "https://www.chess.com/game/live/140213807214",
-      "eco": "C22",
-      "pontos": 0.0,
-      "end_time": 1751381844
-    },
-    {
-      "data": "2025-07-01T13:21:50+00:00",
-      "adversario": "ka_milo_m",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1061,
-      "link": "https://www.chess.com/game/live/140210458690",
-      "eco": "D02",
-      "pontos": 1.0,
-      "end_time": 1751376110
-    },
-    {
-      "data": "2025-07-01T11:53:48+00:00",
-      "adversario": "rec0nnecting2",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1053,
-      "link": "https://www.chess.com/game/live/140207439654",
-      "eco": "A13",
-      "pontos": 1.0,
-      "end_time": 1751370828
     }
   ]
 }
