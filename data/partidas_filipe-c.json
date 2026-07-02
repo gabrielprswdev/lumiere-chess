@@ -1,6 +1,84 @@
 {
   "partidas": [
     {
+      "data": "2026-07-02T03:00:19+00:00",
+      "adversario": "danicsekM",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 769,
+      "link": "https://www.chess.com/game/live/171000972998",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1782961219
+    },
+    {
+      "data": "2026-07-02T02:54:26+00:00",
+      "adversario": "JoeBriann",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 761,
+      "link": "https://www.chess.com/game/live/171000730696",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1782960866
+    },
+    {
+      "data": "2026-07-02T02:43:29+00:00",
+      "adversario": "Jazzizzo",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 753,
+      "link": "https://www.chess.com/game/live/171000606958",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1782960209
+    },
+    {
+      "data": "2026-07-01T23:55:54+00:00",
+      "adversario": "BongerMcB",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 761,
+      "link": "https://www.chess.com/game/live/170996971484",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1782950154
+    },
+    {
+      "data": "2026-07-01T23:34:25+00:00",
+      "adversario": "Risktwin",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 769,
+      "link": "https://www.chess.com/game/live/170996257038",
+      "eco": "A45",
+      "pontos": 1.0,
+      "end_time": 1782948865
+    },
+    {
+      "data": "2026-07-01T23:16:01+00:00",
+      "adversario": "andreiafrasinei",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 769,
+      "link": "https://www.chess.com/game/live/170995845356",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1782947761
+    },
+    {
       "data": "2026-07-01T22:48:23+00:00",
       "adversario": "SaveD_ttk",
       "cor": "Brancas",
@@ -31836,19 +31914,6 @@
       "eco": "B00",
       "pontos": 0.0,
       "end_time": 1751422957
-    },
-    {
-      "data": "2025-07-01T02:51:23+00:00",
-      "adversario": "elmonty420",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "1/259200",
-      "rating": 694,
-      "link": "https://www.chess.com/game/daily/826304406",
-      "eco": "C42",
-      "pontos": 1.0,
-      "end_time": 1751338283
     }
   ]
 }

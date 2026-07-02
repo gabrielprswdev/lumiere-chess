@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-02T01:02:59+00:00",
+      "adversario": "SouzaKlepker",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/170998458816",
+      "eco": "A00",
+      "pontos": 0.5,
+      "end_time": 1782954179
+    },
+    {
+      "data": "2026-07-02T00:52:01+00:00",
+      "adversario": "SouzaKlepker",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/170998309710",
+      "eco": "A00",
+      "pontos": 0.0,
+      "end_time": 1782953521
+    },
+    {
+      "data": "2026-07-02T00:44:47+00:00",
+      "adversario": "SouzaKlepker",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "60",
+      "rating": 1425,
+      "link": "https://www.chess.com/game/live/170998159188",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1782953087
+    },
+    {
       "data": "2026-06-23T23:43:23+00:00",
       "adversario": "hanker1313im",
       "cor": "Pretas",
