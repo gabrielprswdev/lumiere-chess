@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-02T17:27:40+00:00",
+      "adversario": "SKSM21",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 777,
+      "link": "https://www.chess.com/game/live/171029676372",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1783013260
+    },
+    {
       "data": "2026-07-02T03:00:19+00:00",
       "adversario": "danicsekM",
       "cor": "Pretas",
