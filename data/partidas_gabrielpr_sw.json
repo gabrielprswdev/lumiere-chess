@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-02T20:40:40+00:00",
+      "adversario": "jessichams",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1925,
+      "link": "https://www.chess.com/game/live/171037226074",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1783024840
+    },
+    {
+      "data": "2026-07-02T20:38:24+00:00",
+      "adversario": "ThePawnMaster2025",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1917,
+      "link": "https://www.chess.com/game/live/171037009774",
+      "eco": "B07",
+      "pontos": 0.0,
+      "end_time": 1783024704
+    },
+    {
+      "data": "2026-07-02T20:27:01+00:00",
+      "adversario": "FERROTE",
+      "cor": "Pretas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1925,
+      "link": "https://www.chess.com/game/live/171036626250",
+      "eco": "C42",
+      "pontos": 0.5,
+      "end_time": 1783024021
+    },
+    {
+      "data": "2026-07-02T19:39:14+00:00",
+      "adversario": "mrlmrl",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1924,
+      "link": "https://www.chess.com/game/live/171034978088",
+      "eco": "E00",
+      "pontos": 1.0,
+      "end_time": 1783021154
+    },
+    {
+      "data": "2026-07-02T19:36:17+00:00",
+      "adversario": "jair0224",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1915,
+      "link": "https://www.chess.com/game/live/171034836832",
+      "eco": "B13",
+      "pontos": 0.5,
+      "end_time": 1783020977
+    },
+    {
       "data": "2026-07-02T15:23:20+00:00",
       "adversario": "chessxdisaster",
       "cor": "Pretas",
