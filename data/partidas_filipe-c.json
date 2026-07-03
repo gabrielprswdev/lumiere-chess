@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-03T22:49:18+00:00",
+      "adversario": "Jaaspro",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 751,
+      "link": "https://www.chess.com/game/live/171085712618",
+      "eco": "B23",
+      "pontos": 0.0,
+      "end_time": 1783118958
+    },
+    {
+      "data": "2026-07-03T22:37:12+00:00",
+      "adversario": "kauimrodrigues",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 761,
+      "link": "https://www.chess.com/game/live/171085318892",
+      "eco": "D02",
+      "pontos": 0.5,
+      "end_time": 1783118232
+    },
+    {
+      "data": "2026-07-03T22:08:44+00:00",
+      "adversario": "Silente000",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 760,
+      "link": "https://www.chess.com/game/live/171084593780",
+      "eco": "A00",
+      "pontos": 0.0,
+      "end_time": 1783116524
+    },
+    {
+      "data": "2026-07-03T21:33:43+00:00",
+      "adversario": "SurajPratapSingh89",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 768,
+      "link": "https://www.chess.com/game/live/171083693670",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783114423
+    },
+    {
+      "data": "2026-07-03T21:09:40+00:00",
+      "adversario": "Arabikalara",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 760,
+      "link": "https://www.chess.com/game/live/171082805444",
+      "eco": "B23",
+      "pontos": 0.0,
+      "end_time": 1783112980
+    },
+    {
       "data": "2026-07-03T20:40:58+00:00",
       "adversario": "GAMEoVerBROW",
       "cor": "Brancas",
