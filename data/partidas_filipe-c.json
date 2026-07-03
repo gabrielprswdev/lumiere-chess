@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-03T02:42:23+00:00",
+      "adversario": "Johnnyrocket102",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 777,
+      "link": "https://www.chess.com/game/live/171046223542",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1783046543
+    },
+    {
+      "data": "2026-07-03T02:38:04+00:00",
+      "adversario": "GlenlivetAve",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 785,
+      "link": "https://www.chess.com/game/live/171046080938",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1783046284
+    },
+    {
+      "data": "2026-07-03T02:32:15+00:00",
+      "adversario": "goemonburo",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 777,
+      "link": "https://www.chess.com/game/live/171045868312",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1783045935
+    },
+    {
+      "data": "2026-07-03T02:23:09+00:00",
+      "adversario": "love_yourlife",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 770,
+      "link": "https://www.chess.com/game/live/171045740770",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1783045389
+    },
+    {
+      "data": "2026-07-03T01:13:05+00:00",
+      "adversario": "haithamyousef86",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 778,
+      "link": "https://www.chess.com/game/live/171044143468",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1783041185
+    },
+    {
       "data": "2026-07-02T21:09:42+00:00",
       "adversario": "Yuhuuuuuw",
       "cor": "Pretas",
@@ -31888,71 +31953,6 @@
       "eco": "D00",
       "pontos": 0.0,
       "end_time": 1751508925
-    },
-    {
-      "data": "2025-07-02T23:25:20+00:00",
-      "adversario": "elias01z",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 380,
-      "link": "https://www.chess.com/game/live/140265868868",
-      "eco": "C57",
-      "pontos": 1.0,
-      "end_time": 1751498720
-    },
-    {
-      "data": "2025-07-02T19:03:42+00:00",
-      "adversario": "lucassxz",
-      "cor": "Brancas",
-      "resultado": "agreed",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 372,
-      "link": "https://www.chess.com/game/live/140258523768",
-      "eco": "C42",
-      "pontos": 0.5,
-      "end_time": 1751483022
-    },
-    {
-      "data": "2025-07-02T02:38:42+00:00",
-      "adversario": "DD_lover",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 372,
-      "link": "https://www.chess.com/game/live/140232237560",
-      "eco": "B00",
-      "pontos": 1.0,
-      "end_time": 1751423922
-    },
-    {
-      "data": "2025-07-02T02:27:11+00:00",
-      "adversario": "Tillo_diego",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 364,
-      "link": "https://www.chess.com/game/live/140232157668",
-      "eco": "B02",
-      "pontos": 1.0,
-      "end_time": 1751423231
-    },
-    {
-      "data": "2025-07-02T02:22:37+00:00",
-      "adversario": "afonso_2100",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 356,
-      "link": "https://www.chess.com/game/live/140232055678",
-      "eco": "B00",
-      "pontos": 0.0,
-      "end_time": 1751422957
     }
   ]
 }
