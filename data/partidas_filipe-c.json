@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-03T20:40:58+00:00",
+      "adversario": "GAMEoVerBROW",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 768,
+      "link": "https://www.chess.com/game/live/171082067312",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1783111258
+    },
+    {
+      "data": "2026-07-03T20:04:37+00:00",
+      "adversario": "Buddah-Monk",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 768,
+      "link": "https://www.chess.com/game/live/171080796908",
+      "eco": "A41",
+      "pontos": 1.0,
+      "end_time": 1783109077
+    },
+    {
+      "data": "2026-07-03T19:41:26+00:00",
+      "adversario": "inrnienxo9",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 760,
+      "link": "https://www.chess.com/game/live/171079983638",
+      "eco": "B27",
+      "pontos": 1.0,
+      "end_time": 1783107686
+    },
+    {
+      "data": "2026-07-03T19:26:43+00:00",
+      "adversario": "spencer7777777777",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 752,
+      "link": "https://www.chess.com/game/live/171079669344",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783106803
+    },
+    {
+      "data": "2026-07-03T19:20:19+00:00",
+      "adversario": "PizzaGuy93",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 744,
+      "link": "https://www.chess.com/game/live/171079583316",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1783106419
+    },
+    {
       "data": "2026-07-03T03:39:53+00:00",
       "adversario": "raizeeeeeyyy",
       "cor": "Pretas",
