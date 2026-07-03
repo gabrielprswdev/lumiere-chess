@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-03T03:39:53+00:00",
+      "adversario": "raizeeeeeyyy",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 752,
+      "link": "https://www.chess.com/game/live/171047343410",
+      "eco": "B06",
+      "pontos": 0.0,
+      "end_time": 1783049993
+    },
+    {
+      "data": "2026-07-03T03:29:22+00:00",
+      "adversario": "Yveltal1641",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 760,
+      "link": "https://www.chess.com/game/live/171047062720",
+      "eco": "B23",
+      "pontos": 1.0,
+      "end_time": 1783049362
+    },
+    {
+      "data": "2026-07-03T03:16:44+00:00",
+      "adversario": "iliongambit",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 752,
+      "link": "https://www.chess.com/game/live/171046838288",
+      "eco": "A04",
+      "pontos": 0.0,
+      "end_time": 1783048604
+    },
+    {
+      "data": "2026-07-03T03:06:28+00:00",
+      "adversario": "elnapoli17",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 760,
+      "link": "https://www.chess.com/game/live/171046665846",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1783047988
+    },
+    {
+      "data": "2026-07-03T02:58:27+00:00",
+      "adversario": "mikeytang",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 768,
+      "link": "https://www.chess.com/game/live/171046307772",
+      "eco": "A48",
+      "pontos": 0.0,
+      "end_time": 1783047507
+    },
+    {
       "data": "2026-07-03T02:42:23+00:00",
       "adversario": "Johnnyrocket102",
       "cor": "Brancas",
