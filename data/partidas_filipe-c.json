@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-04T21:54:35+00:00",
+      "adversario": "Radu_Cristi",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 785,
+      "link": "https://www.chess.com/game/live/171127759450",
+      "eco": "A48",
+      "pontos": 1.0,
+      "end_time": 1783202075
+    },
+    {
+      "data": "2026-07-04T21:26:40+00:00",
+      "adversario": "kingofthecastle6666",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 777,
+      "link": "https://www.chess.com/game/live/171127113554",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1783200400
+    },
+    {
+      "data": "2026-07-04T21:17:10+00:00",
+      "adversario": "Moss-Ape",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 768,
+      "link": "https://www.chess.com/game/live/171126846736",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1783199830
+    },
+    {
       "data": "2026-07-04T00:16:26+00:00",
       "adversario": "McLoven4Wendys",
       "cor": "Brancas",
