@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-04T23:59:29+00:00",
+      "adversario": "capivara_sem_freio",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 779,
+      "link": "https://www.chess.com/game/live/171130974178",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1783209569
+    },
+    {
+      "data": "2026-07-04T23:40:21+00:00",
+      "adversario": "Risktwin",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 779,
+      "link": "https://www.chess.com/game/live/171130610566",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783208421
+    },
+    {
+      "data": "2026-07-04T23:31:17+00:00",
+      "adversario": "macaoa",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 779,
+      "link": "https://www.chess.com/game/live/171130350494",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1783207877
+    },
+    {
+      "data": "2026-07-04T23:19:57+00:00",
+      "adversario": "douglas91rs",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 779,
+      "link": "https://www.chess.com/game/live/171129958692",
+      "eco": "A45",
+      "pontos": 1.0,
+      "end_time": 1783207197
+    },
+    {
+      "data": "2026-07-04T23:04:46+00:00",
+      "adversario": "bleact_3",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 777,
+      "link": "https://www.chess.com/game/live/171129759726",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1783206286
+    },
+    {
       "data": "2026-07-04T22:43:06+00:00",
       "adversario": "TalDeRiga157",
       "cor": "Pretas",
@@ -32083,45 +32148,6 @@
       "eco": "C46",
       "pontos": 1.0,
       "end_time": 1751690518
-    },
-    {
-      "data": "2025-07-04T00:34:07+00:00",
-      "adversario": "eligershkovich",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 380,
-      "link": "https://www.chess.com/game/live/140303515978",
-      "eco": "C02",
-      "pontos": 1.0,
-      "end_time": 1751589247
-    },
-    {
-      "data": "2025-07-04T00:27:16+00:00",
-      "adversario": "benachhhhh",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 372,
-      "link": "https://www.chess.com/game/live/140303367608",
-      "eco": "B01",
-      "pontos": 0.0,
-      "end_time": 1751588836
-    },
-    {
-      "data": "2025-07-04T00:17:48+00:00",
-      "adversario": "sopa18",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 380,
-      "link": "https://www.chess.com/game/live/140303223746",
-      "eco": "C00",
-      "pontos": 1.0,
-      "end_time": 1751588268
     }
   ]
 }
