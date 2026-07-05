@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-05T12:26:43+00:00",
+      "adversario": "headless-mule",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 755,
+      "link": "https://www.chess.com/game/daily/983917284",
+      "eco": "B15",
+      "pontos": 0.0,
+      "end_time": 1783254403
+    },
+    {
       "data": "2026-07-05T00:27:15+00:00",
       "adversario": "WalterLuisPaula",
       "cor": "Pretas",
