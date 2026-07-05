@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-05T15:11:04+00:00",
+      "adversario": "MBULL96",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1948,
+      "link": "https://www.chess.com/game/live/171157588184",
+      "eco": "C43",
+      "pontos": 1.0,
+      "end_time": 1783264264
+    },
+    {
+      "data": "2026-07-05T15:04:32+00:00",
+      "adversario": "mohammadreza1999",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1938,
+      "link": "https://www.chess.com/game/live/171157431198",
+      "eco": "C30",
+      "pontos": 1.0,
+      "end_time": 1783263872
+    },
+    {
       "data": "2026-07-04T14:28:41+00:00",
       "adversario": "iamckn",
       "cor": "Brancas",
@@ -92091,58 +92117,6 @@
       "eco": "C48",
       "pontos": 1.0,
       "end_time": 1751679805
-    },
-    {
-      "data": "2025-07-04T22:54:37+00:00",
-      "adversario": "shahkhor",
-      "cor": "Pretas",
-      "resultado": "abandoned",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1334,
-      "link": "https://www.chess.com/game/live/140337752616",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1751669677
-    },
-    {
-      "data": "2025-07-04T18:59:29+00:00",
-      "adversario": "Gin34",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1342,
-      "link": "https://www.chess.com/game/live/140331795782",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1751655569
-    },
-    {
-      "data": "2025-07-04T18:54:33+00:00",
-      "adversario": "MarkoCeremidzic",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1350,
-      "link": "https://www.chess.com/game/live/140331741128",
-      "eco": "C20",
-      "pontos": 0.0,
-      "end_time": 1751655273
-    },
-    {
-      "data": "2025-07-04T18:51:10+00:00",
-      "adversario": "dp0275",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1358,
-      "link": "https://www.chess.com/game/live/140331524520",
-      "eco": "B13",
-      "pontos": 0.0,
-      "end_time": 1751655070
     }
   ]
 }
