@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-05T16:39:00+00:00",
+      "adversario": "Oliver_Tsar",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/171161333876",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1783269540
+    },
+    {
       "data": "2026-07-02T01:02:59+00:00",
       "adversario": "SouzaKlepker",
       "cor": "Brancas",
