@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-06T10:58:46+00:00",
+      "adversario": "vivekshahofficial",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 697,
+      "link": "https://www.chess.com/game/live/171192276478",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1783335526
+    },
+    {
       "data": "2026-07-02T10:27:13+00:00",
       "adversario": "Kalukag",
       "cor": "Brancas",
@@ -15170,110 +15183,6 @@
       "eco": "A43",
       "pontos": 0.0,
       "end_time": 1751769107
-    },
-    {
-      "data": "2025-07-05T11:11:03+00:00",
-      "adversario": "SADIQHUSSAINY123456",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1038,
-      "link": "https://www.chess.com/game/live/140352636680",
-      "eco": "C42",
-      "pontos": 0.0,
-      "end_time": 1751713863
-    },
-    {
-      "data": "2025-07-04T12:45:36+00:00",
-      "adversario": "NiceJoke67",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1045,
-      "link": "https://www.chess.com/game/live/140319634538",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1751633136
-    },
-    {
-      "data": "2025-07-03T13:54:37+00:00",
-      "adversario": "gembilll",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1054,
-      "link": "https://www.chess.com/game/live/140285260580",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1751550877
-    },
-    {
-      "data": "2025-07-03T11:21:19+00:00",
-      "adversario": "Mahmoudead-7",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1062,
-      "link": "https://www.chess.com/game/live/140280390828",
-      "eco": "D00",
-      "pontos": 0.0,
-      "end_time": 1751541679
-    },
-    {
-      "data": "2025-07-02T18:13:45+00:00",
-      "adversario": "x-3869836519",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1070,
-      "link": "https://www.chess.com/game/live/140256885094",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1751480025
-    },
-    {
-      "data": "2025-07-02T16:43:53+00:00",
-      "adversario": "Catalab-an28",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1078,
-      "link": "https://www.chess.com/game/live/140253957354",
-      "eco": "C00",
-      "pontos": 1.0,
-      "end_time": 1751474633
-    },
-    {
-      "data": "2025-07-02T12:54:15+00:00",
-      "adversario": "Jones1965",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1070,
-      "link": "https://www.chess.com/game/live/140246369636",
-      "eco": "B40",
-      "pontos": 1.0,
-      "end_time": 1751460855
-    },
-    {
-      "data": "2025-07-02T11:09:24+00:00",
-      "adversario": "lMrJimmyl",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1062,
-      "link": "https://www.chess.com/game/live/140243331888",
-      "eco": "C45",
-      "pontos": 1.0,
-      "end_time": 1751454564
     }
   ]
 }
