@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-06T15:51:02+00:00",
+      "adversario": "Mak3094",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1956,
+      "link": "https://www.chess.com/game/live/171203855024",
+      "eco": "B01",
+      "pontos": 0.0,
+      "end_time": 1783353062
+    },
+    {
       "data": "2026-07-06T00:53:54+00:00",
       "adversario": "sabridjib",
       "cor": "Pretas",
