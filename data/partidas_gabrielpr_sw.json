@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-07T20:00:18+00:00",
+      "adversario": "anasali458",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1914,
+      "link": "https://www.chess.com/game/live/171258626162",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1783454418
+    },
+    {
+      "data": "2026-07-07T19:54:58+00:00",
+      "adversario": "JACOB29718",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/171258340526",
+      "eco": "A43",
+      "pontos": 1.0,
+      "end_time": 1783454098
+    },
+    {
       "data": "2026-07-07T19:49:14+00:00",
       "adversario": "PommeChef",
       "cor": "Pretas",
