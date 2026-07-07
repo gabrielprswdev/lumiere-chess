@@ -1,6 +1,84 @@
 {
   "partidas": [
     {
+      "data": "2026-07-06T23:57:46+00:00",
+      "adversario": "Risktwin",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 698,
+      "link": "https://www.chess.com/game/live/171220816424",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783382266
+    },
+    {
+      "data": "2026-07-06T23:52:14+00:00",
+      "adversario": "LorranVMM",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 698,
+      "link": "https://www.chess.com/game/live/171220331982",
+      "eco": "D10",
+      "pontos": 0.0,
+      "end_time": 1783381934
+    },
+    {
+      "data": "2026-07-06T23:29:12+00:00",
+      "adversario": "capivara_sem_freio",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 698,
+      "link": "https://www.chess.com/game/live/171219855340",
+      "eco": "D06",
+      "pontos": 0.0,
+      "end_time": 1783380552
+    },
+    {
+      "data": "2026-07-06T23:11:42+00:00",
+      "adversario": "raucous22",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 698,
+      "link": "https://www.chess.com/game/live/171219637272",
+      "eco": "B23",
+      "pontos": 1.0,
+      "end_time": 1783379502
+    },
+    {
+      "data": "2026-07-06T23:02:22+00:00",
+      "adversario": "macaoa",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 697,
+      "link": "https://www.chess.com/game/live/171219122570",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783378942
+    },
+    {
+      "data": "2026-07-06T22:22:28+00:00",
+      "adversario": "panama74",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 697,
+      "link": "https://www.chess.com/game/live/171218171500",
+      "eco": "A46",
+      "pontos": 0.0,
+      "end_time": 1783376548
+    },
+    {
       "data": "2026-07-06T22:06:14+00:00",
       "adversario": "rob272772",
       "cor": "Pretas",
@@ -32538,71 +32616,6 @@
       "eco": "C20",
       "pontos": 1.0,
       "end_time": 1752007133
-    },
-    {
-      "data": "2025-07-06T14:31:32+00:00",
-      "adversario": "fairvfx",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "1/259200",
-      "rating": 735,
-      "link": "https://www.chess.com/game/daily/833939242",
-      "eco": "C25",
-      "pontos": 1.0,
-      "end_time": 1751812292
-    },
-    {
-      "data": "2025-07-06T03:21:30+00:00",
-      "adversario": "RODRIGOT1961",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 395,
-      "link": "https://www.chess.com/game/live/140377428840",
-      "eco": "C40",
-      "pontos": 0.0,
-      "end_time": 1751772090
-    },
-    {
-      "data": "2025-07-06T03:13:12+00:00",
-      "adversario": "Calvinharesco25",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 403,
-      "link": "https://www.chess.com/game/live/140377369124",
-      "eco": "D00",
-      "pontos": 0.0,
-      "end_time": 1751771592
-    },
-    {
-      "data": "2025-07-06T03:09:19+00:00",
-      "adversario": "ahmadghiasvand591",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 411,
-      "link": "https://www.chess.com/game/live/140377247942",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1751771359
-    },
-    {
-      "data": "2025-07-06T03:02:26+00:00",
-      "adversario": "ahmadghiasvand591",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 404,
-      "link": "https://www.chess.com/game/live/140377097216",
-      "eco": "C28",
-      "pontos": 1.0,
-      "end_time": 1751770946
     }
   ]
 }
