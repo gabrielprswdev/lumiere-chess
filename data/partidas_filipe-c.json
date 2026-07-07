@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-07T22:58:34+00:00",
+      "adversario": "2500derating",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 706,
+      "link": "https://www.chess.com/game/live/171263938720",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1783465114
+    },
+    {
+      "data": "2026-07-07T22:47:16+00:00",
+      "adversario": "capivara_sem_freio",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 706,
+      "link": "https://www.chess.com/game/live/171263591596",
+      "eco": "E60",
+      "pontos": 0.0,
+      "end_time": 1783464436
+    },
+    {
+      "data": "2026-07-07T22:32:58+00:00",
+      "adversario": "MAGO123987",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 706,
+      "link": "https://www.chess.com/game/live/171263369436",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783463578
+    },
+    {
+      "data": "2026-07-07T22:23:24+00:00",
+      "adversario": "Makunoutch",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 706,
+      "link": "https://www.chess.com/game/live/171262807272",
+      "eco": "C58",
+      "pontos": 1.0,
+      "end_time": 1783463004
+    },
+    {
+      "data": "2026-07-07T21:25:51+00:00",
+      "adversario": "RealMilo2810",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 706,
+      "link": "https://www.chess.com/game/live/171261025670",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1783459551
+    },
+    {
       "data": "2026-07-07T20:57:35+00:00",
       "adversario": "Wshyar159",
       "cor": "Pretas",
