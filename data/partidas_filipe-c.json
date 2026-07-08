@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-08T00:09:45+00:00",
+      "adversario": "menega73",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 706,
+      "link": "https://www.chess.com/game/live/171265550834",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783469385
+    },
+    {
+      "data": "2026-07-07T23:56:11+00:00",
+      "adversario": "joogamer67",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 706,
+      "link": "https://www.chess.com/game/live/171265421766",
+      "eco": "D10",
+      "pontos": 0.0,
+      "end_time": 1783468571
+    },
+    {
+      "data": "2026-07-07T23:47:50+00:00",
+      "adversario": "yurimayronn",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 706,
+      "link": "https://www.chess.com/game/live/171265210944",
+      "eco": "B30",
+      "pontos": 1.0,
+      "end_time": 1783468070
+    },
+    {
+      "data": "2026-07-07T23:42:24+00:00",
+      "adversario": "mTdiVi",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 706,
+      "link": "https://www.chess.com/game/live/171264777212",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1783467744
+    },
+    {
+      "data": "2026-07-07T23:22:19+00:00",
+      "adversario": "Lani123milhas",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 706,
+      "link": "https://www.chess.com/game/live/171264264846",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1783466539
+    },
+    {
       "data": "2026-07-07T22:58:34+00:00",
       "adversario": "2500derating",
       "cor": "Brancas",
