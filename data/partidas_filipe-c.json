@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-08T19:19:49+00:00",
+      "adversario": "galiaset",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 698,
+      "link": "https://www.chess.com/game/live/171302042046",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1783538389
+    },
+    {
       "data": "2026-07-08T00:09:45+00:00",
       "adversario": "menega73",
       "cor": "Brancas",
