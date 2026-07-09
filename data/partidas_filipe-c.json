@@ -1,6 +1,97 @@
 {
   "partidas": [
     {
+      "data": "2026-07-09T02:44:32+00:00",
+      "adversario": "Therealkameel",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 672,
+      "link": "https://www.chess.com/game/live/171314800762",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1783565072
+    },
+    {
+      "data": "2026-07-09T02:37:16+00:00",
+      "adversario": "Skysshi",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 680,
+      "link": "https://www.chess.com/game/live/171314752366",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1783564636
+    },
+    {
+      "data": "2026-07-09T02:35:09+00:00",
+      "adversario": "Blagd3n",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 688,
+      "link": "https://www.chess.com/game/live/171314562842",
+      "eco": "C28",
+      "pontos": 0.0,
+      "end_time": 1783564509
+    },
+    {
+      "data": "2026-07-09T00:03:18+00:00",
+      "adversario": "ferinha1324",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 696,
+      "link": "https://www.chess.com/game/live/171311222372",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1783555398
+    },
+    {
+      "data": "2026-07-08T23:47:55+00:00",
+      "adversario": "capivara_sem_freio",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 696,
+      "link": "https://www.chess.com/game/live/171310787912",
+      "eco": "D13",
+      "pontos": 0.0,
+      "end_time": 1783554475
+    },
+    {
+      "data": "2026-07-08T23:36:41+00:00",
+      "adversario": "vhbgs",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 696,
+      "link": "https://www.chess.com/game/live/171310474764",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1783553801
+    },
+    {
+      "data": "2026-07-08T23:22:37+00:00",
+      "adversario": "mTdiVi",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 698,
+      "link": "https://www.chess.com/game/live/171310012620",
+      "eco": "A45",
+      "pontos": 0.5,
+      "end_time": 1783552957
+    },
+    {
       "data": "2026-07-08T23:03:39+00:00",
       "adversario": "Pedro_1244",
       "cor": "Pretas",
@@ -32915,19 +33006,6 @@
       "eco": "C46",
       "pontos": 0.0,
       "end_time": 1752031859
-    },
-    {
-      "data": "2025-07-08T20:38:53+00:00",
-      "adversario": "krishkapoorKk",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 403,
-      "link": "https://www.chess.com/game/live/140479875150",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1752007133
     }
   ]
 }
