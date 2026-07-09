@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-09T02:50:30+00:00",
+      "adversario": "neufjan1",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 656,
+      "link": "https://www.chess.com/game/live/171315031252",
+      "eco": "C53",
+      "pontos": 0.0,
+      "end_time": 1783565430
+    },
+    {
+      "data": "2026-07-09T02:47:31+00:00",
+      "adversario": "aurispau",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 664,
+      "link": "https://www.chess.com/game/live/171314964990",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1783565251
+    },
+    {
       "data": "2026-07-09T02:44:32+00:00",
       "adversario": "Therealkameel",
       "cor": "Brancas",
