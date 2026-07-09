@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-09T22:09:41+00:00",
+      "adversario": "MendigoManco",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 680,
+      "link": "https://www.chess.com/game/live/171354262204",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1783634981
+    },
+    {
+      "data": "2026-07-09T21:42:08+00:00",
+      "adversario": "YURI_BRUNO",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 680,
+      "link": "https://www.chess.com/game/live/171353422832",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1783633328
+    },
+    {
       "data": "2026-07-09T18:34:35+00:00",
       "adversario": "sulaimanpno",
       "cor": "Pretas",
