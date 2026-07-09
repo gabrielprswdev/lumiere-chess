@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-09T18:34:35+00:00",
+      "adversario": "sulaimanpno",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 680,
+      "link": "https://www.chess.com/game/live/171347051732",
+      "eco": "C26",
+      "pontos": 1.0,
+      "end_time": 1783622075
+    },
+    {
+      "data": "2026-07-09T17:27:26+00:00",
+      "adversario": "SayedMohd47",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 672,
+      "link": "https://www.chess.com/game/live/171343796368",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1783618046
+    },
+    {
       "data": "2026-07-09T16:08:07+00:00",
       "adversario": "mustafakazmi",
       "cor": "Brancas",
