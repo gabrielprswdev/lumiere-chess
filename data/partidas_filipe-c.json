@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-10T21:45:28+00:00",
+      "adversario": "Ribeir0Gui",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 743,
+      "link": "https://www.chess.com/game/live/171399492348",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1783719928
+    },
+    {
+      "data": "2026-07-10T21:19:52+00:00",
+      "adversario": "Ragesh-Mathew",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 743,
+      "link": "https://www.chess.com/game/live/171398585278",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1783718392
+    },
+    {
+      "data": "2026-07-10T20:34:54+00:00",
+      "adversario": "Noob2109199",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 735,
+      "link": "https://www.chess.com/game/live/171397352456",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783715694
+    },
+    {
       "data": "2026-07-10T20:19:41+00:00",
       "adversario": "DocSven",
       "cor": "Brancas",
