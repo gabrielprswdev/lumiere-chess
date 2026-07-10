@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-10T01:54:01+00:00",
+      "adversario": "wasouzski",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 703,
+      "link": "https://www.chess.com/game/live/171359690372",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1783648441
+    },
+    {
+      "data": "2026-07-10T00:58:28+00:00",
+      "adversario": "itaercio",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300+2",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/177958071433",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783645108
+    },
+    {
+      "data": "2026-07-10T00:45:42+00:00",
+      "adversario": "Bufa_Forte",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300+2",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/177957471509",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1783644342
+    },
+    {
+      "data": "2026-07-10T00:31:39+00:00",
+      "adversario": "luiizedu1",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300+2",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/177956871221",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783643499
+    },
+    {
+      "data": "2026-07-10T00:17:47+00:00",
+      "adversario": "WeslleyB17",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300+2",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/177955671643",
+      "eco": "A48",
+      "pontos": 0.0,
+      "end_time": 1783642667
+    },
+    {
       "data": "2026-07-09T23:39:13+00:00",
       "adversario": "arcano007",
       "cor": "Pretas",
