@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-10T20:19:41+00:00",
+      "adversario": "DocSven",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 727,
+      "link": "https://www.chess.com/game/live/171396647542",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1783714781
+    },
+    {
+      "data": "2026-07-10T19:57:23+00:00",
+      "adversario": "mehrfam",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 719,
+      "link": "https://www.chess.com/game/live/171395793814",
+      "eco": "C44",
+      "pontos": 1.0,
+      "end_time": 1783713443
+    },
+    {
+      "data": "2026-07-10T19:38:33+00:00",
+      "adversario": "garza2213",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 711,
+      "link": "https://www.chess.com/game/live/171395480572",
+      "eco": "A45",
+      "pontos": 1.0,
+      "end_time": 1783712313
+    },
+    {
       "data": "2026-07-10T01:54:01+00:00",
       "adversario": "wasouzski",
       "cor": "Brancas",
