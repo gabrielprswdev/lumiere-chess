@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-10T22:59:46+00:00",
+      "adversario": "uiuiuiu00",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178037271861",
+      "eco": "A45",
+      "pontos": 1.0,
+      "end_time": 1783724386
+    },
+    {
+      "data": "2026-07-10T22:48:56+00:00",
+      "adversario": "felipeweiduschat",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178036671975",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1783723736
+    },
+    {
+      "data": "2026-07-10T22:39:03+00:00",
+      "adversario": "GabrielPR_SW",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178036071845",
+      "eco": "C58",
+      "pontos": 0.0,
+      "end_time": 1783723143
+    },
+    {
+      "data": "2026-07-10T22:26:47+00:00",
+      "adversario": "arcano007",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178035471855",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1783722407
+    },
+    {
+      "data": "2026-07-10T22:12:25+00:00",
+      "adversario": "Gustavo-745",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178034871833",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1783721545
+    },
+    {
       "data": "2026-07-10T21:45:28+00:00",
       "adversario": "Ribeir0Gui",
       "cor": "Brancas",
