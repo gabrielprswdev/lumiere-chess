@@ -1,6 +1,84 @@
 {
   "partidas": [
     {
+      "data": "2026-07-09T23:39:13+00:00",
+      "adversario": "arcano007",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 695,
+      "link": "https://www.chess.com/game/live/171356831558",
+      "eco": "C62",
+      "pontos": 0.0,
+      "end_time": 1783640353
+    },
+    {
+      "data": "2026-07-09T23:28:24+00:00",
+      "adversario": "quemjuntousepara",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 695,
+      "link": "https://www.chess.com/game/live/171356586676",
+      "eco": "A46",
+      "pontos": 1.0,
+      "end_time": 1783639704
+    },
+    {
+      "data": "2026-07-09T23:17:48+00:00",
+      "adversario": "Ruinsdebola2",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "180+2",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/171356379864",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1783639068
+    },
+    {
+      "data": "2026-07-09T22:58:12+00:00",
+      "adversario": "cerveja-com-tiragosto",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/171355893358",
+      "eco": "A05",
+      "pontos": 1.0,
+      "end_time": 1783637892
+    },
+    {
+      "data": "2026-07-09T22:50:43+00:00",
+      "adversario": "RENAN2107",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "180+2",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/171355648502",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1783637443
+    },
+    {
+      "data": "2026-07-09T22:37:41+00:00",
+      "adversario": "CapChess1",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600+5",
+      "rating": 695,
+      "link": "https://www.chess.com/game/live/171354957406",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1783636661
+    },
+    {
       "data": "2026-07-09T22:09:41+00:00",
       "adversario": "MendigoManco",
       "cor": "Brancas",
@@ -33071,32 +33149,6 @@
       "eco": "C50",
       "pontos": 1.0,
       "end_time": 1752111556
-    },
-    {
-      "data": "2025-07-09T22:22:18+00:00",
-      "adversario": "Ali745312",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 403,
-      "link": "https://www.chess.com/game/live/140519445894",
-      "eco": "C40",
-      "pontos": 1.0,
-      "end_time": 1752099738
-    },
-    {
-      "data": "2025-07-09T03:30:59+00:00",
-      "adversario": "Imbong29",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 395,
-      "link": "https://www.chess.com/game/live/140488130086",
-      "eco": "C46",
-      "pontos": 0.0,
-      "end_time": 1752031859
     }
   ]
 }
