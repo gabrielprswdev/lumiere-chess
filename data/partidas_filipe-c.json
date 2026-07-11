@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-11T23:26:59+00:00",
+      "adversario": "Sebile123",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 735,
+      "link": "https://www.chess.com/game/live/171446853888",
+      "eco": "A20",
+      "pontos": 1.0,
+      "end_time": 1783812419
+    },
+    {
+      "data": "2026-07-11T22:54:13+00:00",
+      "adversario": "Bufa_Forte",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 735,
+      "link": "https://www.chess.com/game/live/171446101508",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1783810453
+    },
+    {
       "data": "2026-07-11T22:23:47+00:00",
       "adversario": "MontanaPineapple",
       "cor": "Brancas",
