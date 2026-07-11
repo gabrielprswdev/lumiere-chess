@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-11T13:05:37+00:00",
+      "adversario": "Alkha2308",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 697,
+      "link": "https://www.chess.com/game/live/171424682260",
+      "eco": "B12",
+      "pontos": 0.0,
+      "end_time": 1783775137
+    },
+    {
       "data": "2026-07-09T12:21:53+00:00",
       "adversario": "mattepesce",
       "cor": "Pretas",
@@ -14936,97 +14949,6 @@
       "eco": "C50",
       "pontos": 0.0,
       "end_time": 1752223703
-    },
-    {
-      "data": "2025-07-10T18:39:05+00:00",
-      "adversario": "lendrayogeswara",
-      "cor": "Pretas",
-      "resultado": "abandoned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1051,
-      "link": "https://www.chess.com/game/live/140550153246",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1752172745
-    },
-    {
-      "data": "2025-07-10T18:25:31+00:00",
-      "adversario": "laynadnahk",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 407,
-      "link": "https://www.chess.com/game/live/140549959110",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1752171931
-    },
-    {
-      "data": "2025-07-09T19:10:21+00:00",
-      "adversario": "kmalik",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1058,
-      "link": "https://www.chess.com/game/live/140514501690",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1752088221
-    },
-    {
-      "data": "2025-07-09T19:01:00+00:00",
-      "adversario": "AlmostSputid",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1066,
-      "link": "https://www.chess.com/game/live/140514292240",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1752087660
-    },
-    {
-      "data": "2025-07-09T12:33:37+00:00",
-      "adversario": "bhsazvdo",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1066,
-      "link": "https://www.chess.com/game/live/140500935304",
-      "eco": "C55",
-      "pontos": 0.0,
-      "end_time": 1752064417
-    },
-    {
-      "data": "2025-07-09T12:22:04+00:00",
-      "adversario": "rajnikannt",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1066,
-      "link": "https://www.chess.com/game/live/140500925678",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1752063724
-    },
-    {
-      "data": "2025-07-09T11:22:55+00:00",
-      "adversario": "BQ109999",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1066,
-      "link": "https://www.chess.com/game/live/140498879272",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1752060175
     }
   ]
 }
