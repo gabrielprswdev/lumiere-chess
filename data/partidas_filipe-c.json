@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-12T02:27:28+00:00",
+      "adversario": "qdfsujeira",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 755,
+      "link": "https://www.chess.com/game/daily/996677544",
+      "eco": "B00",
+      "pontos": 1.0,
+      "end_time": 1783823248
+    },
+    {
+      "data": "2026-07-12T00:09:16+00:00",
+      "adversario": "mT-DiVi",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 735,
+      "link": "https://www.chess.com/game/live/171447838064",
+      "eco": "A37",
+      "pontos": 0.0,
+      "end_time": 1783814956
+    },
+    {
       "data": "2026-07-11T23:26:59+00:00",
       "adversario": "Sebile123",
       "cor": "Pretas",
@@ -33344,32 +33370,6 @@
       "eco": "C41",
       "pontos": 1.0,
       "end_time": 1752285868
-    },
-    {
-      "data": "2025-07-11T03:32:32+00:00",
-      "adversario": "RiveraLop",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 411,
-      "link": "https://www.chess.com/game/live/140561981446",
-      "eco": "A40",
-      "pontos": 1.0,
-      "end_time": 1752204752
-    },
-    {
-      "data": "2025-07-11T00:01:59+00:00",
-      "adversario": "mcampos1995",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 403,
-      "link": "https://www.chess.com/game/live/140558366740",
-      "eco": "C20",
-      "pontos": 0.0,
-      "end_time": 1752192119
     }
   ]
 }
