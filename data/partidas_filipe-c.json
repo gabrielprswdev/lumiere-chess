@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-13T14:48:12+00:00",
+      "adversario": "aggfth6tp",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "1/86400",
+      "rating": 723,
+      "link": "https://www.chess.com/game/daily/994489978",
+      "eco": "A41",
+      "pontos": 0.0,
+      "end_time": 1783954092
+    },
+    {
+      "data": "2026-07-13T13:39:26+00:00",
+      "adversario": "lucasroocha",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/86400",
+      "rating": 723,
+      "link": "https://www.chess.com/game/daily/997067936",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1783949966
+    },
+    {
       "data": "2026-07-12T02:27:28+00:00",
       "adversario": "qdfsujeira",
       "cor": "Pretas",
@@ -33318,58 +33344,6 @@
       "eco": "C20",
       "pontos": 0.0,
       "end_time": 1752372544
-    },
-    {
-      "data": "2025-07-12T19:34:29+00:00",
-      "adversario": "Labonno22",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 444,
-      "link": "https://www.chess.com/game/live/140624537456",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1752348869
-    },
-    {
-      "data": "2025-07-12T19:21:06+00:00",
-      "adversario": "Mallik_Vaddipati",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 436,
-      "link": "https://www.chess.com/game/live/140624363092",
-      "eco": "B01",
-      "pontos": 1.0,
-      "end_time": 1752348066
-    },
-    {
-      "data": "2025-07-12T03:22:46+00:00",
-      "adversario": "MCBUCKDZIRS",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 428,
-      "link": "https://www.chess.com/game/live/140598686224",
-      "eco": "A00",
-      "pontos": 1.0,
-      "end_time": 1752290566
-    },
-    {
-      "data": "2025-07-12T02:04:28+00:00",
-      "adversario": "DrRamonV",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 419,
-      "link": "https://www.chess.com/game/live/140597162278",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1752285868
     }
   ]
 }

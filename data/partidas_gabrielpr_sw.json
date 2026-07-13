@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-13T15:30:50+00:00",
+      "adversario": "bonfim853",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1904,
+      "link": "https://www.chess.com/game/live/171520127040",
+      "eco": "C42",
+      "pontos": 0.0,
+      "end_time": 1783956650
+    },
+    {
       "data": "2026-07-13T12:46:32+00:00",
       "adversario": "mmostafa2018",
       "cor": "Pretas",
