@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-07-13T21:30:20+00:00",
+      "adversario": "tojibaeev",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 744,
+      "link": "https://www.chess.com/game/live/171534760902",
+      "eco": "C54",
+      "pontos": 0.0,
+      "end_time": 1783978220
+    },
+    {
+      "data": "2026-07-13T21:08:25+00:00",
+      "adversario": "JuanchoCampos",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 752,
+      "link": "https://www.chess.com/game/live/171533965420",
+      "eco": "D10",
+      "pontos": 1.0,
+      "end_time": 1783976905
+    },
+    {
+      "data": "2026-07-13T20:53:46+00:00",
+      "adversario": "Gon_jimenez",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 744,
+      "link": "https://www.chess.com/game/live/171533111598",
+      "eco": "A41",
+      "pontos": 1.0,
+      "end_time": 1783976026
+    },
+    {
+      "data": "2026-07-13T20:33:32+00:00",
+      "adversario": "ge0rgemcclure",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 736,
+      "link": "https://www.chess.com/game/live/171532412540",
+      "eco": "A47",
+      "pontos": 0.0,
+      "end_time": 1783974812
+    },
+    {
       "data": "2026-07-13T20:10:45+00:00",
       "adversario": "feelingfrank",
       "cor": "Pretas",
