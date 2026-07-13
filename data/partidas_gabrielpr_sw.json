@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-13T23:04:40+00:00",
+      "adversario": "Prodigal_Son_21",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1885,
+      "link": "https://www.chess.com/game/live/171537575748",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1783983880
+    },
+    {
+      "data": "2026-07-13T22:58:57+00:00",
+      "adversario": "yo586566",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1878,
+      "link": "https://www.chess.com/game/live/171537432664",
+      "eco": "A03",
+      "pontos": 1.0,
+      "end_time": 1783983537
+    },
+    {
       "data": "2026-07-13T22:54:01+00:00",
       "adversario": "the_1982_BR_squad_style",
       "cor": "Brancas",

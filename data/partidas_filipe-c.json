@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-13T23:52:28+00:00",
+      "adversario": "jas70",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 760,
+      "link": "https://www.chess.com/game/live/171538586666",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1783986748
+    },
+    {
+      "data": "2026-07-13T23:37:59+00:00",
+      "adversario": "spermaBobra228",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 760,
+      "link": "https://www.chess.com/game/live/171538424204",
+      "eco": "C57",
+      "pontos": 1.0,
+      "end_time": 1783985879
+    },
+    {
+      "data": "2026-07-13T23:30:01+00:00",
+      "adversario": "macaoa",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/171538194294",
+      "eco": "C42",
+      "pontos": 0.0,
+      "end_time": 1783985401
+    },
+    {
+      "data": "2026-07-13T23:19:58+00:00",
+      "adversario": "Cigarreira",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178297671759",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1783984798
+    },
+    {
+      "data": "2026-07-13T23:11:14+00:00",
+      "adversario": "Bufa_Forte",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178297071745",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1783984274
+    },
+    {
       "data": "2026-07-13T22:48:11+00:00",
       "adversario": "Timostreet",
       "cor": "Brancas",
