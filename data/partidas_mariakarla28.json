@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-14T18:46:13+00:00",
+      "adversario": "Leoeder",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 697,
+      "link": "https://www.chess.com/game/live/171575502974",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1784054773
+    },
+    {
+      "data": "2026-07-14T18:40:37+00:00",
+      "adversario": "ValetTref",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 705,
+      "link": "https://www.chess.com/game/live/171575389092",
+      "eco": "C41",
+      "pontos": 1.0,
+      "end_time": 1784054437
+    },
+    {
       "data": "2026-07-12T10:50:44+00:00",
       "adversario": "tmlh",
       "cor": "Pretas",
@@ -14884,84 +14910,6 @@
       "eco": "B01",
       "pontos": 1.0,
       "end_time": 1752490532
-    },
-    {
-      "data": "2025-07-13T18:41:56+00:00",
-      "adversario": "Ihdaa16",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1051,
-      "link": "https://www.chess.com/game/live/140658825284",
-      "eco": "B23",
-      "pontos": 0.0,
-      "end_time": 1752432116
-    },
-    {
-      "data": "2025-07-13T15:58:33+00:00",
-      "adversario": "Basheur",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1059,
-      "link": "https://www.chess.com/game/live/140654044074",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1752422313
-    },
-    {
-      "data": "2025-07-13T14:36:01+00:00",
-      "adversario": "ksjsrmc",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1051,
-      "link": "https://www.chess.com/game/live/140651147790",
-      "eco": "B53",
-      "pontos": 1.0,
-      "end_time": 1752417361
-    },
-    {
-      "data": "2025-07-13T10:30:31+00:00",
-      "adversario": "tonyingjuan",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1043,
-      "link": "https://www.chess.com/game/live/140643637318",
-      "eco": "B23",
-      "pontos": 1.0,
-      "end_time": 1752402631
-    },
-    {
-      "data": "2025-07-12T15:12:44+00:00",
-      "adversario": "Darr84",
-      "cor": "Brancas",
-      "resultado": "repetition",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1035,
-      "link": "https://www.chess.com/game/live/140616075498",
-      "eco": "C02",
-      "pontos": 0.5,
-      "end_time": 1752333164
-    },
-    {
-      "data": "2025-07-12T02:26:35+00:00",
-      "adversario": "DMG_ARO",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1035,
-      "link": "https://www.chess.com/game/live/140597574930",
-      "eco": "B21",
-      "pontos": 0.0,
-      "end_time": 1752287195
     }
   ]
 }
