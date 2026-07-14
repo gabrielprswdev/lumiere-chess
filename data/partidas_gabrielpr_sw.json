@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-14T17:39:25+00:00",
+      "adversario": "TamGam13",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 1893,
+      "link": "https://www.chess.com/game/live/178363672497",
+      "eco": "A01",
+      "pontos": 1.0,
+      "end_time": 1784050765
+    },
+    {
       "data": "2026-07-14T00:45:34+00:00",
       "adversario": "BeSomeone",
       "cor": "Brancas",
