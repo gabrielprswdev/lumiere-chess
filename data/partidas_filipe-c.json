@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-07-14T20:52:14+00:00",
+      "adversario": "n159b",
+      "cor": "Brancas",
+      "resultado": "stalemate",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 753,
+      "link": "https://www.chess.com/game/live/171579416752",
+      "eco": "D02",
+      "pontos": 0.5,
+      "end_time": 1784062334
+    },
+    {
+      "data": "2026-07-14T20:31:39+00:00",
+      "adversario": "Emerson_2011",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 753,
+      "link": "https://www.chess.com/game/live/171578892296",
+      "eco": "A45",
+      "pontos": 1.0,
+      "end_time": 1784061099
+    },
+    {
+      "data": "2026-07-14T20:18:11+00:00",
+      "adversario": "cooldudeee11",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 745,
+      "link": "https://www.chess.com/game/live/171578619048",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1784060291
+    },
+    {
+      "data": "2026-07-14T20:09:53+00:00",
+      "adversario": "Axmerizz",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 752,
+      "link": "https://www.chess.com/game/live/171578327796",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1784059793
+    },
+    {
       "data": "2026-07-14T00:03:59+00:00",
       "adversario": "Kipena",
       "cor": "Pretas",
