@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-14T00:03:59+00:00",
+      "adversario": "Kipena",
+      "cor": "Pretas",
+      "resultado": "repetition",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 760,
+      "link": "https://www.chess.com/game/live/171538896230",
+      "eco": "B14",
+      "pontos": 0.5,
+      "end_time": 1783987439
+    },
+    {
       "data": "2026-07-13T23:52:28+00:00",
       "adversario": "jas70",
       "cor": "Brancas",
@@ -33448,71 +33461,6 @@
       "eco": "B10",
       "pontos": 1.0,
       "end_time": 1752550392
-    },
-    {
-      "data": "2025-07-13T22:13:10+00:00",
-      "adversario": "dimsqr",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 445,
-      "link": "https://www.chess.com/game/live/140664909540",
-      "eco": "A40",
-      "pontos": 1.0,
-      "end_time": 1752444790
-    },
-    {
-      "data": "2025-07-13T02:51:39+00:00",
-      "adversario": "Snazzy1213",
-      "cor": "Pretas",
-      "resultado": "repetition",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 436,
-      "link": "https://www.chess.com/game/live/140633633592",
-      "eco": "C21",
-      "pontos": 0.5,
-      "end_time": 1752375099
-    },
-    {
-      "data": "2025-07-13T02:33:55+00:00",
-      "adversario": "xutzBR",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 436,
-      "link": "https://www.chess.com/game/live/140633601718",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1752374035
-    },
-    {
-      "data": "2025-07-13T02:16:08+00:00",
-      "adversario": "EgyGitano",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 428,
-      "link": "https://www.chess.com/game/live/140633202432",
-      "eco": "C23",
-      "pontos": 0.0,
-      "end_time": 1752372968
-    },
-    {
-      "data": "2025-07-13T02:09:04+00:00",
-      "adversario": "KingFU63",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 436,
-      "link": "https://www.chess.com/game/live/140633146434",
-      "eco": "C20",
-      "pontos": 0.0,
-      "end_time": 1752372544
     }
   ]
 }
