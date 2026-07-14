@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-14T21:43:48+00:00",
+      "adversario": "Abdulrazag7",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 753,
+      "link": "https://www.chess.com/game/live/171581081142",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1784065428
+    },
+    {
+      "data": "2026-07-14T21:23:40+00:00",
+      "adversario": "Chieftain1998",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 745,
+      "link": "https://www.chess.com/game/live/171580197242",
+      "eco": "A00",
+      "pontos": 0.0,
+      "end_time": 1784064220
+    },
+    {
       "data": "2026-07-14T20:52:14+00:00",
       "adversario": "n159b",
       "cor": "Brancas",
