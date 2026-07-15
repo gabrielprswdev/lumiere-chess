@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-15T14:14:24+00:00",
+      "adversario": "RayScorpion_War",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1229,
+      "link": "https://www.chess.com/game/live/171608959358",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1784124864
+    },
+    {
       "data": "2026-07-14T18:46:13+00:00",
       "adversario": "Leoeder",
       "cor": "Pretas",
@@ -14858,58 +14871,6 @@
       "eco": "B02",
       "pontos": 1.0,
       "end_time": 1752597394
-    },
-    {
-      "data": "2025-07-14T18:47:11+00:00",
-      "adversario": "on5starr",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1067,
-      "link": "https://www.chess.com/game/live/140695584344",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1752518831
-    },
-    {
-      "data": "2025-07-14T14:41:26+00:00",
-      "adversario": "esteban512d",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1075,
-      "link": "https://www.chess.com/game/live/140687171458",
-      "eco": "D26",
-      "pontos": 1.0,
-      "end_time": 1752504086
-    },
-    {
-      "data": "2025-07-14T12:10:24+00:00",
-      "adversario": "nicki98i",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1066,
-      "link": "https://www.chess.com/game/live/140682338606",
-      "eco": "A34",
-      "pontos": 1.0,
-      "end_time": 1752495024
-    },
-    {
-      "data": "2025-07-14T10:55:32+00:00",
-      "adversario": "duarung",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1058,
-      "link": "https://www.chess.com/game/live/140680172200",
-      "eco": "B01",
-      "pontos": 1.0,
-      "end_time": 1752490532
     }
   ]
 }
