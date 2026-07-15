@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-15T22:41:25+00:00",
+      "adversario": "bassingtime",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1902,
+      "link": "https://www.chess.com/game/live/171627560882",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1784155285
+    },
+    {
       "data": "2026-07-14T17:39:25+00:00",
       "adversario": "TamGam13",
       "cor": "Pretas",
@@ -93157,123 +93170,6 @@
       "eco": "C41",
       "pontos": 0.0,
       "end_time": 1752584674
-    },
-    {
-      "data": "2025-07-14T22:39:30+00:00",
-      "adversario": "Emperor_Boris",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1641,
-      "link": "https://www.chess.com/game/live/140702051678",
-      "eco": "C43",
-      "pontos": 1.0,
-      "end_time": 1752532770
-    },
-    {
-      "data": "2025-07-14T22:22:13+00:00",
-      "adversario": "kimpall11",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1633,
-      "link": "https://www.chess.com/game/live/140701649240",
-      "eco": "C42",
-      "pontos": 0.0,
-      "end_time": 1752531733
-    },
-    {
-      "data": "2025-07-14T21:01:17+00:00",
-      "adversario": "EndGameMaster88",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1463,
-      "link": "https://www.chess.com/game/live/140699786684",
-      "eco": "C42",
-      "pontos": 1.0,
-      "end_time": 1752526877
-    },
-    {
-      "data": "2025-07-14T20:55:53+00:00",
-      "adversario": "situuthc",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1455,
-      "link": "https://www.chess.com/game/live/140699686062",
-      "eco": "D03",
-      "pontos": 0.0,
-      "end_time": 1752526553
-    },
-    {
-      "data": "2025-07-14T20:52:17+00:00",
-      "adversario": "Sevak422",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1463,
-      "link": "https://www.chess.com/game/live/140699562916",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1752526337
-    },
-    {
-      "data": "2025-07-14T13:34:25+00:00",
-      "adversario": "LelapinBasque",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1455,
-      "link": "https://www.chess.com/game/live/140685135902",
-      "eco": "E91",
-      "pontos": 1.0,
-      "end_time": 1752500065
-    },
-    {
-      "data": "2025-07-14T13:31:41+00:00",
-      "adversario": "Nighthawks76",
-      "cor": "Pretas",
-      "resultado": "timevsinsufficient",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1447,
-      "link": "https://www.chess.com/game/live/140684931346",
-      "eco": "C24",
-      "pontos": 0.5,
-      "end_time": 1752499901
-    },
-    {
-      "data": "2025-07-14T13:24:58+00:00",
-      "adversario": "feminn12",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1447,
-      "link": "https://www.chess.com/game/live/140684798256",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1752499498
-    },
-    {
-      "data": "2025-07-14T13:21:18+00:00",
-      "adversario": "DrFB98",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1439,
-      "link": "https://www.chess.com/game/live/140684690756",
-      "eco": "D02",
-      "pontos": 1.0,
-      "end_time": 1752499278
     }
   ]
 }
