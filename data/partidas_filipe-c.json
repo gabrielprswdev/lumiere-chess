@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-16T16:55:30+00:00",
+      "adversario": "aggfth6tp",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/86400",
+      "rating": 723,
+      "link": "https://www.chess.com/game/daily/998952438",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1784220930
+    },
+    {
       "data": "2026-07-15T00:01:33+00:00",
       "adversario": "jas70",
       "cor": "Brancas",
@@ -33630,19 +33643,6 @@
       "eco": "B01",
       "pontos": 0.0,
       "end_time": 1752716343
-    },
-    {
-      "data": "2025-07-15T03:33:12+00:00",
-      "adversario": "mutairix2",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 453,
-      "link": "https://www.chess.com/game/live/140707848234",
-      "eco": "B10",
-      "pontos": 1.0,
-      "end_time": 1752550392
     }
   ]
 }
