@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-16T23:31:17+00:00",
+      "adversario": "Mooriiarty",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1368,
+      "link": "https://www.chess.com/game/live/171670923540",
+      "eco": "D30",
+      "pontos": 1.0,
+      "end_time": 1784244677
+    },
+    {
       "data": "2026-07-15T05:49:41+00:00",
       "adversario": "ailerslvt",
       "cor": "Pretas",
