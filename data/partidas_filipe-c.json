@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-16T19:30:07+00:00",
+      "adversario": "ELXITO72",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 750,
+      "link": "https://www.chess.com/game/live/171662768040",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1784230207
+    },
+    {
+      "data": "2026-07-16T19:14:05+00:00",
+      "adversario": "xSJWx",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 742,
+      "link": "https://www.chess.com/game/live/171662482562",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1784229245
+    },
+    {
+      "data": "2026-07-16T19:06:32+00:00",
+      "adversario": "manishchitla",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 750,
+      "link": "https://www.chess.com/game/live/171662043912",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1784228792
+    },
+    {
+      "data": "2026-07-16T18:55:07+00:00",
+      "adversario": "Gocool06",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 758,
+      "link": "https://www.chess.com/game/live/171661774326",
+      "eco": "A00",
+      "pontos": 0.0,
+      "end_time": 1784228107
+    },
+    {
+      "data": "2026-07-16T18:48:06+00:00",
+      "adversario": "saeta-peru",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 765,
+      "link": "https://www.chess.com/game/live/171661117852",
+      "eco": "A40",
+      "pontos": 0.5,
+      "end_time": 1784227686
+    },
+    {
       "data": "2026-07-16T16:55:30+00:00",
       "adversario": "aggfth6tp",
       "cor": "Brancas",
