@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-07-17T12:14:15+00:00",
+      "adversario": "serdarcho",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1369,
+      "link": "https://www.chess.com/game/live/171691392604",
+      "eco": "C40",
+      "pontos": 0.0,
+      "end_time": 1784290455
+    },
+    {
+      "data": "2026-07-17T12:12:23+00:00",
+      "adversario": "serdarcho",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1377,
+      "link": "https://www.chess.com/game/live/171691311232",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1784290343
+    },
+    {
+      "data": "2026-07-17T12:10:03+00:00",
+      "adversario": "Imran10000000000",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1369,
+      "link": "https://www.chess.com/game/live/171691233408",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1784290203
+    },
+    {
+      "data": "2026-07-17T12:08:18+00:00",
+      "adversario": "Vivancos6",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1361,
+      "link": "https://www.chess.com/game/live/171691151002",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1784290098
+    },
+    {
       "data": "2026-07-17T12:06:01+00:00",
       "adversario": "Vivancos6",
       "cor": "Pretas",
