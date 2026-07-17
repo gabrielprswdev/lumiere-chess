@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-17T02:51:36+00:00",
+      "adversario": "ch1lld4ddy",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1906,
+      "link": "https://www.chess.com/game/live/171675388094",
+      "eco": "B06",
+      "pontos": 1.0,
+      "end_time": 1784256696
+    },
+    {
+      "data": "2026-07-17T02:47:36+00:00",
+      "adversario": "erdmmmm",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1898,
+      "link": "https://www.chess.com/game/live/171675347054",
+      "eco": "B92",
+      "pontos": 1.0,
+      "end_time": 1784256456
+    },
+    {
+      "data": "2026-07-17T02:45:47+00:00",
+      "adversario": "amanjol1983com",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1890,
+      "link": "https://www.chess.com/game/live/171675206174",
+      "eco": "C42",
+      "pontos": 0.0,
+      "end_time": 1784256347
+    },
+    {
       "data": "2026-07-17T02:39:30+00:00",
       "adversario": "shovon-montreal",
       "cor": "Brancas",
