@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-17T18:01:50+00:00",
+      "adversario": "Rints12",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 742,
+      "link": "https://www.chess.com/game/live/171705558562",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1784311310
+    },
+    {
       "data": "2026-07-16T19:30:07+00:00",
       "adversario": "ELXITO72",
       "cor": "Pretas",
