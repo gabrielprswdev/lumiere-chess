@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-17T21:36:56+00:00",
+      "adversario": "Jugadorfa7",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 781,
+      "link": "https://www.chess.com/game/live/171713138112",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1784324216
+    },
+    {
+      "data": "2026-07-17T21:12:42+00:00",
+      "adversario": "Tdtebow15",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 773,
+      "link": "https://www.chess.com/game/live/171712390994",
+      "eco": "C44",
+      "pontos": 1.0,
+      "end_time": 1784322762
+    },
+    {
+      "data": "2026-07-17T20:34:04+00:00",
+      "adversario": "alex123356",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 766,
+      "link": "https://www.chess.com/game/live/171711244954",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1784320444
+    },
+    {
       "data": "2026-07-17T18:21:05+00:00",
       "adversario": "Nre99",
       "cor": "Brancas",
