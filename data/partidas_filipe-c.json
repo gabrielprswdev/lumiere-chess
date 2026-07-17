@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-17T22:28:59+00:00",
+      "adversario": "menorquebrada",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178640271751",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1784327339
+    },
+    {
+      "data": "2026-07-17T22:05:39+00:00",
+      "adversario": "Ilavenill",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 789,
+      "link": "https://www.chess.com/game/live/171714162516",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1784325939
+    },
+    {
       "data": "2026-07-17T21:36:56+00:00",
       "adversario": "Jugadorfa7",
       "cor": "Brancas",
