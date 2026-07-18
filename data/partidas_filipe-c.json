@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-18T22:41:47+00:00",
+      "adversario": "matheuslopesreis01",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 812,
+      "link": "https://www.chess.com/game/live/171760350936",
+      "eco": "C48",
+      "pontos": 1.0,
+      "end_time": 1784414507
+    },
+    {
+      "data": "2026-07-18T22:20:19+00:00",
+      "adversario": "Arivu222",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 812,
+      "link": "https://www.chess.com/game/live/171759536302",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1784413219
+    },
+    {
+      "data": "2026-07-18T21:59:59+00:00",
+      "adversario": "sass1962",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 804,
+      "link": "https://www.chess.com/game/live/171759089132",
+      "eco": "C23",
+      "pontos": 1.0,
+      "end_time": 1784411999
+    },
+    {
       "data": "2026-07-18T21:47:55+00:00",
       "adversario": "ha_711",
       "cor": "Brancas",
