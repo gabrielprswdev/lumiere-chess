@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-18T23:41:04+00:00",
+      "adversario": "Carlos8327",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 828,
+      "link": "https://www.chess.com/game/live/171761584068",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1784418064
+    },
+    {
+      "data": "2026-07-18T23:22:38+00:00",
+      "adversario": "matheus-deoliveira",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 812,
+      "link": "https://www.chess.com/game/live/171761000828",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1784416958
+    },
+    {
+      "data": "2026-07-18T23:02:34+00:00",
+      "adversario": "manoel533",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 812,
+      "link": "https://www.chess.com/game/live/171760634340",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1784415754
+    },
+    {
       "data": "2026-07-18T22:41:47+00:00",
       "adversario": "matheuslopesreis01",
       "cor": "Pretas",
