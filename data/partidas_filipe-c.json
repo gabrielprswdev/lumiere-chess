@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-18T19:56:31+00:00",
+      "adversario": "pavelljech",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 805,
+      "link": "https://www.chess.com/game/live/171755538200",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1784404591
+    },
+    {
+      "data": "2026-07-18T19:53:46+00:00",
+      "adversario": "Polaco1369",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 797,
+      "link": "https://www.chess.com/game/live/171754829698",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1784404426
+    },
+    {
       "data": "2026-07-18T00:16:18+00:00",
       "adversario": "matheuslopesreis01",
       "cor": "Pretas",
