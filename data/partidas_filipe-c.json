@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-18T00:16:18+00:00",
+      "adversario": "matheuslopesreis01",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/171717746964",
+      "eco": "C64",
+      "pontos": 0.0,
+      "end_time": 1784333778
+    },
+    {
+      "data": "2026-07-18T00:02:02+00:00",
+      "adversario": "kovacs_felp",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178646271317",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1784332922
+    },
+    {
       "data": "2026-07-17T23:50:37+00:00",
       "adversario": "kauayujimotokifreire",
       "cor": "Brancas",
@@ -33877,45 +33903,6 @@
       "eco": "C45",
       "pontos": 0.0,
       "end_time": 1753415002
-    },
-    {
-      "data": "2025-07-17T01:54:30+00:00",
-      "adversario": "Syakban_pohan",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 462,
-      "link": "https://www.chess.com/game/live/140780870052",
-      "eco": "A00",
-      "pontos": 1.0,
-      "end_time": 1752717270
-    },
-    {
-      "data": "2025-07-17T01:45:08+00:00",
-      "adversario": "andylee0917",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 454,
-      "link": "https://www.chess.com/game/live/140780743696",
-      "eco": "A40",
-      "pontos": 1.0,
-      "end_time": 1752716708
-    },
-    {
-      "data": "2025-07-17T01:39:03+00:00",
-      "adversario": "prateekmishra1276",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 446,
-      "link": "https://www.chess.com/game/live/140780582610",
-      "eco": "B01",
-      "pontos": 0.0,
-      "end_time": 1752716343
     }
   ]
 }
