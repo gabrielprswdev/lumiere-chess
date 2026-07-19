@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-19T00:46:07+00:00",
+      "adversario": "pastelgame",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 828,
+      "link": "https://www.chess.com/game/live/171763255812",
+      "eco": "D04",
+      "pontos": 0.0,
+      "end_time": 1784421967
+    },
+    {
+      "data": "2026-07-19T00:37:06+00:00",
+      "adversario": "Mat-73",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 828,
+      "link": "https://www.chess.com/game/live/171762987412",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1784421426
+    },
+    {
+      "data": "2026-07-19T00:26:25+00:00",
+      "adversario": "SaveD_ttk",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 828,
+      "link": "https://www.chess.com/game/live/171762673478",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1784420785
+    },
+    {
+      "data": "2026-07-19T00:11:42+00:00",
+      "adversario": "Dudinhahhh",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 828,
+      "link": "https://www.chess.com/game/live/171762502956",
+      "eco": "A48",
+      "pontos": 0.0,
+      "end_time": 1784419902
+    },
+    {
+      "data": "2026-07-19T00:04:32+00:00",
+      "adversario": "erikpparraga",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/171762290420",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1784419472
+    },
+    {
       "data": "2026-07-18T23:41:04+00:00",
       "adversario": "Carlos8327",
       "cor": "Brancas",
