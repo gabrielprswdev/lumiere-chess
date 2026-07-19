@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-19T18:27:26+00:00",
+      "adversario": "luzfilipe01",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 748,
+      "link": "https://www.chess.com/game/daily/987857704",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1784485646
+    },
+    {
       "data": "2026-07-19T00:46:07+00:00",
       "adversario": "pastelgame",
       "cor": "Brancas",
