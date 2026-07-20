@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-20T22:54:58+00:00",
+      "adversario": "matheuslopesreis01",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178901271739",
+      "eco": "C48",
+      "pontos": 0.0,
+      "end_time": 1784588098
+    },
+    {
+      "data": "2026-07-20T22:35:35+00:00",
+      "adversario": "A_feera",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178900071461",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1784586935
+    },
+    {
+      "data": "2026-07-20T22:23:50+00:00",
+      "adversario": "Cigarreira",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178899471481",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1784586230
+    },
+    {
+      "data": "2026-07-20T22:14:06+00:00",
+      "adversario": "menorquebrada",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178898871415",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1784585646
+    },
+    {
+      "data": "2026-07-20T21:50:40+00:00",
+      "adversario": "erikpparraga",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178897671357",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1784584240
+    },
+    {
       "data": "2026-07-20T21:10:02+00:00",
       "adversario": "guilhermeabanes06",
       "cor": "Pretas",
