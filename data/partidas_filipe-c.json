@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-20T19:39:03+00:00",
+      "adversario": "ItsFardeen7",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 820,
+      "link": "https://www.chess.com/game/live/171842129072",
+      "eco": "C20",
+      "pontos": 0.0,
+      "end_time": 1784576343
+    },
+    {
+      "data": "2026-07-20T18:57:10+00:00",
+      "adversario": "JordanTTRV",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 746,
+      "link": "https://www.chess.com/game/daily/994825464",
+      "eco": "B30",
+      "pontos": 0.0,
+      "end_time": 1784573830
+    },
+    {
       "data": "2026-07-19T18:27:26+00:00",
       "adversario": "luzfilipe01",
       "cor": "Pretas",
