@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-20T12:19:40+00:00",
+      "adversario": "Robos18",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1227,
+      "link": "https://www.chess.com/game/live/171824357546",
+      "eco": "B06",
+      "pontos": 1.0,
+      "end_time": 1784549980
+    },
+    {
+      "data": "2026-07-20T10:29:50+00:00",
+      "adversario": "Jakos22",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1216,
+      "link": "https://www.chess.com/game/live/171820732096",
+      "eco": "C00",
+      "pontos": 1.0,
+      "end_time": 1784543390
+    },
+    {
       "data": "2026-07-17T21:59:55+00:00",
       "adversario": "zenmario",
       "cor": "Brancas",
@@ -14650,123 +14676,6 @@
       "eco": "B50",
       "pontos": 0.0,
       "end_time": 1753010613
-    },
-    {
-      "data": "2025-07-19T22:20:56+00:00",
-      "adversario": "ViniciusCarretti",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1150,
-      "link": "https://www.chess.com/game/live/140886398876",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1752963656
-    },
-    {
-      "data": "2025-07-19T20:58:48+00:00",
-      "adversario": "sangkak",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1142,
-      "link": "https://www.chess.com/game/live/140884571760",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1752958728
-    },
-    {
-      "data": "2025-07-19T17:08:43+00:00",
-      "adversario": "Chess_M00se",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1134,
-      "link": "https://www.chess.com/game/live/140877921804",
-      "eco": "B50",
-      "pontos": 1.0,
-      "end_time": 1752944923
-    },
-    {
-      "data": "2025-07-19T11:11:19+00:00",
-      "adversario": "jobby123456",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1126,
-      "link": "https://www.chess.com/game/live/140866537834",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1752923479
-    },
-    {
-      "data": "2025-07-18T11:43:34+00:00",
-      "adversario": "kikomasi",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1118,
-      "link": "https://www.chess.com/game/live/140830522242",
-      "eco": "C40",
-      "pontos": 0.0,
-      "end_time": 1752839014
-    },
-    {
-      "data": "2025-07-17T16:30:13+00:00",
-      "adversario": "Dug182",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1125,
-      "link": "https://www.chess.com/game/live/140803115058",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1752769813
-    },
-    {
-      "data": "2025-07-17T14:27:49+00:00",
-      "adversario": "grigorii174",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1117,
-      "link": "https://www.chess.com/game/live/140799065640",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1752762469
-    },
-    {
-      "data": "2025-07-17T12:54:41+00:00",
-      "adversario": "khosroparviz195sadegh",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1108,
-      "link": "https://www.chess.com/game/live/140796104972",
-      "eco": "D00",
-      "pontos": 1.0,
-      "end_time": 1752756881
-    },
-    {
-      "data": "2025-07-17T00:57:32+00:00",
-      "adversario": "reverselimbo",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 415,
-      "link": "https://www.chess.com/game/live/140779949098",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1752713852
     }
   ]
 }
