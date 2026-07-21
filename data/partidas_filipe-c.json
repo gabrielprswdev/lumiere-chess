@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-21T19:16:09+00:00",
+      "adversario": "Farudd12",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 813,
+      "link": "https://www.chess.com/game/live/171887683070",
+      "eco": "A45",
+      "pontos": 1.0,
+      "end_time": 1784661369
+    },
+    {
       "data": "2026-07-21T02:08:37+00:00",
       "adversario": "Betum89",
       "cor": "Pretas",
