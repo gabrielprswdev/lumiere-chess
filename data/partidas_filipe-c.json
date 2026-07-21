@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-07-21T23:43:38+00:00",
+      "adversario": "heltonsouzamartins",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "180+2",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178990671825",
+      "eco": "A48",
+      "pontos": 0.0,
+      "end_time": 1784677418
+    },
+    {
+      "data": "2026-07-21T23:34:23+00:00",
+      "adversario": "Fullhouses81",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "180+2",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178990071837",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1784676863
+    },
+    {
+      "data": "2026-07-21T23:23:57+00:00",
+      "adversario": "pinheiro_pg20",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "180+2",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178989471511",
+      "eco": "A48",
+      "pontos": 0.0,
+      "end_time": 1784676237
+    },
+    {
+      "data": "2026-07-21T23:09:42+00:00",
+      "adversario": "menorquebrada",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "180+2",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178988871511",
+      "eco": "A46",
+      "pontos": 0.0,
+      "end_time": 1784675382
+    },
+    {
       "data": "2026-07-21T22:35:31+00:00",
       "adversario": "MAGO123987",
       "cor": "Brancas",
