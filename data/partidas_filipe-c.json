@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-20T23:37:18+00:00",
+      "adversario": "Sebile123",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178903671985",
+      "eco": "A48",
+      "pontos": 1.0,
+      "end_time": 1784590638
+    },
+    {
+      "data": "2026-07-20T23:28:20+00:00",
+      "adversario": "jonasdutra",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178903071691",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1784590100
+    },
+    {
+      "data": "2026-07-20T23:17:14+00:00",
+      "adversario": "Bufa_Forte",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/178902471753",
+      "eco": "D05",
+      "pontos": 0.0,
+      "end_time": 1784589434
+    },
+    {
       "data": "2026-07-20T22:54:58+00:00",
       "adversario": "matheuslopesreis01",
       "cor": "Pretas",
