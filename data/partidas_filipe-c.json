@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-07-21T20:22:51+00:00",
+      "adversario": "MrBacoBell",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 829,
+      "link": "https://www.chess.com/game/live/171889952532",
+      "eco": "C65",
+      "pontos": 1.0,
+      "end_time": 1784665371
+    },
+    {
+      "data": "2026-07-21T20:07:21+00:00",
+      "adversario": "Pegorma",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 821,
+      "link": "https://www.chess.com/game/live/171889387422",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1784664441
+    },
+    {
+      "data": "2026-07-21T19:51:53+00:00",
+      "adversario": "jhonson1968",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 813,
+      "link": "https://www.chess.com/game/live/171889158206",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1784663513
+    },
+    {
+      "data": "2026-07-21T19:35:18+00:00",
+      "adversario": "Aquila2024",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 805,
+      "link": "https://www.chess.com/game/live/171888046344",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1784662518
+    },
+    {
       "data": "2026-07-21T19:16:09+00:00",
       "adversario": "Farudd12",
       "cor": "Brancas",
