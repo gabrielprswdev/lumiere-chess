@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-22T10:52:12+00:00",
+      "adversario": "2004_m",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1228,
+      "link": "https://www.chess.com/game/live/171913238942",
+      "eco": "B40",
+      "pontos": 0.0,
+      "end_time": 1784717532
+    },
+    {
       "data": "2026-07-21T12:40:49+00:00",
       "adversario": "Aleksey8312",
       "cor": "Brancas",
@@ -14663,19 +14676,6 @@
       "eco": "C50",
       "pontos": 1.0,
       "end_time": 1753188978
-    },
-    {
-      "data": "2025-07-21T11:16:37+00:00",
-      "adversario": "Ansurchakma2004",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1134,
-      "link": "https://www.chess.com/game/live/140937913240",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1753096597
     }
   ]
 }
