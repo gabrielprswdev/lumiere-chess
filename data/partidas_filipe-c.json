@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-23T23:50:11+00:00",
+      "adversario": "MasterBRchess",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/179163471971",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1784850611
+    },
+    {
+      "data": "2026-07-23T23:42:08+00:00",
+      "adversario": "jas70",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/179163471503",
+      "eco": "A80",
+      "pontos": 0.0,
+      "end_time": 1784850128
+    },
+    {
+      "data": "2026-07-23T23:15:59+00:00",
+      "adversario": "owalkerk",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 853,
+      "link": "https://www.chess.com/game/live/171987932152",
+      "eco": "D31",
+      "pontos": 0.0,
+      "end_time": 1784848559
+    },
+    {
       "data": "2026-07-22T00:46:01+00:00",
       "adversario": "Arthur_lanchotti",
       "cor": "Pretas",
