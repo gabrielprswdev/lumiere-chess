@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-23T11:15:53+00:00",
+      "adversario": "Sunr1se_Parabellum",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1239,
+      "link": "https://www.chess.com/game/live/171960557278",
+      "eco": "D30",
+      "pontos": 1.0,
+      "end_time": 1784805353
+    },
+    {
       "data": "2026-07-22T10:52:12+00:00",
       "adversario": "2004_m",
       "cor": "Pretas",
@@ -14650,32 +14663,6 @@
       "eco": "B36",
       "pontos": 0.0,
       "end_time": 1753286594
-    },
-    {
-      "data": "2025-07-22T13:18:57+00:00",
-      "adversario": "AlexandrZel",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1134,
-      "link": "https://www.chess.com/game/live/140979397682",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1753190337
-    },
-    {
-      "data": "2025-07-22T12:56:18+00:00",
-      "adversario": "didapro",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1142,
-      "link": "https://www.chess.com/game/live/140979223250",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1753188978
     }
   ]
 }
