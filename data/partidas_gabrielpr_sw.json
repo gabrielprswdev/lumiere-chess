@@ -1,6 +1,84 @@
 {
   "partidas": [
     {
+      "data": "2026-07-22T23:33:38+00:00",
+      "adversario": "TheodoreSav",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1938,
+      "link": "https://www.chess.com/game/live/171942444280",
+      "eco": "B28",
+      "pontos": 1.0,
+      "end_time": 1784763218
+    },
+    {
+      "data": "2026-07-22T23:24:56+00:00",
+      "adversario": "RicsUru",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1930,
+      "link": "https://www.chess.com/game/live/171942204058",
+      "eco": "C27",
+      "pontos": 1.0,
+      "end_time": 1784762696
+    },
+    {
+      "data": "2026-07-22T23:19:39+00:00",
+      "adversario": "raffattacks21",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1922,
+      "link": "https://www.chess.com/game/live/171942111512",
+      "eco": "D40",
+      "pontos": 0.0,
+      "end_time": 1784762379
+    },
+    {
+      "data": "2026-07-22T23:15:51+00:00",
+      "adversario": "Batemann",
+      "cor": "Pretas",
+      "resultado": "timevsinsufficient",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1929,
+      "link": "https://www.chess.com/game/live/171941952506",
+      "eco": "C21",
+      "pontos": 0.5,
+      "end_time": 1784762151
+    },
+    {
+      "data": "2026-07-22T23:03:57+00:00",
+      "adversario": "rodricor1",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1929,
+      "link": "https://www.chess.com/game/live/171941747450",
+      "eco": "C00",
+      "pontos": 1.0,
+      "end_time": 1784761437
+    },
+    {
+      "data": "2026-07-22T23:01:12+00:00",
+      "adversario": "rodrigot31",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1921,
+      "link": "https://www.chess.com/game/live/171941706434",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1784761272
+    },
+    {
       "data": "2026-07-22T22:59:35+00:00",
       "adversario": "P3paGarden",
       "cor": "Brancas",
@@ -92429,45 +92507,6 @@
       "eco": "C00",
       "pontos": 0.0,
       "end_time": 1753277959
-    },
-    {
-      "data": "2025-07-22T15:04:47+00:00",
-      "adversario": "RaJpOOt003",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1707,
-      "link": "https://www.chess.com/game/live/140983536656",
-      "eco": "C24",
-      "pontos": 1.0,
-      "end_time": 1753196687
-    },
-    {
-      "data": "2025-07-22T15:00:10+00:00",
-      "adversario": "juandatambun",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1699,
-      "link": "https://www.chess.com/game/live/140982905178",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1753196410
-    },
-    {
-      "data": "2025-07-22T14:42:17+00:00",
-      "adversario": "Mustbbilling",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1691,
-      "link": "https://www.chess.com/game/live/140982515570",
-      "eco": "C01",
-      "pontos": 0.0,
-      "end_time": 1753195337
     }
   ]
 }
