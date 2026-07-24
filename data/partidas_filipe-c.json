@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-07-24T20:45:37+00:00",
+      "adversario": "Saini2130",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 845,
+      "link": "https://www.chess.com/game/live/172029743718",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1784925937
+    },
+    {
+      "data": "2026-07-24T20:35:43+00:00",
+      "adversario": "suman565",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 853,
+      "link": "https://www.chess.com/game/live/172029297732",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1784925343
+    },
+    {
+      "data": "2026-07-24T20:18:27+00:00",
+      "adversario": "Emersin-7",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 861,
+      "link": "https://www.chess.com/game/live/172028747562",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1784924307
+    },
+    {
+      "data": "2026-07-24T19:56:07+00:00",
+      "adversario": "KissTheSky2015",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 853,
+      "link": "https://www.chess.com/game/live/172028024660",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1784922967
+    },
+    {
+      "data": "2026-07-24T19:46:28+00:00",
+      "adversario": "nezirho",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 845,
+      "link": "https://www.chess.com/game/live/172027669622",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1784922388
+    },
+    {
       "data": "2026-07-24T00:16:04+00:00",
       "adversario": "WelsonRC",
       "cor": "Brancas",
