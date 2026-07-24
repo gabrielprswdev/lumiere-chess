@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-24T21:50:41+00:00",
+      "adversario": "Chiru0205",
+      "cor": "Brancas",
+      "resultado": "timevsinsufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 861,
+      "link": "https://www.chess.com/game/live/172031582782",
+      "eco": "D00",
+      "pontos": 0.5,
+      "end_time": 1784929841
+    },
+    {
+      "data": "2026-07-24T21:31:55+00:00",
+      "adversario": "tatet3rrific",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 861,
+      "link": "https://www.chess.com/game/live/172031093518",
+      "eco": "D10",
+      "pontos": 1.0,
+      "end_time": 1784928715
+    },
+    {
+      "data": "2026-07-24T21:06:41+00:00",
+      "adversario": "LeloucheVld",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 853,
+      "link": "https://www.chess.com/game/live/172030075092",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1784927201
+    },
+    {
       "data": "2026-07-24T20:45:37+00:00",
       "adversario": "Saini2130",
       "cor": "Pretas",
