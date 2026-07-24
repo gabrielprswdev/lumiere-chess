@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-24T10:19:15+00:00",
+      "adversario": "Pavel9876543",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1249,
+      "link": "https://www.chess.com/game/live/172004597780",
+      "eco": "B44",
+      "pontos": 1.0,
+      "end_time": 1784888355
+    },
+    {
       "data": "2026-07-23T11:15:53+00:00",
       "adversario": "Sunr1se_Parabellum",
       "cor": "Pretas",
@@ -14637,32 +14650,6 @@
       "eco": "B00",
       "pontos": 1.0,
       "end_time": 1753359611
-    },
-    {
-      "data": "2025-07-23T16:43:07+00:00",
-      "adversario": "undacoverGM",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1127,
-      "link": "https://www.chess.com/game/live/141024781104",
-      "eco": "D37",
-      "pontos": 1.0,
-      "end_time": 1753288987
-    },
-    {
-      "data": "2025-07-23T16:03:14+00:00",
-      "adversario": "butfemk",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1127,
-      "link": "https://www.chess.com/game/live/141023429974",
-      "eco": "B36",
-      "pontos": 0.0,
-      "end_time": 1753286594
     }
   ]
 }
