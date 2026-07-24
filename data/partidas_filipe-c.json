@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-24T00:16:04+00:00",
+      "adversario": "WelsonRC",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 853,
+      "link": "https://www.chess.com/game/live/171989415500",
+      "eco": "A43",
+      "pontos": 0.0,
+      "end_time": 1784852164
+    },
+    {
+      "data": "2026-07-24T00:01:18+00:00",
+      "adversario": "Pelomba",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/179164671371",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1784851278
+    },
+    {
       "data": "2026-07-23T23:50:11+00:00",
       "adversario": "MasterBRchess",
       "cor": "Pretas",
