@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-25T19:09:57+00:00",
+      "adversario": "1RwanSet1abUd1offline",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1259,
+      "link": "https://www.chess.com/game/live/172071589514",
+      "eco": "C00",
+      "pontos": 1.0,
+      "end_time": 1785006597
+    },
+    {
       "data": "2026-07-24T10:19:15+00:00",
       "adversario": "Pavel9876543",
       "cor": "Pretas",
@@ -14611,45 +14624,6 @@
       "eco": "B20",
       "pontos": 0.0,
       "end_time": 1753445466
-    },
-    {
-      "data": "2025-07-24T22:16:51+00:00",
-      "adversario": "Sentelemon",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1135,
-      "link": "https://www.chess.com/game/live/141072711658",
-      "eco": "A45",
-      "pontos": 0.0,
-      "end_time": 1753395411
-    },
-    {
-      "data": "2025-07-24T14:28:35+00:00",
-      "adversario": "librasingh",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1143,
-      "link": "https://www.chess.com/game/live/141057692392",
-      "eco": "D30",
-      "pontos": 1.0,
-      "end_time": 1753367315
-    },
-    {
-      "data": "2025-07-24T12:20:11+00:00",
-      "adversario": "S1994o",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1135,
-      "link": "https://www.chess.com/game/live/141053640218",
-      "eco": "B00",
-      "pontos": 1.0,
-      "end_time": 1753359611
     }
   ]
 }
