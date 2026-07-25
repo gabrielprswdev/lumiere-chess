@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-25T00:04:37+00:00",
+      "adversario": "raphaluz",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 427,
+      "link": "https://www.chess.com/game/live/179251071257",
+      "eco": "B18",
+      "pontos": 1.0,
+      "end_time": 1784937877
+    },
+    {
       "data": "2026-07-24T23:54:15+00:00",
       "adversario": "bellison890",
       "cor": "Pretas",
