@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-26T12:11:34+00:00",
+      "adversario": "Vinty_05",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1270,
+      "link": "https://www.chess.com/game/live/172100145346",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1785067894
+    },
+    {
       "data": "2026-07-25T19:09:57+00:00",
       "adversario": "1RwanSet1abUd1offline",
       "cor": "Brancas",
@@ -14611,19 +14624,6 @@
       "eco": "C50",
       "pontos": 1.0,
       "end_time": 1753554945
-    },
-    {
-      "data": "2025-07-25T12:11:06+00:00",
-      "adversario": "iamcalledtom",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1127,
-      "link": "https://www.chess.com/game/live/141090957548",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1753445466
     }
   ]
 }
