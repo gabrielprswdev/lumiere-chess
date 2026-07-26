@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-26T16:18:09+00:00",
+      "adversario": "Eojipmacs",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1279,
+      "link": "https://www.chess.com/game/live/172109834912",
+      "eco": "B01",
+      "pontos": 0.5,
+      "end_time": 1785082689
+    },
+    {
+      "data": "2026-07-26T16:01:11+00:00",
+      "adversario": "darmaa666",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1279,
+      "link": "https://www.chess.com/game/live/172109770248",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1785081671
+    },
+    {
       "data": "2026-07-26T12:11:34+00:00",
       "adversario": "Vinty_05",
       "cor": "Pretas",
