@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-27T00:36:19+00:00",
+      "adversario": "BLEHHHHH_xP",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "1/259200",
+      "rating": 746,
+      "link": "https://www.chess.com/game/daily/1000260264",
+      "eco": "C28",
+      "pontos": 1.0,
+      "end_time": 1785112579
+    },
+    {
       "data": "2026-07-25T00:04:37+00:00",
       "adversario": "raphaluz",
       "cor": "Brancas",
@@ -34917,32 +34930,6 @@
       "eco": "C21",
       "pontos": 0.0,
       "end_time": 1753653923
-    },
-    {
-      "data": "2025-07-25T03:56:38+00:00",
-      "adversario": "FSU310",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 462,
-      "link": "https://www.chess.com/game/live/141079082498",
-      "eco": "C48",
-      "pontos": 1.0,
-      "end_time": 1753415798
-    },
-    {
-      "data": "2025-07-25T03:43:22+00:00",
-      "adversario": "BRLDKaran",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 454,
-      "link": "https://www.chess.com/game/live/141078880764",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1753415002
     }
   ]
 }

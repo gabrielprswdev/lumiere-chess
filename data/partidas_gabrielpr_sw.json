@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-27T01:52:51+00:00",
+      "adversario": "Ayuemnhiulam12",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1910,
+      "link": "https://www.chess.com/game/live/172128674428",
+      "eco": "B73",
+      "pontos": 1.0,
+      "end_time": 1785117171
+    },
+    {
       "data": "2026-07-26T00:37:04+00:00",
       "adversario": "joluolar39",
       "cor": "Brancas",
@@ -93586,58 +93599,6 @@
       "eco": "C55",
       "pontos": 1.0,
       "end_time": 1753621234
-    },
-    {
-      "data": "2025-07-26T12:28:40+00:00",
-      "adversario": "AirPodsPR0",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1679,
-      "link": "https://www.chess.com/game/live/141129034910",
-      "eco": "B22",
-      "pontos": 0.0,
-      "end_time": 1753532920
-    },
-    {
-      "data": "2025-07-26T12:20:37+00:00",
-      "adversario": "MixiKing",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1688,
-      "link": "https://www.chess.com/game/live/141128792992",
-      "eco": "C47",
-      "pontos": 0.0,
-      "end_time": 1753532437
-    },
-    {
-      "data": "2025-07-26T12:13:00+00:00",
-      "adversario": "Cadak",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1695,
-      "link": "https://www.chess.com/game/live/141128679116",
-      "eco": "D50",
-      "pontos": 0.0,
-      "end_time": 1753531980
-    },
-    {
-      "data": "2025-07-26T12:09:09+00:00",
-      "adversario": "Dvbrt",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1703,
-      "link": "https://www.chess.com/game/live/141128459094",
-      "eco": "C24",
-      "pontos": 0.0,
-      "end_time": 1753531749
     }
   ]
 }
