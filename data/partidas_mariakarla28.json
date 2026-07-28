@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-28T11:34:44+00:00",
+      "adversario": "234et6rty6y",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1279,
+      "link": "https://www.chess.com/game/live/172191030734",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1785238484
+    },
+    {
       "data": "2026-07-27T13:55:29+00:00",
       "adversario": "Haribla",
       "cor": "Brancas",
@@ -14650,19 +14663,6 @@
       "eco": "A45",
       "pontos": 0.0,
       "end_time": 1753700572
-    },
-    {
-      "data": "2025-07-27T14:21:20+00:00",
-      "adversario": "moinudinb",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1119,
-      "link": "https://www.chess.com/game/live/141169467886",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1753626080
     }
   ]
 }
