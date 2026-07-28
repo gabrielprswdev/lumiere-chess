@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-28T00:15:15+00:00",
+      "adversario": "heltonsouzamartins",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 863,
+      "link": "https://www.chess.com/game/live/179510271489",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1785197715
+    },
+    {
       "data": "2026-07-27T23:49:42+00:00",
       "adversario": "RodoHosu",
       "cor": "Brancas",
