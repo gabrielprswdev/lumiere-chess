@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-07-27T23:49:42+00:00",
+      "adversario": "RodoHosu",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 863,
+      "link": "https://www.chess.com/game/live/179509671155",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1785196182
+    },
+    {
+      "data": "2026-07-27T23:43:08+00:00",
+      "adversario": "geek25x",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 863,
+      "link": "https://www.chess.com/game/live/179508471821",
+      "eco": "C30",
+      "pontos": 1.0,
+      "end_time": 1785195788
+    },
+    {
+      "data": "2026-07-27T23:16:25+00:00",
+      "adversario": "MostafaRabeea",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 863,
+      "link": "https://www.chess.com/game/live/172171391948",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1785194185
+    },
+    {
       "data": "2026-07-27T22:57:30+00:00",
       "adversario": "fasil5899",
       "cor": "Pretas",
@@ -35060,32 +35099,6 @@
       "eco": "C20",
       "pontos": 1.0,
       "end_time": 1753664866
-    },
-    {
-      "data": "2025-07-27T22:24:10+00:00",
-      "adversario": "Pre19192024",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 446,
-      "link": "https://www.chess.com/game/live/141184266360",
-      "eco": "B07",
-      "pontos": 0.0,
-      "end_time": 1753655050
-    },
-    {
-      "data": "2025-07-27T22:05:23+00:00",
-      "adversario": "GohelSahil_69",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 454,
-      "link": "https://www.chess.com/game/live/141183983800",
-      "eco": "C21",
-      "pontos": 0.0,
-      "end_time": 1753653923
     }
   ]
 }
