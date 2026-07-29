@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-29T13:21:23+00:00",
+      "adversario": "dragica54",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1287,
+      "link": "https://www.chess.com/game/live/172242605448",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1785331283
+    },
+    {
       "data": "2026-07-28T11:34:44+00:00",
       "adversario": "234et6rty6y",
       "cor": "Brancas",
@@ -14624,45 +14637,6 @@
       "eco": "B50",
       "pontos": 0.0,
       "end_time": 1753794597
-    },
-    {
-      "data": "2025-07-28T15:28:26+00:00",
-      "adversario": "celajovic",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1095,
-      "link": "https://www.chess.com/game/live/141209139918",
-      "eco": "C40",
-      "pontos": 0.0,
-      "end_time": 1753716506
-    },
-    {
-      "data": "2025-07-28T14:16:07+00:00",
-      "adversario": "RudraNarayanJana",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1103,
-      "link": "https://www.chess.com/game/live/141206479558",
-      "eco": "C47",
-      "pontos": 0.0,
-      "end_time": 1753712167
-    },
-    {
-      "data": "2025-07-28T11:02:52+00:00",
-      "adversario": "Dani575",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1111,
-      "link": "https://www.chess.com/game/live/141199949354",
-      "eco": "A45",
-      "pontos": 0.0,
-      "end_time": 1753700572
     }
   ]
 }
