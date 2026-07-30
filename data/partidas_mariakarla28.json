@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-30T11:12:29+00:00",
+      "adversario": "Rudbaslam8",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1295,
+      "link": "https://www.chess.com/game/live/172283811042",
+      "eco": "B40",
+      "pontos": 1.0,
+      "end_time": 1785409949
+    },
+    {
       "data": "2026-07-29T13:21:23+00:00",
       "adversario": "dragica54",
       "cor": "Brancas",
@@ -14533,110 +14546,6 @@
       "eco": "A07",
       "pontos": 1.0,
       "end_time": 1753875128
-    },
-    {
-      "data": "2025-07-29T19:00:41+00:00",
-      "adversario": "joseyoutlaw5",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1104,
-      "link": "https://www.chess.com/game/live/141255631600",
-      "eco": "B36",
-      "pontos": 1.0,
-      "end_time": 1753815641
-    },
-    {
-      "data": "2025-07-29T17:22:25+00:00",
-      "adversario": "Sneha0309",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1095,
-      "link": "https://www.chess.com/game/live/141252363320",
-      "eco": "B40",
-      "pontos": 1.0,
-      "end_time": 1753809745
-    },
-    {
-      "data": "2025-07-29T17:05:25+00:00",
-      "adversario": "BigBadWeed",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/141252185876",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1753808725
-    },
-    {
-      "data": "2025-07-29T17:01:49+00:00",
-      "adversario": "Artos2b",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/141251795728",
-      "eco": "B50",
-      "pontos": 1.0,
-      "end_time": 1753808509
-    },
-    {
-      "data": "2025-07-29T16:51:00+00:00",
-      "adversario": "DannyPie14",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/141251503470",
-      "eco": "B15",
-      "pontos": 1.0,
-      "end_time": 1753807860
-    },
-    {
-      "data": "2025-07-29T14:48:49+00:00",
-      "adversario": "Mhmd124k",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/141246934334",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1753800529
-    },
-    {
-      "data": "2025-07-29T13:55:16+00:00",
-      "adversario": "Tenali-Rama",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/141244852444",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1753797316
-    },
-    {
-      "data": "2025-07-29T13:09:57+00:00",
-      "adversario": "Akhil_Chauhan7209",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/141243334726",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1753794597
     }
   ]
 }
