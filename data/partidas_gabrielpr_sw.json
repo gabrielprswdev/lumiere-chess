@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-30T01:02:49+00:00",
+      "adversario": "mythcrusher",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1960,
+      "link": "https://www.chess.com/game/live/172267875866",
+      "eco": "C42",
+      "pontos": 0.0,
+      "end_time": 1785373369
+    },
+    {
       "data": "2026-07-29T14:01:14+00:00",
       "adversario": "MeNibir",
       "cor": "Brancas",
@@ -93742,71 +93755,6 @@
       "eco": "A01",
       "pontos": 0.0,
       "end_time": 1753897854
-    },
-    {
-      "data": "2025-07-29T17:31:53+00:00",
-      "adversario": "medinaantonio",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1663,
-      "link": "https://www.chess.com/game/live/141252779114",
-      "eco": "B07",
-      "pontos": 0.0,
-      "end_time": 1753810313
-    },
-    {
-      "data": "2025-07-29T17:16:29+00:00",
-      "adversario": "JPpeeps",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1671,
-      "link": "https://www.chess.com/game/live/141252447866",
-      "eco": "C29",
-      "pontos": 1.0,
-      "end_time": 1753809389
-    },
-    {
-      "data": "2025-07-29T16:16:02+00:00",
-      "adversario": "shuweii",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 1394,
-      "link": "https://www.chess.com/game/live/141250348194",
-      "eco": "C42",
-      "pontos": 1.0,
-      "end_time": 1753805762
-    },
-    {
-      "data": "2025-07-29T16:13:44+00:00",
-      "adversario": "TooBiggle",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 1386,
-      "link": "https://www.chess.com/game/live/141250290832",
-      "eco": "B01",
-      "pontos": 0.0,
-      "end_time": 1753805624
-    },
-    {
-      "data": "2025-07-29T16:12:14+00:00",
-      "adversario": "harmanpall1608",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 1393,
-      "link": "https://www.chess.com/game/live/141250237082",
-      "eco": "A05",
-      "pontos": 0.0,
-      "end_time": 1753805534
     }
   ]
 }
