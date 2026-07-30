@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-30T14:37:26+00:00",
+      "adversario": "vondutchess",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1969,
+      "link": "https://www.chess.com/game/live/172292171490",
+      "eco": "A43",
+      "pontos": 1.0,
+      "end_time": 1785422246
+    },
+    {
       "data": "2026-07-30T01:02:49+00:00",
       "adversario": "mythcrusher",
       "cor": "Pretas",
