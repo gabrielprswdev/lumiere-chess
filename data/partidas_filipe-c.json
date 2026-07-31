@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-31T16:56:50+00:00",
+      "adversario": "Martinzinho2025",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 901,
+      "link": "https://www.chess.com/game/live/172344221634",
+      "eco": "C42",
+      "pontos": 0.0,
+      "end_time": 1785517010
+    },
+    {
       "data": "2026-07-31T16:25:36+00:00",
       "adversario": "Martinzinho2025",
       "cor": "Pretas",
