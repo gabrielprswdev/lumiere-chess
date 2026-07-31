@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-31T16:25:36+00:00",
+      "adversario": "Martinzinho2025",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 901,
+      "link": "https://www.chess.com/game/live/172343149070",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1785515136
+    },
+    {
+      "data": "2026-07-31T16:13:51+00:00",
+      "adversario": "Martinzinho2025",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 901,
+      "link": "https://www.chess.com/game/live/172342789014",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1785514431
+    },
+    {
       "data": "2026-07-31T14:07:28+00:00",
       "adversario": "BlunderBrazil24",
       "cor": "Pretas",
