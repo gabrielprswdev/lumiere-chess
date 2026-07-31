@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-07-31T22:00:10+00:00",
+      "adversario": "Hajaerosman",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 916,
+      "link": "https://www.chess.com/game/live/172355269456",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1785535210
+    },
+    {
+      "data": "2026-07-31T21:41:28+00:00",
+      "adversario": "geo010765",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 909,
+      "link": "https://www.chess.com/game/live/172354875320",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1785534088
+    },
+    {
+      "data": "2026-07-31T21:27:48+00:00",
+      "adversario": "nikhilaiims",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 901,
+      "link": "https://www.chess.com/game/live/172354306806",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1785533268
+    },
+    {
+      "data": "2026-07-31T20:25:16+00:00",
+      "adversario": "PalmerioJunior",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 909,
+      "link": "https://www.chess.com/game/live/172352420730",
+      "eco": "A48",
+      "pontos": 1.0,
+      "end_time": 1785529516
+    },
+    {
       "data": "2026-07-31T16:56:50+00:00",
       "adversario": "Martinzinho2025",
       "cor": "Pretas",
