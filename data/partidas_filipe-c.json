@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-07-31T14:07:28+00:00",
+      "adversario": "BlunderBrazil24",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 762,
+      "link": "https://www.chess.com/game/daily/982398432",
+      "eco": "D10",
+      "pontos": 1.0,
+      "end_time": 1785506848
+    },
+    {
       "data": "2026-07-31T00:22:55+00:00",
       "adversario": "Vortexksi",
       "cor": "Brancas",

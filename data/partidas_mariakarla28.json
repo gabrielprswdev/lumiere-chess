@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-07-31T12:05:05+00:00",
+      "adversario": "MSB7869",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1278,
+      "link": "https://www.chess.com/game/live/172332413076",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1785499505
+    },
+    {
+      "data": "2026-07-31T12:01:03+00:00",
+      "adversario": "MLMLUA",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1286,
+      "link": "https://www.chess.com/game/live/172332337056",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1785499263
+    },
+    {
       "data": "2026-07-30T11:12:29+00:00",
       "adversario": "Rudbaslam8",
       "cor": "Pretas",
@@ -14520,32 +14546,6 @@
       "eco": "B07",
       "pontos": 1.0,
       "end_time": 1753973813
-    },
-    {
-      "data": "2025-07-30T12:49:36+00:00",
-      "adversario": "HoustonSchuyler",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1104,
-      "link": "https://www.chess.com/game/live/141281770858",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1753879776
-    },
-    {
-      "data": "2025-07-30T11:32:08+00:00",
-      "adversario": "Farhad303",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1112,
-      "link": "https://www.chess.com/game/live/141279447220",
-      "eco": "A07",
-      "pontos": 1.0,
-      "end_time": 1753875128
     }
   ]
 }
