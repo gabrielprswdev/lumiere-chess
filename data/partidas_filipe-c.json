@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-01T22:35:26+00:00",
+      "adversario": "wallacerror_404",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/179936271631",
+      "eco": "D31",
+      "pontos": 0.0,
+      "end_time": 1785623726
+    },
+    {
+      "data": "2026-08-01T22:03:24+00:00",
+      "adversario": "menorquebrada",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/179935071799",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1785621804
+    },
+    {
       "data": "2026-08-01T21:35:07+00:00",
       "adversario": "pinheiro_pg20",
       "cor": "Brancas",
