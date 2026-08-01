@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-01T00:02:44+00:00",
+      "adversario": "VWhester",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 759,
+      "link": "https://www.chess.com/game/daily/997490546",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1785542564
+    },
+    {
       "data": "2026-07-31T23:53:56+00:00",
       "adversario": "matheuslopesreis01",
       "cor": "Pretas",
