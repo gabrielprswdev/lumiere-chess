@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-01T18:50:50+00:00",
+      "adversario": "malibubobby",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 916,
+      "link": "https://www.chess.com/game/live/172393539898",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1785610250
+    },
+    {
+      "data": "2026-08-01T18:31:04+00:00",
+      "adversario": "KashinathanAM",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 924,
+      "link": "https://www.chess.com/game/live/172392934032",
+      "eco": "C47",
+      "pontos": 1.0,
+      "end_time": 1785609064
+    },
+    {
+      "data": "2026-08-01T18:17:37+00:00",
+      "adversario": "Osifomopo",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 916,
+      "link": "https://www.chess.com/game/live/172392244712",
+      "eco": "A45",
+      "pontos": 1.0,
+      "end_time": 1785608257
+    },
+    {
       "data": "2026-08-01T17:52:49+00:00",
       "adversario": "chomer2",
       "cor": "Pretas",
