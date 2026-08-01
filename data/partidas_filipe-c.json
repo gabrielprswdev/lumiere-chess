@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-01T21:35:07+00:00",
+      "adversario": "pinheiro_pg20",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/179932671719",
+      "eco": "A48",
+      "pontos": 0.0,
+      "end_time": 1785620107
+    },
+    {
+      "data": "2026-08-01T21:05:26+00:00",
+      "adversario": "zeckmusic",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/179931471897",
+      "eco": "D37",
+      "pontos": 0.0,
+      "end_time": 1785618326
+    },
+    {
+      "data": "2026-08-01T20:57:43+00:00",
+      "adversario": "anandshivam_anand",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/172397840764",
+      "eco": "A45",
+      "pontos": 1.0,
+      "end_time": 1785617863
+    },
+    {
       "data": "2026-08-01T20:35:56+00:00",
       "adversario": "likipiack",
       "cor": "Brancas",
