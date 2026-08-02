@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-02T21:33:27+00:00",
+      "adversario": "N8Forker",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/172444350270",
+      "eco": "C22",
+      "pontos": 1.0,
+      "end_time": 1785706407
+    },
+    {
+      "data": "2026-08-02T21:26:37+00:00",
+      "adversario": "Jojolavocadoo",
+      "cor": "Brancas",
+      "resultado": "stalemate",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/172443917018",
+      "eco": "C55",
+      "pontos": 0.5,
+      "end_time": 1785705997
+    },
+    {
       "data": "2026-08-02T19:39:08+00:00",
       "adversario": "m0808m",
       "cor": "Brancas",
