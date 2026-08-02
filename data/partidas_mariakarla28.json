@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-02T17:23:35+00:00",
+      "adversario": "PyPeres",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1261,
+      "link": "https://www.chess.com/game/live/172434730040",
+      "eco": "C26",
+      "pontos": 1.0,
+      "end_time": 1785691415
+    },
+    {
+      "data": "2026-08-02T16:26:34+00:00",
+      "adversario": "kurdari",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1261,
+      "link": "https://www.chess.com/game/live/172432420488",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1785687994
+    },
+    {
       "data": "2026-08-01T12:13:40+00:00",
       "adversario": "alialahwazi",
       "cor": "Pretas",
@@ -14455,58 +14481,6 @@
       "eco": "B20",
       "pontos": 0.0,
       "end_time": 1754173264
-    },
-    {
-      "data": "2025-08-01T17:14:43+00:00",
-      "adversario": "edgui",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1105,
-      "link": "https://www.chess.com/game/live/141368704382",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1754068483
-    },
-    {
-      "data": "2025-08-01T17:04:12+00:00",
-      "adversario": "ali12035",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1097,
-      "link": "https://www.chess.com/game/live/141368435874",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1754067852
-    },
-    {
-      "data": "2025-08-01T16:51:11+00:00",
-      "adversario": "Gy0rk0s",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1105,
-      "link": "https://www.chess.com/game/live/141367950766",
-      "eco": "A45",
-      "pontos": 0.0,
-      "end_time": 1754067071
-    },
-    {
-      "data": "2025-08-01T11:39:21+00:00",
-      "adversario": "Faris1sou",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1113,
-      "link": "https://www.chess.com/game/live/141357246404",
-      "eco": "C55",
-      "pontos": 0.0,
-      "end_time": 1754048361
     }
   ]
 }
