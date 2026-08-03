@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-03T18:40:13+00:00",
+      "adversario": "Capa_branca123",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/86400",
+      "rating": 749,
+      "link": "https://www.chess.com/game/daily/1006764560",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1785782413
+    },
+    {
       "data": "2026-08-03T01:58:06+00:00",
       "adversario": "befeo",
       "cor": "Pretas",
