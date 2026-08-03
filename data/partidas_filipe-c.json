@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-03T21:43:01+00:00",
+      "adversario": "fadeldaleel",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 916,
+      "link": "https://www.chess.com/game/live/172490162784",
+      "eco": "C23",
+      "pontos": 0.0,
+      "end_time": 1785793381
+    },
+    {
+      "data": "2026-08-03T21:25:38+00:00",
+      "adversario": "jonnyreid0_0",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 924,
+      "link": "https://www.chess.com/game/live/172489743216",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1785792338
+    },
+    {
+      "data": "2026-08-03T21:15:44+00:00",
+      "adversario": "LilRubes13",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 932,
+      "link": "https://www.chess.com/game/live/172488954502",
+      "eco": "A11",
+      "pontos": 0.0,
+      "end_time": 1785791744
+    },
+    {
+      "data": "2026-08-03T20:53:19+00:00",
+      "adversario": "jotxzz_08",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/172488632912",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1785790399
+    },
+    {
       "data": "2026-08-03T18:40:13+00:00",
       "adversario": "Capa_branca123",
       "cor": "Brancas",
