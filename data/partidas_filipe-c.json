@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-03T01:58:06+00:00",
+      "adversario": "befeo",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/172450645842",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1785722286
+    },
+    {
+      "data": "2026-08-03T01:46:05+00:00",
+      "adversario": "JaPoNiska",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/172450502072",
+      "eco": "C40",
+      "pontos": 0.0,
+      "end_time": 1785721565
+    },
+    {
+      "data": "2026-08-03T01:38:35+00:00",
+      "adversario": "hrprrr1",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/172450321094",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1785721115
+    },
+    {
+      "data": "2026-08-03T01:31:06+00:00",
+      "adversario": "KeV1nthecube",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/172450299542",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1785720666
+    },
+    {
+      "data": "2026-08-03T01:30:08+00:00",
+      "adversario": "okefocus",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 940,
+      "link": "https://www.chess.com/game/live/172450226700",
+      "eco": "B07",
+      "pontos": 0.0,
+      "end_time": 1785720608
+    },
+    {
       "data": "2026-08-02T21:33:27+00:00",
       "adversario": "N8Forker",
       "cor": "Pretas",
