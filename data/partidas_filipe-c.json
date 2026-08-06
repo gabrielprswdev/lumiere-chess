@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-06T20:52:56+00:00",
+      "adversario": "Argison",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 924,
+      "link": "https://www.chess.com/game/live/172627868340",
+      "eco": "A46",
+      "pontos": 0.0,
+      "end_time": 1786049576
+    },
+    {
       "data": "2026-08-05T00:00:40+00:00",
       "adversario": "pawnandroid",
       "cor": "Pretas",
