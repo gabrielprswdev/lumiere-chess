@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-07T11:30:41+00:00",
+      "adversario": "Amatersu336",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 670,
+      "link": "https://www.chess.com/game/live/172651860546",
+      "eco": "B06",
+      "pontos": 0.0,
+      "end_time": 1786102241
+    },
+    {
+      "data": "2026-08-07T11:21:32+00:00",
+      "adversario": "highwalk",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 678,
+      "link": "https://www.chess.com/game/live/172651764292",
+      "eco": "A43",
+      "pontos": 0.0,
+      "end_time": 1786101692
+    },
+    {
       "data": "2026-08-06T11:48:21+00:00",
       "adversario": "PurplePangolin",
       "cor": "Pretas",
@@ -14247,110 +14273,6 @@
       "eco": "B18",
       "pontos": 0.0,
       "end_time": 1754528786
-    },
-    {
-      "data": "2025-08-06T15:52:02+00:00",
-      "adversario": "f14deepnilray",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1113,
-      "link": "https://www.chess.com/game/live/141560334164",
-      "eco": "B22",
-      "pontos": 0.0,
-      "end_time": 1754495522
-    },
-    {
-      "data": "2025-08-06T14:53:29+00:00",
-      "adversario": "Skogsgang",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1121,
-      "link": "https://www.chess.com/game/live/141558234968",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1754492009
-    },
-    {
-      "data": "2025-08-06T14:27:07+00:00",
-      "adversario": "pemain_kocak007",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 405,
-      "link": "https://www.chess.com/game/live/141557357446",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1754490427
-    },
-    {
-      "data": "2025-08-06T14:22:17+00:00",
-      "adversario": "lawnchairr0",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1113,
-      "link": "https://www.chess.com/game/live/141557065186",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1754490137
-    },
-    {
-      "data": "2025-08-06T14:12:16+00:00",
-      "adversario": "matuzek",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1104,
-      "link": "https://www.chess.com/game/live/141556648796",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1754489536
-    },
-    {
-      "data": "2025-08-06T14:04:43+00:00",
-      "adversario": "abhishekydv0075",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 414,
-      "link": "https://www.chess.com/game/live/141556554728",
-      "eco": "B21",
-      "pontos": 1.0,
-      "end_time": 1754489083
-    },
-    {
-      "data": "2025-08-06T09:34:09+00:00",
-      "adversario": "gutzberz",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1096,
-      "link": "https://www.chess.com/game/live/141547519902",
-      "eco": "D30",
-      "pontos": 0.0,
-      "end_time": 1754472849
-    },
-    {
-      "data": "2025-08-06T09:20:19+00:00",
-      "adversario": "stubacca24",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1104,
-      "link": "https://www.chess.com/game/live/141547431388",
-      "eco": "D40",
-      "pontos": 0.0,
-      "end_time": 1754472019
     }
   ]
 }
