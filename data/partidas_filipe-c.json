@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-08T18:31:39+00:00",
+      "adversario": "Gaius_Rossini",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 711,
+      "link": "https://www.chess.com/game/daily/994897706",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1786213899
+    },
+    {
+      "data": "2026-08-08T18:30:28+00:00",
+      "adversario": "pawnandroid",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "900+10",
+      "rating": 908,
+      "link": "https://www.chess.com/game/live/172714751688",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1786213828
+    },
+    {
       "data": "2026-08-08T12:58:11+00:00",
       "adversario": "JKF_Chess",
       "cor": "Brancas",
