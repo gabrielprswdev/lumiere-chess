@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-08T10:38:03+00:00",
+      "adversario": "OkanDga",
+      "cor": "Pretas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 694,
+      "link": "https://www.chess.com/game/live/172696282206",
+      "eco": "B20",
+      "pontos": 0.5,
+      "end_time": 1786185483
+    },
+    {
       "data": "2026-08-08T10:28:47+00:00",
       "adversario": "Aka_Sphinx",
       "cor": "Brancas",
