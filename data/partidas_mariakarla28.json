@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-09T13:40:55+00:00",
+      "adversario": "Parvoz01",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 678,
+      "link": "https://www.chess.com/game/live/172748507108",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1786282855
+    },
+    {
+      "data": "2026-08-09T13:34:21+00:00",
+      "adversario": "namish-dedhia",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 686,
+      "link": "https://www.chess.com/game/live/172748170550",
+      "eco": "C43",
+      "pontos": 0.0,
+      "end_time": 1786282461
+    },
+    {
       "data": "2026-08-08T10:38:03+00:00",
       "adversario": "OkanDga",
       "cor": "Pretas",
@@ -14130,19 +14156,6 @@
       "eco": "C41",
       "pontos": 0.0,
       "end_time": 1754699513
-    },
-    {
-      "data": "2025-08-08T12:17:19+00:00",
-      "adversario": "imran7609",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1105,
-      "link": "https://www.chess.com/game/live/141631761792",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1754655439
     }
   ]
 }
