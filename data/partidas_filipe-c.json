@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-11T23:09:42+00:00",
+      "adversario": "MasterBRchess",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180802671759",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1786489782
+    },
+    {
+      "data": "2026-08-11T22:54:22+00:00",
+      "adversario": "Nicolas01chess",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180802071629",
+      "eco": "A04",
+      "pontos": 1.0,
+      "end_time": 1786488862
+    },
+    {
+      "data": "2026-08-11T22:50:12+00:00",
+      "adversario": "Kipena",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180801471831",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1786488612
+    },
+    {
       "data": "2026-08-11T22:34:46+00:00",
       "adversario": "ElCastron",
       "cor": "Pretas",
