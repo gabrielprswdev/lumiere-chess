@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-11T03:11:59+00:00",
+      "adversario": "G-SYNDROME",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 909,
+      "link": "https://www.chess.com/game/live/172821791250",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1786417919
+    },
+    {
+      "data": "2026-08-11T03:01:22+00:00",
+      "adversario": "Eeveeplaychess",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 901,
+      "link": "https://www.chess.com/game/live/172821705308",
+      "eco": "A48",
+      "pontos": 0.0,
+      "end_time": 1786417282
+    },
+    {
       "data": "2026-08-08T18:31:39+00:00",
       "adversario": "Gaius_Rossini",
       "cor": "Pretas",
@@ -36711,19 +36737,6 @@
       "eco": "B01",
       "pontos": 0.0,
       "end_time": 1755311158
-    },
-    {
-      "data": "2025-08-09T00:52:10+00:00",
-      "adversario": "EnzoTop1",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 429,
-      "link": "https://www.chess.com/game/live/141655564736",
-      "eco": "B22",
-      "pontos": 1.0,
-      "end_time": 1754700730
     }
   ]
 }
