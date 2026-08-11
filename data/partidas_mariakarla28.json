@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-11T13:05:42+00:00",
+      "adversario": "KurbanovMurad",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1277,
+      "link": "https://www.chess.com/game/live/172839534420",
+      "eco": "C00",
+      "pontos": 1.0,
+      "end_time": 1786453542
+    },
+    {
       "data": "2026-08-10T13:11:16+00:00",
       "adversario": "Oba55555",
       "cor": "Pretas",
@@ -13948,110 +13961,6 @@
       "eco": "D00",
       "pontos": 1.0,
       "end_time": 1754916958
-    },
-    {
-      "data": "2025-08-10T23:16:34+00:00",
-      "adversario": "giorgierkomaishvili",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1073,
-      "link": "https://www.chess.com/game/live/141731595244",
-      "eco": "C40",
-      "pontos": 0.0,
-      "end_time": 1754867794
-    },
-    {
-      "data": "2025-08-10T21:38:53+00:00",
-      "adversario": "1939hunale",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1082,
-      "link": "https://www.chess.com/game/live/141729289938",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1754861933
-    },
-    {
-      "data": "2025-08-10T21:09:14+00:00",
-      "adversario": "sirfred2001",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1090,
-      "link": "https://www.chess.com/game/live/141728376070",
-      "eco": "D00",
-      "pontos": 1.0,
-      "end_time": 1754860154
-    },
-    {
-      "data": "2025-08-10T20:45:56+00:00",
-      "adversario": "romishnaider",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1082,
-      "link": "https://www.chess.com/game/live/141728124618",
-      "eco": "B02",
-      "pontos": 1.0,
-      "end_time": 1754858756
-    },
-    {
-      "data": "2025-08-10T20:37:38+00:00",
-      "adversario": "MelvinJes",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1074,
-      "link": "https://www.chess.com/game/live/141727936160",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1754858258
-    },
-    {
-      "data": "2025-08-10T17:46:25+00:00",
-      "adversario": "4nt0ns",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 396,
-      "link": "https://www.chess.com/game/live/141722543424",
-      "eco": "A40",
-      "pontos": 0.0,
-      "end_time": 1754847985
-    },
-    {
-      "data": "2025-08-10T00:30:54+00:00",
-      "adversario": "TryingNM",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1082,
-      "link": "https://www.chess.com/game/live/141693856660",
-      "eco": "D37",
-      "pontos": 0.0,
-      "end_time": 1754785854
-    },
-    {
-      "data": "2025-08-10T00:16:04+00:00",
-      "adversario": "matte2204",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1090,
-      "link": "https://www.chess.com/game/live/141693759986",
-      "eco": "C41",
-      "pontos": 0.0,
-      "end_time": 1754784964
     }
   ]
 }
