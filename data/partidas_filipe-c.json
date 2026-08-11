@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-11T22:34:46+00:00",
+      "adversario": "ElCastron",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180800871709",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1786487686
+    },
+    {
+      "data": "2026-08-11T22:27:56+00:00",
+      "adversario": "Alforriado95",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180800271801",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1786487276
+    },
+    {
+      "data": "2026-08-11T22:15:09+00:00",
+      "adversario": "matheuslopesreis01",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/172861987620",
+      "eco": "C41",
+      "pontos": 0.0,
+      "end_time": 1786486509
+    },
+    {
+      "data": "2026-08-11T21:54:34+00:00",
+      "adversario": "mendio12",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 894,
+      "link": "https://www.chess.com/game/live/172861089852",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1786485274
+    },
+    {
       "data": "2026-08-11T21:24:34+00:00",
       "adversario": "Nnivvinn",
       "cor": "Pretas",
