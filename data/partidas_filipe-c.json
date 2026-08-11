@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-11T19:55:59+00:00",
+      "adversario": "Coolbipin",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 917,
+      "link": "https://www.chess.com/game/live/172856802640",
+      "eco": "A01",
+      "pontos": 1.0,
+      "end_time": 1786478159
+    },
+    {
       "data": "2026-08-11T03:11:59+00:00",
       "adversario": "G-SYNDROME",
       "cor": "Pretas",
