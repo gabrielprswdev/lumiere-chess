@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-12T22:02:01+00:00",
+      "adversario": "0_chess_ceo_0",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1876,
+      "link": "https://www.chess.com/game/live/172908152822",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1786572121
+    },
+    {
+      "data": "2026-08-12T21:55:56+00:00",
+      "adversario": "acayanrodrigues",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1868,
+      "link": "https://www.chess.com/game/live/172907963760",
+      "eco": "B92",
+      "pontos": 0.0,
+      "end_time": 1786571756
+    },
+    {
+      "data": "2026-08-12T21:49:40+00:00",
+      "adversario": "sidrisny",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1877,
+      "link": "https://www.chess.com/game/live/172907774132",
+      "eco": "C47",
+      "pontos": 1.0,
+      "end_time": 1786571380
+    },
+    {
+      "data": "2026-08-12T21:41:58+00:00",
+      "adversario": "ABatMen",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1869,
+      "link": "https://www.chess.com/game/live/172907579498",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1786570918
+    },
+    {
       "data": "2026-08-12T21:37:18+00:00",
       "adversario": "GWylx",
       "cor": "Pretas",
