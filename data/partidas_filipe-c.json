@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-12T00:16:01+00:00",
+      "adversario": "Nicolas01chess",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180806871631",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1786493761
+    },
+    {
+      "data": "2026-08-12T00:03:24+00:00",
+      "adversario": "erikpparraga",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180806271673",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1786493004
+    },
+    {
+      "data": "2026-08-11T23:57:21+00:00",
+      "adversario": "AbreuFG",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180805671713",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1786492641
+    },
+    {
+      "data": "2026-08-11T23:46:34+00:00",
+      "adversario": "Mar-Gabriela",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180805071685",
+      "eco": "C24",
+      "pontos": 0.0,
+      "end_time": 1786491994
+    },
+    {
+      "data": "2026-08-11T23:38:01+00:00",
+      "adversario": "eng_Wedson91_Chess",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180804471903",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1786491481
+    },
+    {
       "data": "2026-08-11T23:09:42+00:00",
       "adversario": "MasterBRchess",
       "cor": "Pretas",
