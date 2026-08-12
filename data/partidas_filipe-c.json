@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-12T20:23:34+00:00",
+      "adversario": "Gustavo-745",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/180879471795",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1786566214
+    },
+    {
+      "data": "2026-08-12T20:05:26+00:00",
+      "adversario": "charlie181097",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 902,
+      "link": "https://www.chess.com/game/live/172904255482",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1786565126
+    },
+    {
+      "data": "2026-08-12T19:57:09+00:00",
+      "adversario": "Boisleroi77",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 894,
+      "link": "https://www.chess.com/game/live/172903506066",
+      "eco": "D37",
+      "pontos": 0.0,
+      "end_time": 1786564629
+    },
+    {
+      "data": "2026-08-12T19:32:50+00:00",
+      "adversario": "k_b131313",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 902,
+      "link": "https://www.chess.com/game/live/172903118396",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1786563170
+    },
+    {
+      "data": "2026-08-12T19:23:40+00:00",
+      "adversario": "Mongolzkhuu",
+      "cor": "Brancas",
+      "resultado": "stalemate",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 894,
+      "link": "https://www.chess.com/game/live/172902460044",
+      "eco": "D02",
+      "pontos": 0.5,
+      "end_time": 1786562620
+    },
+    {
       "data": "2026-08-12T00:16:01+00:00",
       "adversario": "Nicolas01chess",
       "cor": "Pretas",

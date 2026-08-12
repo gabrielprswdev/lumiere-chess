@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-12T20:12:33+00:00",
+      "adversario": "anton0944",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1285,
+      "link": "https://www.chess.com/game/live/172904487688",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1786565553
+    },
+    {
       "data": "2026-08-11T13:05:42+00:00",
       "adversario": "KurbanovMurad",
       "cor": "Brancas",
@@ -13857,110 +13870,6 @@
       "eco": "C41",
       "pontos": 0.0,
       "end_time": 1755004698
-    },
-    {
-      "data": "2025-08-11T18:02:52+00:00",
-      "adversario": "HELLENYOGA",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1089,
-      "link": "https://www.chess.com/game/live/141762125476",
-      "eco": "B21",
-      "pontos": 0.0,
-      "end_time": 1754935372
-    },
-    {
-      "data": "2025-08-11T17:50:42+00:00",
-      "adversario": "Yevhen-P",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1097,
-      "link": "https://www.chess.com/game/live/141761942234",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1754934642
-    },
-    {
-      "data": "2025-08-11T17:17:44+00:00",
-      "adversario": "Andpires",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1088,
-      "link": "https://www.chess.com/game/live/141760342420",
-      "eco": "B86",
-      "pontos": 0.0,
-      "end_time": 1754932664
-    },
-    {
-      "data": "2025-08-11T17:01:37+00:00",
-      "adversario": "Vladimirrus744",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1096,
-      "link": "https://www.chess.com/game/live/141760021830",
-      "eco": "B00",
-      "pontos": 1.0,
-      "end_time": 1754931697
-    },
-    {
-      "data": "2025-08-11T16:26:32+00:00",
-      "adversario": "Nishlesh",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1088,
-      "link": "https://www.chess.com/game/live/141758328510",
-      "eco": "B21",
-      "pontos": 1.0,
-      "end_time": 1754929592
-    },
-    {
-      "data": "2025-08-11T15:36:41+00:00",
-      "adversario": "LuisChess25",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1080,
-      "link": "https://www.chess.com/game/live/141756724104",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1754926601
-    },
-    {
-      "data": "2025-08-11T13:41:41+00:00",
-      "adversario": "C-Dona",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1072,
-      "link": "https://www.chess.com/game/live/141752064158",
-      "eco": "B00",
-      "pontos": 0.0,
-      "end_time": 1754919701
-    },
-    {
-      "data": "2025-08-11T12:55:58+00:00",
-      "adversario": "benhurmunthe",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1080,
-      "link": "https://www.chess.com/game/live/141750802898",
-      "eco": "D00",
-      "pontos": 1.0,
-      "end_time": 1754916958
     }
   ]
 }
