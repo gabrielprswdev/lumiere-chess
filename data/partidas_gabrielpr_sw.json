@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-13T21:11:47+00:00",
+      "adversario": "is431",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 1883,
+      "link": "https://www.chess.com/game/live/172953456526",
+      "eco": "B30",
+      "pontos": 1.0,
+      "end_time": 1786655507
+    },
+    {
+      "data": "2026-08-13T21:04:14+00:00",
+      "adversario": "mbcorreia",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 1875,
+      "link": "https://www.chess.com/game/live/172953111850",
+      "eco": "C00",
+      "pontos": 1.0,
+      "end_time": 1786655054
+    },
+    {
+      "data": "2026-08-13T20:54:58+00:00",
+      "adversario": "heroncm",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 1866,
+      "link": "https://www.chess.com/game/live/172952885666",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1786654498
+    },
+    {
+      "data": "2026-08-13T20:49:37+00:00",
+      "adversario": "andrzejks",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 1858,
+      "link": "https://www.chess.com/game/live/172952771730",
+      "eco": "D40",
+      "pontos": 1.0,
+      "end_time": 1786654177
+    },
+    {
       "data": "2026-08-13T20:46:17+00:00",
       "adversario": "amir4che",
       "cor": "Brancas",
