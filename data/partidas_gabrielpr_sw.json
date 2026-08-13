@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-13T23:03:29+00:00",
+      "adversario": "Luisbermas",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 1901,
+      "link": "https://www.chess.com/game/live/172956651410",
+      "eco": "C01",
+      "pontos": 1.0,
+      "end_time": 1786662209
+    },
+    {
+      "data": "2026-08-13T22:51:10+00:00",
+      "adversario": "mehmetytu",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 1893,
+      "link": "https://www.chess.com/game/live/172956560862",
+      "eco": "C22",
+      "pontos": 1.0,
+      "end_time": 1786661470
+    },
+    {
+      "data": "2026-08-13T22:50:02+00:00",
+      "adversario": "Nota_gmr",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 1885,
+      "link": "https://www.chess.com/game/live/172956278078",
+      "eco": "B50",
+      "pontos": 1.0,
+      "end_time": 1786661402
+    },
+    {
+      "data": "2026-08-13T22:39:31+00:00",
+      "adversario": "pauldmaster21",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 1875,
+      "link": "https://www.chess.com/game/live/172956140036",
+      "eco": "C42",
+      "pontos": 0.0,
+      "end_time": 1786660771
+    },
+    {
       "data": "2026-08-13T21:11:47+00:00",
       "adversario": "is431",
       "cor": "Brancas",

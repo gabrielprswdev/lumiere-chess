@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-13T22:39:47+00:00",
+      "adversario": "NikolaiVoroninNM",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "1/86400",
+      "rating": 711,
+      "link": "https://www.chess.com/game/daily/1008218318",
+      "eco": "A25",
+      "pontos": 0.0,
+      "end_time": 1786660787
+    },
+    {
       "data": "2026-08-12T20:53:19+00:00",
       "adversario": "pedinchess13",
       "cor": "Pretas",
