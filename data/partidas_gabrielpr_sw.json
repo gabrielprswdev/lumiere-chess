@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-13T20:46:17+00:00",
+      "adversario": "amir4che",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 1848,
+      "link": "https://www.chess.com/game/live/172952558552",
+      "eco": "B32",
+      "pontos": 1.0,
+      "end_time": 1786653977
+    },
+    {
       "data": "2026-08-13T14:55:31+00:00",
       "adversario": "Roozbehe_1367",
       "cor": "Brancas",
