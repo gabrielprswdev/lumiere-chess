@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-13T14:55:31+00:00",
+      "adversario": "Roozbehe_1367",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1840,
+      "link": "https://www.chess.com/game/live/172938134144",
+      "eco": "B06",
+      "pontos": 1.0,
+      "end_time": 1786632931
+    },
+    {
       "data": "2026-08-13T14:49:56+00:00",
       "adversario": "Fleischkatze",
       "cor": "Pretas",
