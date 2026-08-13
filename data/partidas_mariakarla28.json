@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-13T10:28:36+00:00",
+      "adversario": "baltimore5005",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1284,
+      "link": "https://www.chess.com/game/live/172927296328",
+      "eco": "C40",
+      "pontos": 0.5,
+      "end_time": 1786616916
+    },
+    {
       "data": "2026-08-12T20:12:33+00:00",
       "adversario": "anton0944",
       "cor": "Pretas",
@@ -13818,58 +13831,6 @@
       "eco": "C00",
       "pontos": 1.0,
       "end_time": 1755086259
-    },
-    {
-      "data": "2025-08-12T20:46:04+00:00",
-      "adversario": "nevenegra",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1080,
-      "link": "https://www.chess.com/game/live/141807904756",
-      "eco": "B50",
-      "pontos": 1.0,
-      "end_time": 1755031564
-    },
-    {
-      "data": "2025-08-12T20:31:53+00:00",
-      "adversario": "Karam-2005",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1073,
-      "link": "https://www.chess.com/game/live/141807809304",
-      "eco": "D00",
-      "pontos": 0.0,
-      "end_time": 1755030713
-    },
-    {
-      "data": "2025-08-12T14:54:25+00:00",
-      "adversario": "DoggieBhaiMBBS",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 386,
-      "link": "https://www.chess.com/game/live/141795943226",
-      "eco": "B06",
-      "pontos": 0.0,
-      "end_time": 1755010465
-    },
-    {
-      "data": "2025-08-12T13:18:18+00:00",
-      "adversario": "guillermoo7",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1081,
-      "link": "https://www.chess.com/game/live/141791799040",
-      "eco": "C41",
-      "pontos": 0.0,
-      "end_time": 1755004698
     }
   ]
 }
