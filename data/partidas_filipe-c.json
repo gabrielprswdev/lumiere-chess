@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-14T21:14:22+00:00",
+      "adversario": "Morsingbo",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 910,
+      "link": "https://www.chess.com/game/live/173000167120",
+      "eco": "C62",
+      "pontos": 1.0,
+      "end_time": 1786742062
+    },
+    {
+      "data": "2026-08-14T21:01:03+00:00",
+      "adversario": "AtomicRodriguez",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 902,
+      "link": "https://www.chess.com/game/live/173000074812",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1786741263
+    },
+    {
+      "data": "2026-08-14T20:48:20+00:00",
+      "adversario": "syedmatanat",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 894,
+      "link": "https://www.chess.com/game/live/172999096350",
+      "eco": "B01",
+      "pontos": 0.0,
+      "end_time": 1786740500
+    },
+    {
       "data": "2026-08-14T20:25:26+00:00",
       "adversario": "KKKills007",
       "cor": "Pretas",
