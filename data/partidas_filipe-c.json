@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-14T19:45:42+00:00",
+      "adversario": "nrtate78",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 894,
+      "link": "https://www.chess.com/game/live/172996767634",
+      "eco": "A41",
+      "pontos": 0.0,
+      "end_time": 1786736742
+    },
+    {
+      "data": "2026-08-14T19:19:02+00:00",
+      "adversario": "ThePawn1515",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 902,
+      "link": "https://www.chess.com/game/live/172996138080",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1786735142
+    },
+    {
+      "data": "2026-08-14T19:07:11+00:00",
+      "adversario": "Ale1968cuba",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 894,
+      "link": "https://www.chess.com/game/live/172995800226",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1786734431
+    },
+    {
       "data": "2026-08-13T22:39:47+00:00",
       "adversario": "NikolaiVoroninNM",
       "cor": "Pretas",
