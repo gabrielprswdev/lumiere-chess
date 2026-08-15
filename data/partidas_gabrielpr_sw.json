@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-15T18:53:32+00:00",
+      "adversario": "Nhi1321",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2020,
+      "link": "https://www.chess.com/game/live/173041280192",
+      "eco": "E94",
+      "pontos": 1.0,
+      "end_time": 1786820012
+    },
+    {
       "data": "2026-08-15T02:04:10+00:00",
       "adversario": "awen2819",
       "cor": "Pretas",
