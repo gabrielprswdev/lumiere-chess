@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-16T11:43:54+00:00",
+      "adversario": "RafikiHarish",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 700,
+      "link": "https://www.chess.com/game/live/173070094736",
+      "eco": "A00",
+      "pontos": 0.0,
+      "end_time": 1786880634
+    },
+    {
+      "data": "2026-08-16T11:37:00+00:00",
+      "adversario": "Hemzol1223",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 708,
+      "link": "https://www.chess.com/game/live/173069776816",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1786880220
+    },
+    {
       "data": "2026-08-15T12:31:37+00:00",
       "adversario": "DaLeto",
       "cor": "Brancas",
@@ -13337,84 +13363,6 @@
       "eco": "B80",
       "pontos": 1.0,
       "end_time": 1755463198
-    },
-    {
-      "data": "2025-08-15T20:04:16+00:00",
-      "adversario": "syro_sanu",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1102,
-      "link": "https://www.chess.com/game/live/141928102974",
-      "eco": "C55",
-      "pontos": 0.0,
-      "end_time": 1755288256
-    },
-    {
-      "data": "2025-08-15T13:31:24+00:00",
-      "adversario": "lansapurata",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1110,
-      "link": "https://www.chess.com/game/live/141913941318",
-      "eco": "B27",
-      "pontos": 0.0,
-      "end_time": 1755264684
-    },
-    {
-      "data": "2025-08-15T12:00:00+00:00",
-      "adversario": "Damgrz",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1118,
-      "link": "https://www.chess.com/game/live/141910864744",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1755259200
-    },
-    {
-      "data": "2025-08-15T11:46:52+00:00",
-      "adversario": "aajnw",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1110,
-      "link": "https://www.chess.com/game/live/141910583794",
-      "eco": "A00",
-      "pontos": 1.0,
-      "end_time": 1755258412
-    },
-    {
-      "data": "2025-08-15T11:40:15+00:00",
-      "adversario": "jkw124",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1102,
-      "link": "https://www.chess.com/game/live/141910313874",
-      "eco": "B21",
-      "pontos": 0.0,
-      "end_time": 1755258015
-    },
-    {
-      "data": "2025-08-15T11:32:03+00:00",
-      "adversario": "Lucyloo82",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1110,
-      "link": "https://www.chess.com/game/live/141910068558",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1755257523
     }
   ]
 }
