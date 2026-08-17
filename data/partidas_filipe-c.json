@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-17T22:18:53+00:00",
+      "adversario": "GuilhermeLivero",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181318101349",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1787005133
+    },
+    {
+      "data": "2026-08-17T22:06:31+00:00",
+      "adversario": "matheuslopesreis01",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181317501239",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1787004391
+    },
+    {
+      "data": "2026-08-17T21:51:32+00:00",
+      "adversario": "realgrobgambitenjoyer",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 935,
+      "link": "https://www.chess.com/game/live/173141909124",
+      "eco": "B36",
+      "pontos": 1.0,
+      "end_time": 1787003492
+    },
+    {
+      "data": "2026-08-17T21:25:55+00:00",
+      "adversario": "nat2561",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 927,
+      "link": "https://www.chess.com/game/live/173140996606",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1787001955
+    },
+    {
       "data": "2026-08-17T20:59:59+00:00",
       "adversario": "fscalone8",
       "cor": "Pretas",
