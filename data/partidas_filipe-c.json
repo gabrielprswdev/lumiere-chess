@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-17T19:19:55+00:00",
+      "adversario": "capivara_agiotaa",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 934,
+      "link": "https://www.chess.com/game/live/173136053816",
+      "eco": "A48",
+      "pontos": 0.5,
+      "end_time": 1786994395
+    },
+    {
       "data": "2026-08-15T00:08:02+00:00",
       "adversario": "almirsilva",
       "cor": "Pretas",
@@ -37270,71 +37283,6 @@
       "eco": "B00",
       "pontos": 1.0,
       "end_time": 1755562063
-    },
-    {
-      "data": "2025-08-16T18:58:22+00:00",
-      "adversario": "Martinzinho2025",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 413,
-      "link": "https://www.chess.com/game/live/141965616168",
-      "eco": "B00",
-      "pontos": 1.0,
-      "end_time": 1755370702
-    },
-    {
-      "data": "2025-08-16T18:50:52+00:00",
-      "adversario": "Martinzinho2025",
-      "cor": "Brancas",
-      "resultado": "insufficient",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 409,
-      "link": "https://www.chess.com/game/live/141965105174",
-      "eco": "A80",
-      "pontos": 0.5,
-      "end_time": 1755370252
-    },
-    {
-      "data": "2025-08-16T18:35:09+00:00",
-      "adversario": "Martinzinho2025",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 413,
-      "link": "https://www.chess.com/game/live/141965010040",
-      "eco": "C40",
-      "pontos": 1.0,
-      "end_time": 1755369309
-    },
-    {
-      "data": "2025-08-16T02:37:46+00:00",
-      "adversario": "Walastu1",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 413,
-      "link": "https://www.chess.com/game/live/141936902702",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1755311866
-    },
-    {
-      "data": "2025-08-16T02:25:58+00:00",
-      "adversario": "matyo91",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 421,
-      "link": "https://www.chess.com/game/live/141936661104",
-      "eco": "B01",
-      "pontos": 0.0,
-      "end_time": 1755311158
     }
   ]
 }
