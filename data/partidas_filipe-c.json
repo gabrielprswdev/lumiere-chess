@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-17T20:21:00+00:00",
+      "adversario": "Hand_Adinata",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 935,
+      "link": "https://www.chess.com/game/live/173138355654",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1786998060
+    },
+    {
+      "data": "2026-08-17T19:45:39+00:00",
+      "adversario": "slowianin",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 943,
+      "link": "https://www.chess.com/game/live/173137399734",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1786995939
+    },
+    {
+      "data": "2026-08-17T19:33:25+00:00",
+      "adversario": "LilleHjelmen",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 935,
+      "link": "https://www.chess.com/game/live/173137136606",
+      "eco": "B00",
+      "pontos": 1.0,
+      "end_time": 1786995205
+    },
+    {
+      "data": "2026-08-17T19:29:38+00:00",
+      "adversario": "MRSAHU33",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 927,
+      "link": "https://www.chess.com/game/live/173136992466",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1786994978
+    },
+    {
       "data": "2026-08-17T19:19:55+00:00",
       "adversario": "capivara_agiotaa",
       "cor": "Brancas",
