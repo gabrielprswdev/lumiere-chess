@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-17T14:19:43+00:00",
+      "adversario": "Dnestr2000",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1953,
+      "link": "https://www.chess.com/game/live/173123206706",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1786976383
+    },
+    {
       "data": "2026-08-17T13:36:16+00:00",
       "adversario": "idfjvafnv35",
       "cor": "Pretas",
