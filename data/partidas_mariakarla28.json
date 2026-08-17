@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-17T10:23:56+00:00",
+      "adversario": "HaimiyaMio9097",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 684,
+      "link": "https://www.chess.com/game/live/173113639988",
+      "eco": "B13",
+      "pontos": 0.0,
+      "end_time": 1786962236
+    },
+    {
+      "data": "2026-08-17T10:19:54+00:00",
+      "adversario": "MarcosOth",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 692,
+      "link": "https://www.chess.com/game/live/173113408058",
+      "eco": "C47",
+      "pontos": 0.0,
+      "end_time": 1786961994
+    },
+    {
       "data": "2026-08-16T11:43:54+00:00",
       "adversario": "RafikiHarish",
       "cor": "Pretas",
