@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-17T23:05:47+00:00",
+      "adversario": "almirsilva",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181321101123",
+      "eco": "C70",
+      "pontos": 0.0,
+      "end_time": 1787007947
+    },
+    {
+      "data": "2026-08-17T22:50:28+00:00",
+      "adversario": "Blast64",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181319901231",
+      "eco": "C70",
+      "pontos": 0.0,
+      "end_time": 1787007028
+    },
+    {
+      "data": "2026-08-17T22:34:29+00:00",
+      "adversario": "Cardoso_1",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181319301165",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1787006069
+    },
+    {
+      "data": "2026-08-17T22:29:53+00:00",
+      "adversario": "sabatinoleo",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181318701285",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1787005793
+    },
+    {
       "data": "2026-08-17T22:18:53+00:00",
       "adversario": "GuilhermeLivero",
       "cor": "Brancas",
