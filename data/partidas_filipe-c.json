@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-17T23:46:45+00:00",
+      "adversario": "Blast64",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181323501417",
+      "eco": "B50",
+      "pontos": 1.0,
+      "end_time": 1787010405
+    },
+    {
+      "data": "2026-08-17T23:36:46+00:00",
+      "adversario": "YEDIX0N",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181322901501",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1787009806
+    },
+    {
+      "data": "2026-08-17T23:27:36+00:00",
+      "adversario": "Zakk1Ngg",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181322301209",
+      "eco": "C24",
+      "pontos": 0.0,
+      "end_time": 1787009256
+    },
+    {
       "data": "2026-08-17T23:05:47+00:00",
       "adversario": "almirsilva",
       "cor": "Pretas",
