@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-18T21:55:28+00:00",
+      "adversario": "alpercrk",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 935,
+      "link": "https://www.chess.com/game/live/173190914344",
+      "eco": "B50",
+      "pontos": 0.0,
+      "end_time": 1787090128
+    },
+    {
+      "data": "2026-08-18T21:22:28+00:00",
+      "adversario": "shadronian",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 943,
+      "link": "https://www.chess.com/game/live/173189839012",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1787088148
+    },
+    {
       "data": "2026-08-18T21:03:43+00:00",
       "adversario": "jmoneydochess",
       "cor": "Brancas",
