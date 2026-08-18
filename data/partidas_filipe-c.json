@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-18T21:03:43+00:00",
+      "adversario": "jmoneydochess",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 935,
+      "link": "https://www.chess.com/game/live/173189235340",
+      "eco": "C57",
+      "pontos": 1.0,
+      "end_time": 1787087023
+    },
+    {
+      "data": "2026-08-18T20:50:54+00:00",
+      "adversario": "jj_1234",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 927,
+      "link": "https://www.chess.com/game/live/173188937132",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1787086254
+    },
+    {
+      "data": "2026-08-18T20:40:49+00:00",
+      "adversario": "mejsztr",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 935,
+      "link": "https://www.chess.com/game/live/173188561764",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1787085649
+    },
+    {
       "data": "2026-08-18T19:50:25+00:00",
       "adversario": "KneelB4Zod503",
       "cor": "Pretas",
