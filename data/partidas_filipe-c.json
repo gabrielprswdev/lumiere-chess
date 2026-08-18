@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-18T19:50:25+00:00",
+      "adversario": "KneelB4Zod503",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 943,
+      "link": "https://www.chess.com/game/live/173186466666",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1787082625
+    },
+    {
       "data": "2026-08-17T23:46:45+00:00",
       "adversario": "Blast64",
       "cor": "Brancas",
