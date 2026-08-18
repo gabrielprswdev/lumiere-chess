@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-18T11:20:24+00:00",
+      "adversario": "SpeakChessApp",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 668,
+      "link": "https://www.chess.com/game/live/173164503188",
+      "eco": "C01",
+      "pontos": 0.0,
+      "end_time": 1787052024
+    },
+    {
+      "data": "2026-08-18T11:16:40+00:00",
+      "adversario": "Adrianelli80",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 676,
+      "link": "https://www.chess.com/game/live/173164099540",
+      "eco": "B50",
+      "pontos": 0.0,
+      "end_time": 1787051800
+    },
+    {
       "data": "2026-08-17T10:23:56+00:00",
       "adversario": "HaimiyaMio9097",
       "cor": "Brancas",
@@ -13376,19 +13402,6 @@
       "eco": "C20",
       "pontos": 0.0,
       "end_time": 1755525658
-    },
-    {
-      "data": "2025-08-17T20:39:58+00:00",
-      "adversario": "Juanpsss",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1110,
-      "link": "https://www.chess.com/game/live/142007979514",
-      "eco": "B80",
-      "pontos": 1.0,
-      "end_time": 1755463198
     }
   ]
 }
