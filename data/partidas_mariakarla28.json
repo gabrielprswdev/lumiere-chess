@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-19T13:03:07+00:00",
+      "adversario": "JonVayar",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 660,
+      "link": "https://www.chess.com/game/live/173217445932",
+      "eco": "B23",
+      "pontos": 0.0,
+      "end_time": 1787144587
+    },
+    {
+      "data": "2026-08-19T12:53:11+00:00",
+      "adversario": "rubyycutie",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 668,
+      "link": "https://www.chess.com/game/live/173217058304",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1787143991
+    },
+    {
       "data": "2026-08-19T12:24:52+00:00",
       "adversario": "marwanov92",
       "cor": "Pretas",

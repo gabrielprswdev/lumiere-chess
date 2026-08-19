@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-19T13:01:42+00:00",
+      "adversario": "bigfinalcc",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2057,
+      "link": "https://www.chess.com/game/live/173217617728",
+      "eco": "C28",
+      "pontos": 1.0,
+      "end_time": 1787144502
+    },
+    {
+      "data": "2026-08-19T12:57:13+00:00",
+      "adversario": "Freestyle1987",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2049,
+      "link": "https://www.chess.com/game/live/173217210148",
+      "eco": "C28",
+      "pontos": 1.0,
+      "end_time": 1787144233
+    },
+    {
+      "data": "2026-08-19T12:47:41+00:00",
+      "adversario": "ARDHYFORTUNE",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2041,
+      "link": "https://www.chess.com/game/live/173216903984",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1787143661
+    },
+    {
       "data": "2026-08-19T12:00:45+00:00",
       "adversario": "Mahmuttt369",
       "cor": "Pretas",
