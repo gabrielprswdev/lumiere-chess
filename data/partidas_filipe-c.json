@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-19T23:18:02+00:00",
+      "adversario": "McFlavio2010",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181494501067",
+      "eco": "C30",
+      "pontos": 0.0,
+      "end_time": 1787181482
+    },
+    {
+      "data": "2026-08-19T22:55:31+00:00",
+      "adversario": "bergson_H",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181493301085",
+      "eco": "B07",
+      "pontos": 1.0,
+      "end_time": 1787180131
+    },
+    {
+      "data": "2026-08-19T22:36:09+00:00",
+      "adversario": "carlo-seduardo",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181492101191",
+      "eco": "C44",
+      "pontos": 0.0,
+      "end_time": 1787178969
+    },
+    {
+      "data": "2026-08-19T22:29:46+00:00",
+      "adversario": "McFlavio2010",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181491501171",
+      "eco": "C30",
+      "pontos": 0.0,
+      "end_time": 1787178586
+    },
+    {
       "data": "2026-08-19T22:19:00+00:00",
       "adversario": "arielsonguimaraes",
       "cor": "Pretas",
