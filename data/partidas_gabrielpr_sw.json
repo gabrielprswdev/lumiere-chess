@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-19T12:00:45+00:00",
+      "adversario": "Mahmuttt369",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2049,
+      "link": "https://www.chess.com/game/live/173214556774",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1787140845
+    },
+    {
+      "data": "2026-08-19T11:37:03+00:00",
+      "adversario": "mfitrotuddin",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2040,
+      "link": "https://www.chess.com/game/live/173213515146",
+      "eco": "D40",
+      "pontos": 1.0,
+      "end_time": 1787139423
+    },
+    {
       "data": "2026-08-19T11:17:12+00:00",
       "adversario": "Dbd1974",
       "cor": "Brancas",
