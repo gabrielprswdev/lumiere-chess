@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-19T20:47:31+00:00",
+      "adversario": "yosoykap",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 935,
+      "link": "https://www.chess.com/game/live/173237296042",
+      "eco": "C62",
+      "pontos": 0.0,
+      "end_time": 1787172451
+    },
+    {
       "data": "2026-08-19T19:41:12+00:00",
       "adversario": "ravioreo",
       "cor": "Pretas",
