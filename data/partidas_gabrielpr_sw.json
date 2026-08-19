@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-19T11:17:12+00:00",
+      "adversario": "Dbd1974",
+      "cor": "Brancas",
+      "resultado": "timevsinsufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2032,
+      "link": "https://www.chess.com/game/live/173212729074",
+      "eco": "C53",
+      "pontos": 0.5,
+      "end_time": 1787138232
+    },
+    {
       "data": "2026-08-18T23:53:35+00:00",
       "adversario": "Filipe-C",
       "cor": "Brancas",
