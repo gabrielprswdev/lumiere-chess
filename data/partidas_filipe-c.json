@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-19T22:19:00+00:00",
+      "adversario": "arielsonguimaraes",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181490901207",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1787177940
+    },
+    {
+      "data": "2026-08-19T21:25:41+00:00",
+      "adversario": "IHypton",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 927,
+      "link": "https://www.chess.com/game/live/173238672132",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1787174741
+    },
+    {
       "data": "2026-08-19T20:47:31+00:00",
       "adversario": "yosoykap",
       "cor": "Pretas",
