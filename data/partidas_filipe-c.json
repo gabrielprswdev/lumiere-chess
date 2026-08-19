@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-19T19:41:12+00:00",
+      "adversario": "ravioreo",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 943,
+      "link": "https://www.chess.com/game/live/173234867738",
+      "eco": "C25",
+      "pontos": 1.0,
+      "end_time": 1787168472
+    },
+    {
       "data": "2026-08-19T00:42:20+00:00",
       "adversario": "Danilo-Pinheiro",
       "cor": "Pretas",
