@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-20T13:56:33+00:00",
+      "adversario": "pieddevigne85",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 652,
+      "link": "https://www.chess.com/game/live/173268353902",
+      "eco": "B10",
+      "pontos": 0.0,
+      "end_time": 1787234193
+    },
+    {
+      "data": "2026-08-20T13:45:50+00:00",
+      "adversario": "MetsDeLaSauce",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 660,
+      "link": "https://www.chess.com/game/live/173267999566",
+      "eco": "B23",
+      "pontos": 1.0,
+      "end_time": 1787233550
+    },
+    {
       "data": "2026-08-20T13:37:55+00:00",
       "adversario": "avinunu",
       "cor": "Brancas",
