@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-20T20:18:17+00:00",
+      "adversario": "umar-khalid",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2083,
+      "link": "https://www.chess.com/game/live/173284880644",
+      "eco": "C00",
+      "pontos": 1.0,
+      "end_time": 1787257097
+    },
+    {
+      "data": "2026-08-20T19:58:50+00:00",
+      "adversario": "narrrrrruh",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2074,
+      "link": "https://www.chess.com/game/live/173284415254",
+      "eco": "B45",
+      "pontos": 1.0,
+      "end_time": 1787255930
+    },
+    {
+      "data": "2026-08-20T19:51:10+00:00",
+      "adversario": "TheKingCharlesCav",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2066,
+      "link": "https://www.chess.com/game/live/173284162218",
+      "eco": "C30",
+      "pontos": 1.0,
+      "end_time": 1787255470
+    },
+    {
+      "data": "2026-08-20T19:44:40+00:00",
+      "adversario": "gmfercho",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2057,
+      "link": "https://www.chess.com/game/live/173283818640",
+      "eco": "B32",
+      "pontos": 0.0,
+      "end_time": 1787255080
+    },
+    {
+      "data": "2026-08-20T19:35:51+00:00",
+      "adversario": "Chiboyo",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2065,
+      "link": "https://www.chess.com/game/live/173283464352",
+      "eco": "B03",
+      "pontos": 1.0,
+      "end_time": 1787254551
+    },
+    {
       "data": "2026-08-20T19:26:51+00:00",
       "adversario": "kevinmora310",
       "cor": "Brancas",

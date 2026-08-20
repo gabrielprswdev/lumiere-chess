@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-20T20:15:09+00:00",
+      "adversario": "heltonsouzamartins",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 925,
+      "link": "https://www.chess.com/game/live/173284902650",
+      "eco": "C41",
+      "pontos": 0.0,
+      "end_time": 1787256909
+    },
+    {
+      "data": "2026-08-20T19:59:42+00:00",
+      "adversario": "Lipao1984",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/173284532356",
+      "eco": "C48",
+      "pontos": 0.0,
+      "end_time": 1787255982
+    },
+    {
       "data": "2026-08-19T23:57:14+00:00",
       "adversario": "semsayy",
       "cor": "Pretas",
