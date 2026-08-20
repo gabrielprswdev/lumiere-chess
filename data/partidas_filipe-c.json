@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-20T22:06:03+00:00",
+      "adversario": "matheuslopesreis01",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/173289030070",
+      "eco": "E00",
+      "pontos": 0.0,
+      "end_time": 1787263563
+    },
+    {
+      "data": "2026-08-20T22:02:41+00:00",
+      "adversario": "ThiagoChessz",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 934,
+      "link": "https://www.chess.com/game/live/173288584610",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1787263361
+    },
+    {
+      "data": "2026-08-20T21:46:21+00:00",
+      "adversario": "Ivica013",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 934,
+      "link": "https://www.chess.com/game/live/173288172908",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1787262381
+    },
+    {
+      "data": "2026-08-20T21:35:21+00:00",
+      "adversario": "matheuslopesreis01",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 926,
+      "link": "https://www.chess.com/game/live/173287965584",
+      "eco": "A21",
+      "pontos": 0.0,
+      "end_time": 1787261721
+    },
+    {
+      "data": "2026-08-20T21:28:17+00:00",
+      "adversario": "RavenOfTheDawn",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 926,
+      "link": "https://www.chess.com/game/live/173287663868",
+      "eco": "A04",
+      "pontos": 1.0,
+      "end_time": 1787261297
+    },
+    {
       "data": "2026-08-20T21:19:58+00:00",
       "adversario": "Pedrinho_V7",
       "cor": "Pretas",
