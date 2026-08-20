@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-20T13:37:55+00:00",
+      "adversario": "avinunu",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 652,
+      "link": "https://www.chess.com/game/live/173267653972",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1787233075
+    },
+    {
       "data": "2026-08-19T13:03:07+00:00",
       "adversario": "JonVayar",
       "cor": "Pretas",
@@ -13402,19 +13415,6 @@
       "eco": "B21",
       "pontos": 1.0,
       "end_time": 1755716684
-    },
-    {
-      "data": "2025-08-19T15:22:43+00:00",
-      "adversario": "till_r",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180+2",
-      "rating": 404,
-      "link": "https://www.chess.com/game/live/142077429352",
-      "eco": "B15",
-      "pontos": 1.0,
-      "end_time": 1755616963
     }
   ]
 }
