@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-20T23:09:22+00:00",
+      "adversario": "Vortexksi",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 934,
+      "link": "https://www.chess.com/game/live/181580300893",
+      "eco": "B10",
+      "pontos": 0.0,
+      "end_time": 1787267362
+    },
+    {
+      "data": "2026-08-20T22:48:11+00:00",
+      "adversario": "erikpparraga",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 934,
+      "link": "https://www.chess.com/game/live/181579101063",
+      "eco": "C41",
+      "pontos": 0.0,
+      "end_time": 1787266091
+    },
+    {
+      "data": "2026-08-20T22:35:09+00:00",
+      "adversario": "pawnandroid",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/173289785318",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1787265309
+    },
+    {
+      "data": "2026-08-20T22:27:14+00:00",
+      "adversario": "I_Dont_Care_At_All_chess",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 934,
+      "link": "https://www.chess.com/game/live/181577901197",
+      "eco": "D45",
+      "pontos": 0.0,
+      "end_time": 1787264834
+    },
+    {
       "data": "2026-08-20T22:06:03+00:00",
       "adversario": "matheuslopesreis01",
       "cor": "Brancas",
