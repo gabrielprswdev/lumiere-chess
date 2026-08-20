@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-19T23:57:14+00:00",
+      "adversario": "semsayy",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181496901105",
+      "eco": "A60",
+      "pontos": 0.0,
+      "end_time": 1787183834
+    },
+    {
+      "data": "2026-08-19T23:41:47+00:00",
+      "adversario": "arcano007",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181496301155",
+      "eco": "C40",
+      "pontos": 0.0,
+      "end_time": 1787182907
+    },
+    {
+      "data": "2026-08-19T23:36:35+00:00",
+      "adversario": "Sansao_IV",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181495701337",
+      "eco": "C53",
+      "pontos": 1.0,
+      "end_time": 1787182595
+    },
+    {
+      "data": "2026-08-19T23:21:50+00:00",
+      "adversario": "matheuslopesreis01",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "60",
+      "rating": 247,
+      "link": "https://www.chess.com/game/live/173242515518",
+      "eco": "B50",
+      "pontos": 0.0,
+      "end_time": 1787181710
+    },
+    {
       "data": "2026-08-19T23:18:02+00:00",
       "adversario": "McFlavio2010",
       "cor": "Pretas",
@@ -37790,84 +37842,6 @@
       "eco": "C20",
       "pontos": 1.0,
       "end_time": 1755654793
-    },
-    {
-      "data": "2025-08-19T15:57:01+00:00",
-      "adversario": "BRLDKaran",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "1/259200",
-      "rating": 682,
-      "link": "https://www.chess.com/game/daily/845078242",
-      "eco": "C25",
-      "pontos": 0.0,
-      "end_time": 1755619021
-    },
-    {
-      "data": "2025-08-19T15:55:09+00:00",
-      "adversario": "furtas16",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 453,
-      "link": "https://www.chess.com/game/live/142078545986",
-      "eco": "D00",
-      "pontos": 1.0,
-      "end_time": 1755618909
-    },
-    {
-      "data": "2025-08-19T15:44:00+00:00",
-      "adversario": "isidromendoza29",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 445,
-      "link": "https://www.chess.com/game/live/142078461976",
-      "eco": "C24",
-      "pontos": 1.0,
-      "end_time": 1755618240
-    },
-    {
-      "data": "2025-08-19T15:12:25+00:00",
-      "adversario": "muwbeen",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 437,
-      "link": "https://www.chess.com/game/live/142077208996",
-      "eco": "C40",
-      "pontos": 1.0,
-      "end_time": 1755616345
-    },
-    {
-      "data": "2025-08-19T04:04:45+00:00",
-      "adversario": "Koudini18",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 429,
-      "link": "https://www.chess.com/game/live/142057847436",
-      "eco": "C43",
-      "pontos": 1.0,
-      "end_time": 1755576285
-    },
-    {
-      "data": "2025-08-19T00:07:43+00:00",
-      "adversario": "littlefamilyguy",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 421,
-      "link": "https://www.chess.com/game/live/142053073744",
-      "eco": "B00",
-      "pontos": 1.0,
-      "end_time": 1755562063
     }
   ]
 }
