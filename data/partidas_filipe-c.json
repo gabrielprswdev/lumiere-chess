@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-20T21:19:58+00:00",
+      "adversario": "Pedrinho_V7",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 926,
+      "link": "https://www.chess.com/game/live/173287205498",
+      "eco": "C74",
+      "pontos": 0.0,
+      "end_time": 1787260798
+    },
+    {
+      "data": "2026-08-20T21:04:53+00:00",
+      "adversario": "faisallls",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 926,
+      "link": "https://www.chess.com/game/live/173286851832",
+      "eco": "B07",
+      "pontos": 1.0,
+      "end_time": 1787259893
+    },
+    {
+      "data": "2026-08-20T20:56:24+00:00",
+      "adversario": "heitor990011",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 926,
+      "link": "https://www.chess.com/game/live/173286599194",
+      "eco": "C62",
+      "pontos": 1.0,
+      "end_time": 1787259384
+    },
+    {
+      "data": "2026-08-20T20:43:36+00:00",
+      "adversario": "Proff-Tawaz",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 926,
+      "link": "https://www.chess.com/game/live/173286043728",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1787258616
+    },
+    {
+      "data": "2026-08-20T20:27:00+00:00",
+      "adversario": "raameezh38",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 933,
+      "link": "https://www.chess.com/game/live/173285455866",
+      "eco": "B22",
+      "pontos": 1.0,
+      "end_time": 1787257620
+    },
+    {
       "data": "2026-08-20T20:15:09+00:00",
       "adversario": "heltonsouzamartins",
       "cor": "Brancas",
