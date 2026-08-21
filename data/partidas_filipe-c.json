@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-21T21:17:28+00:00",
+      "adversario": "King_Piero",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 973,
+      "link": "https://www.chess.com/game/live/173335700398",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1787347048
+    },
+    {
+      "data": "2026-08-21T20:51:22+00:00",
+      "adversario": "VeljkoSS85",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 965,
+      "link": "https://www.chess.com/game/live/173334676892",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1787345482
+    },
+    {
       "data": "2026-08-21T20:19:36+00:00",
       "adversario": "GAVRILAC62",
       "cor": "Brancas",
