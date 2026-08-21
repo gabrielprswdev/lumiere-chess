@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-21T20:19:36+00:00",
+      "adversario": "GAVRILAC62",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 957,
+      "link": "https://www.chess.com/game/live/173333541934",
+      "eco": "B00",
+      "pontos": 1.0,
+      "end_time": 1787343576
+    },
+    {
+      "data": "2026-08-21T20:02:09+00:00",
+      "adversario": "qonekl",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 950,
+      "link": "https://www.chess.com/game/live/173333242718",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1787342529
+    },
+    {
+      "data": "2026-08-21T19:35:56+00:00",
+      "adversario": "shigo97",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 942,
+      "link": "https://www.chess.com/game/live/173332443338",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1787340956
+    },
+    {
       "data": "2026-08-20T23:53:44+00:00",
       "adversario": "Carlos8327",
       "cor": "Pretas",
