@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-20T23:53:44+00:00",
+      "adversario": "Carlos8327",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 247,
+      "link": "https://www.chess.com/game/live/173291938684",
+      "eco": "B01",
+      "pontos": 0.0,
+      "end_time": 1787270024
+    },
+    {
+      "data": "2026-08-20T23:49:30+00:00",
+      "adversario": "carlo-seduardo",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 934,
+      "link": "https://www.chess.com/game/live/181582101571",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1787269770
+    },
+    {
+      "data": "2026-08-20T23:26:32+00:00",
+      "adversario": "jas70",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/173291062012",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1787268392
+    },
+    {
       "data": "2026-08-20T23:09:22+00:00",
       "adversario": "Vortexksi",
       "cor": "Brancas",
@@ -38037,19 +38076,6 @@
       "eco": "C42",
       "pontos": 0.0,
       "end_time": 1755914481
-    },
-    {
-      "data": "2025-08-20T01:53:13+00:00",
-      "adversario": "KingKmarni",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 461,
-      "link": "https://www.chess.com/game/live/142095835660",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1755654793
     }
   ]
 }
