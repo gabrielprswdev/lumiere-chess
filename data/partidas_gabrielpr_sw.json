@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-21T23:12:06+00:00",
+      "adversario": "PRETO9999999",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2083,
+      "link": "https://www.chess.com/game/live/181666701217",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1787353926
+    },
+    {
       "data": "2026-08-20T20:18:17+00:00",
       "adversario": "umar-khalid",
       "cor": "Brancas",
