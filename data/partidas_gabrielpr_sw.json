@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-22T18:24:34+00:00",
+      "adversario": "Sake-CG",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1924,
+      "link": "https://www.chess.com/game/live/173376824592",
+      "eco": "B14",
+      "pontos": 1.0,
+      "end_time": 1787423074
+    },
+    {
+      "data": "2026-08-22T18:20:24+00:00",
+      "adversario": "NzojiPedro",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1924,
+      "link": "https://www.chess.com/game/live/173376745696",
+      "eco": "C57",
+      "pontos": 1.0,
+      "end_time": 1787422824
+    },
+    {
+      "data": "2026-08-22T18:18:24+00:00",
+      "adversario": "Fox_55",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1924,
+      "link": "https://www.chess.com/game/live/173376508352",
+      "eco": "D40",
+      "pontos": 1.0,
+      "end_time": 1787422704
+    },
+    {
+      "data": "2026-08-22T18:12:26+00:00",
+      "adversario": "Cleytonof1",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1924,
+      "link": "https://www.chess.com/game/live/173376259492",
+      "eco": "A25",
+      "pontos": 1.0,
+      "end_time": 1787422346
+    },
+    {
+      "data": "2026-08-22T18:06:16+00:00",
+      "adversario": "jp27933",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1924,
+      "link": "https://www.chess.com/game/live/173375989964",
+      "eco": "B83",
+      "pontos": 0.0,
+      "end_time": 1787421976
+    },
+    {
       "data": "2026-08-22T12:46:50+00:00",
       "adversario": "Mr_Morvo",
       "cor": "Pretas",
