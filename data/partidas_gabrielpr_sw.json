@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-22T00:02:16+00:00",
+      "adversario": "arimanuela",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2083,
+      "link": "https://www.chess.com/game/live/181670301353",
+      "eco": "C57",
+      "pontos": 1.0,
+      "end_time": 1787356936
+    },
+    {
+      "data": "2026-08-21T23:53:59+00:00",
+      "adversario": "SolidaoChess",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2083,
+      "link": "https://www.chess.com/game/live/181669700927",
+      "eco": "A03",
+      "pontos": 1.0,
+      "end_time": 1787356439
+    },
+    {
+      "data": "2026-08-21T23:32:26+00:00",
+      "adversario": "Andztx",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2083,
+      "link": "https://www.chess.com/game/live/181668501445",
+      "eco": "B40",
+      "pontos": 1.0,
+      "end_time": 1787355146
+    },
+    {
+      "data": "2026-08-21T23:22:17+00:00",
+      "adversario": "mingaugostoso",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 2083,
+      "link": "https://www.chess.com/game/live/181667301369",
+      "eco": "C44",
+      "pontos": 1.0,
+      "end_time": 1787354537
+    },
+    {
       "data": "2026-08-21T23:12:06+00:00",
       "adversario": "PRETO9999999",
       "cor": "Brancas",

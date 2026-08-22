@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-21T23:39:11+00:00",
+      "adversario": "Carlos8327",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "180+2",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/173340092782",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1787355551
+    },
+    {
+      "data": "2026-08-21T23:32:53+00:00",
+      "adversario": "mavie_uwu",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181668500899",
+      "eco": "B30",
+      "pontos": 1.0,
+      "end_time": 1787355173
+    },
+    {
       "data": "2026-08-21T23:13:40+00:00",
       "adversario": "mochilacheiadebeck",
       "cor": "Brancas",
