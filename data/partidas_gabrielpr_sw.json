@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-23T18:07:45+00:00",
+      "adversario": "santiagocirmi",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2092,
+      "link": "https://www.chess.com/game/live/173422773206",
+      "eco": "C47",
+      "pontos": 1.0,
+      "end_time": 1787508465
+    },
+    {
+      "data": "2026-08-23T17:53:19+00:00",
+      "adversario": "AbsoluteDeffender",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2083,
+      "link": "https://www.chess.com/game/live/173422155156",
+      "eco": "C01",
+      "pontos": 0.0,
+      "end_time": 1787507599
+    },
+    {
       "data": "2026-08-23T00:28:37+00:00",
       "adversario": "Oliver_Tsar",
       "cor": "Brancas",
