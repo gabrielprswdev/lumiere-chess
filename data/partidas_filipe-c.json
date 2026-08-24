@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-23T23:29:49+00:00",
+      "adversario": "Martinzinho2025",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 981,
+      "link": "https://www.chess.com/game/live/173433957728",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1787527789
+    },
+    {
       "data": "2026-08-21T23:39:11+00:00",
       "adversario": "Carlos8327",
       "cor": "Pretas",
@@ -38232,19 +38245,6 @@
       "eco": "C23",
       "pontos": 0.0,
       "end_time": 1755996951
-    },
-    {
-      "data": "2025-08-23T02:01:21+00:00",
-      "adversario": "toko89462",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 453,
-      "link": "https://www.chess.com/game/live/142218314590",
-      "eco": "C42",
-      "pontos": 0.0,
-      "end_time": 1755914481
     }
   ]
 }
