@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-24T20:16:38+00:00",
+      "adversario": "ElliotBen",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 998,
+      "link": "https://www.chess.com/game/live/173475401916",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1787602598
+    },
+    {
+      "data": "2026-08-24T19:52:37+00:00",
+      "adversario": "Abdelr3hman",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 990,
+      "link": "https://www.chess.com/game/live/173474543802",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1787601157
+    },
+    {
+      "data": "2026-08-24T19:34:51+00:00",
+      "adversario": "Arghyadeep8",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 981,
+      "link": "https://www.chess.com/game/live/173473990422",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1787600091
+    },
+    {
+      "data": "2026-08-24T19:16:41+00:00",
+      "adversario": "GDSachi",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 973,
+      "link": "https://www.chess.com/game/live/173473391702",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1787599001
+    },
+    {
       "data": "2026-08-23T23:29:49+00:00",
       "adversario": "Martinzinho2025",
       "cor": "Brancas",

@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-24T19:04:16+00:00",
+      "adversario": "yaby17",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 669,
+      "link": "https://www.chess.com/game/live/173472992912",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1787598256
+    },
+    {
+      "data": "2026-08-24T19:00:01+00:00",
+      "adversario": "LexxPNZ",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 677,
+      "link": "https://www.chess.com/game/live/173472858396",
+      "eco": "B50",
+      "pontos": 1.0,
+      "end_time": 1787598001
+    },
+    {
+      "data": "2026-08-24T18:56:51+00:00",
+      "adversario": "whale9999",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 669,
+      "link": "https://www.chess.com/game/live/173472620108",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1787597811
+    },
+    {
+      "data": "2026-08-24T18:51:09+00:00",
+      "adversario": "scalpl_82",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 661,
+      "link": "https://www.chess.com/game/live/173472464164",
+      "eco": "B27",
+      "pontos": 1.0,
+      "end_time": 1787597469
+    },
+    {
       "data": "2026-08-23T10:46:04+00:00",
       "adversario": "UKDickie",
       "cor": "Brancas",
@@ -13402,58 +13454,6 @@
       "eco": "B00",
       "pontos": 1.0,
       "end_time": 1756030805
-    },
-    {
-      "data": "2025-08-23T22:05:50+00:00",
-      "adversario": "Anan13871387",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1094,
-      "link": "https://www.chess.com/game/live/142252817250",
-      "eco": "C42",
-      "pontos": 0.0,
-      "end_time": 1755986750
-    },
-    {
-      "data": "2025-08-23T21:55:37+00:00",
-      "adversario": "goldensimon",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1102,
-      "link": "https://www.chess.com/game/live/142252583132",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1755986137
-    },
-    {
-      "data": "2025-08-23T17:03:19+00:00",
-      "adversario": "gezginlazer",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1110,
-      "link": "https://www.chess.com/game/live/142243428824",
-      "eco": "C41",
-      "pontos": 0.0,
-      "end_time": 1755968599
-    },
-    {
-      "data": "2025-08-23T11:26:36+00:00",
-      "adversario": "Arkaub",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1118,
-      "link": "https://www.chess.com/game/live/142231692484",
-      "eco": "D30",
-      "pontos": 1.0,
-      "end_time": 1755948396
     }
   ]
 }
