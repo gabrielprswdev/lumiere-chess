@@ -1,6 +1,110 @@
 {
   "partidas": [
     {
+      "data": "2026-08-25T00:06:10+00:00",
+      "adversario": "erikpparraga",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/173482724044",
+      "eco": "C00",
+      "pontos": 0.0,
+      "end_time": 1787616370
+    },
+    {
+      "data": "2026-08-24T23:45:13+00:00",
+      "adversario": "jas70",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181928301199",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1787615113
+    },
+    {
+      "data": "2026-08-24T23:31:25+00:00",
+      "adversario": "thiagodfsouza",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181927701335",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1787614285
+    },
+    {
+      "data": "2026-08-24T23:26:55+00:00",
+      "adversario": "Carlos8327",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181927101231",
+      "eco": "B30",
+      "pontos": 1.0,
+      "end_time": 1787614015
+    },
+    {
+      "data": "2026-08-24T22:57:15+00:00",
+      "adversario": "ggdasquebrada",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181925301097",
+      "eco": "D31",
+      "pontos": 1.0,
+      "end_time": 1787612235
+    },
+    {
+      "data": "2026-08-24T22:46:43+00:00",
+      "adversario": "xandy4172",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181924701331",
+      "eco": "B10",
+      "pontos": 0.0,
+      "end_time": 1787611603
+    },
+    {
+      "data": "2026-08-24T22:41:18+00:00",
+      "adversario": "mavie_uwu",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181924101277",
+      "eco": "A22",
+      "pontos": 1.0,
+      "end_time": 1787611278
+    },
+    {
+      "data": "2026-08-24T22:30:41+00:00",
+      "adversario": "geek25x",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 462,
+      "link": "https://www.chess.com/game/live/181924100881",
+      "eco": "B50",
+      "pontos": 0.0,
+      "end_time": 1787610641
+    },
+    {
       "data": "2026-08-24T21:58:22+00:00",
       "adversario": "Scvprof",
       "cor": "Brancas",
@@ -38336,32 +38440,6 @@
       "eco": "A04",
       "pontos": 0.0,
       "end_time": 1756684147
-    },
-    {
-      "data": "2025-08-24T01:07:22+00:00",
-      "adversario": "julian1424",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 437,
-      "link": "https://www.chess.com/game/live/142256500446",
-      "eco": "C20",
-      "pontos": 0.0,
-      "end_time": 1755997642
-    },
-    {
-      "data": "2025-08-24T00:55:51+00:00",
-      "adversario": "Barclay77",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 445,
-      "link": "https://www.chess.com/game/live/142256172902",
-      "eco": "C23",
-      "pontos": 0.0,
-      "end_time": 1755996951
     }
   ]
 }
