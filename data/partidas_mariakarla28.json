@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-25T12:08:40+00:00",
+      "adversario": "chukagod",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 694,
+      "link": "https://www.chess.com/game/live/173503441662",
+      "eco": "B22",
+      "pontos": 0.0,
+      "end_time": 1787659720
+    },
+    {
+      "data": "2026-08-25T12:04:59+00:00",
+      "adversario": "stupandaus",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 702,
+      "link": "https://www.chess.com/game/live/173503374070",
+      "eco": "B40",
+      "pontos": 1.0,
+      "end_time": 1787659499
+    },
+    {
+      "data": "2026-08-25T12:03:18+00:00",
+      "adversario": "zahed69",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 694,
+      "link": "https://www.chess.com/game/live/173503131904",
+      "eco": "C47",
+      "pontos": 1.0,
+      "end_time": 1787659398
+    },
+    {
+      "data": "2026-08-25T10:46:16+00:00",
+      "adversario": "peripedro",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 686,
+      "link": "https://www.chess.com/game/live/173500054010",
+      "eco": "D30",
+      "pontos": 1.0,
+      "end_time": 1787654776
+    },
+    {
+      "data": "2026-08-25T10:38:40+00:00",
+      "adversario": "Boldi1231B",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 677,
+      "link": "https://www.chess.com/game/live/173500001586",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1787654320
+    },
+    {
       "data": "2026-08-24T19:04:16+00:00",
       "adversario": "yaby17",
       "cor": "Brancas",
@@ -13441,19 +13506,6 @@
       "eco": "B50",
       "pontos": 1.0,
       "end_time": 1756120634
-    },
-    {
-      "data": "2025-08-24T10:20:05+00:00",
-      "adversario": "Andrey_Vladimirovich1",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1102,
-      "link": "https://www.chess.com/game/live/142269116930",
-      "eco": "B00",
-      "pontos": 1.0,
-      "end_time": 1756030805
     }
   ]
 }
