@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-25T15:25:58+00:00",
+      "adversario": "CaturPos_Ronda",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2062,
+      "link": "https://www.chess.com/game/live/173511721232",
+      "eco": "C42",
+      "pontos": 0.0,
+      "end_time": 1787671558
+    },
+    {
+      "data": "2026-08-25T15:11:27+00:00",
+      "adversario": "Amax9999",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2070,
+      "link": "https://www.chess.com/game/live/173511627952",
+      "eco": "A46",
+      "pontos": 0.0,
+      "end_time": 1787670687
+    },
+    {
+      "data": "2026-08-25T15:09:29+00:00",
+      "adversario": "Yvharct",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2078,
+      "link": "https://www.chess.com/game/live/173510895422",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1787670569
+    },
+    {
+      "data": "2026-08-25T14:53:43+00:00",
+      "adversario": "Naofumi_Sensei",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2086,
+      "link": "https://www.chess.com/game/live/173510805162",
+      "eco": "C01",
+      "pontos": 0.0,
+      "end_time": 1787669623
+    },
+    {
+      "data": "2026-08-25T14:51:48+00:00",
+      "adversario": "GaborPS",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2094,
+      "link": "https://www.chess.com/game/live/173510626912",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1787669508
+    },
+    {
       "data": "2026-08-23T18:48:12+00:00",
       "adversario": "Woordenlijst",
       "cor": "Brancas",
@@ -95770,19 +95835,6 @@
       "eco": "C55",
       "pontos": 0.0,
       "end_time": 1756134841
-    },
-    {
-      "data": "2025-08-24T18:28:02+00:00",
-      "adversario": "Kash0414",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1764,
-      "link": "https://www.chess.com/game/live/142286345682",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1756060082
     }
   ]
 }
