@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-25T18:30:24+00:00",
+      "adversario": "sherka000",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2050,
+      "link": "https://www.chess.com/game/live/173520171512",
+      "eco": "C24",
+      "pontos": 0.0,
+      "end_time": 1787682624
+    },
+    {
+      "data": "2026-08-25T18:16:07+00:00",
+      "adversario": "abdellah452",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2058,
+      "link": "https://www.chess.com/game/live/173519334374",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1787681767
+    },
+    {
+      "data": "2026-08-25T17:56:42+00:00",
+      "adversario": "Muzikarchess08",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2050,
+      "link": "https://www.chess.com/game/live/173519102842",
+      "eco": "C43",
+      "pontos": 0.0,
+      "end_time": 1787680602
+    },
+    {
+      "data": "2026-08-25T17:51:26+00:00",
+      "adversario": "cahprigen",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2058,
+      "link": "https://www.chess.com/game/live/173518547532",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1787680286
+    },
+    {
+      "data": "2026-08-25T17:38:56+00:00",
+      "adversario": "Yogi1221982",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 2066,
+      "link": "https://www.chess.com/game/live/173517675082",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1787679536
+    },
+    {
       "data": "2026-08-25T17:18:03+00:00",
       "adversario": "edwinkuo",
       "cor": "Pretas",
