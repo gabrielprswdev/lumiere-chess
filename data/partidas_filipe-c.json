@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-26T13:38:27+00:00",
+      "adversario": "EdPRS",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1017,
+      "link": "https://www.chess.com/game/live/173556777010",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1787751507
+    },
+    {
+      "data": "2026-08-26T13:29:22+00:00",
+      "adversario": "alik5455",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1017,
+      "link": "https://www.chess.com/game/live/173555891830",
+      "eco": "C46",
+      "pontos": 1.0,
+      "end_time": 1787750962
+    },
+    {
       "data": "2026-08-26T00:00:23+00:00",
       "adversario": "cucuhehe",
       "cor": "Brancas",
