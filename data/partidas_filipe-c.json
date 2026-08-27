@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-08-27T23:22:57+00:00",
+      "adversario": "Getterix",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "300",
+      "rating": 502,
+      "link": "https://www.chess.com/game/live/173627454158",
+      "eco": "C41",
+      "pontos": 1.0,
+      "end_time": 1787872977
+    },
+    {
+      "data": "2026-08-27T23:14:12+00:00",
+      "adversario": "boldoxenneru",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1025,
+      "link": "https://www.chess.com/game/live/173626927436",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1787872452
+    },
+    {
+      "data": "2026-08-27T22:53:13+00:00",
+      "adversario": "pawnandroid",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600+5",
+      "rating": 1025,
+      "link": "https://www.chess.com/game/live/173626374800",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1787871193
+    },
+    {
+      "data": "2026-08-27T22:32:10+00:00",
+      "adversario": "DominiEwerton",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1025,
+      "link": "https://www.chess.com/game/live/173625720514",
+      "eco": "C62",
+      "pontos": 0.0,
+      "end_time": 1787869930
+    },
+    {
+      "data": "2026-08-27T22:10:29+00:00",
+      "adversario": "xandy4172",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1025,
+      "link": "https://www.chess.com/game/live/173625290860",
+      "eco": "D10",
+      "pontos": 0.0,
+      "end_time": 1787868629
+    },
+    {
       "data": "2026-08-26T23:45:28+00:00",
       "adversario": "tymniak",
       "cor": "Pretas",
