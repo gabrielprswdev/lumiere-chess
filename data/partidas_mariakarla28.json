@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-27T11:47:13+00:00",
+      "adversario": "MohsenDahi",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 654,
+      "link": "https://www.chess.com/game/live/173599892028",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1787831233
+    },
+    {
+      "data": "2026-08-27T10:37:54+00:00",
+      "adversario": "arisborland",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 661,
+      "link": "https://www.chess.com/game/live/173597245146",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1787827074
+    },
+    {
+      "data": "2026-08-27T10:30:38+00:00",
+      "adversario": "Riddell888",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 669,
+      "link": "https://www.chess.com/game/live/173597097968",
+      "eco": "B10",
+      "pontos": 0.0,
+      "end_time": 1787826638
+    },
+    {
+      "data": "2026-08-27T10:26:37+00:00",
+      "adversario": "Lekkerman2009",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 678,
+      "link": "https://www.chess.com/game/live/173596940896",
+      "eco": "B40",
+      "pontos": 0.0,
+      "end_time": 1787826397
+    },
+    {
       "data": "2026-08-26T13:03:28+00:00",
       "adversario": "rajis1",
       "cor": "Brancas",
@@ -13506,19 +13558,6 @@
       "eco": "C40",
       "pontos": 0.0,
       "end_time": 1756290133
-    },
-    {
-      "data": "2025-08-26T11:18:42+00:00",
-      "adversario": "Zouyer",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1095,
-      "link": "https://www.chess.com/game/live/142351432702",
-      "eco": "B22",
-      "pontos": 0.0,
-      "end_time": 1756207122
     }
   ]
 }
