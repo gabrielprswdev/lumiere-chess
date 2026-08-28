@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-28T20:59:04+00:00",
+      "adversario": "rkyve",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 646,
+      "link": "https://www.chess.com/game/live/173671171246",
+      "eco": "B01",
+      "pontos": 0.0,
+      "end_time": 1787950744
+    },
+    {
       "data": "2026-08-27T11:47:13+00:00",
       "adversario": "MohsenDahi",
       "cor": "Pretas",
@@ -13545,19 +13558,6 @@
       "eco": "A41",
       "pontos": 0.0,
       "end_time": 1756377936
-    },
-    {
-      "data": "2025-08-27T10:22:13+00:00",
-      "adversario": "wizzzzzyyyyy",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/142391076858",
-      "eco": "C40",
-      "pontos": 0.0,
-      "end_time": 1756290133
     }
   ]
 }
