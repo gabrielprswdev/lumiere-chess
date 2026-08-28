@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-28T00:14:00+00:00",
+      "adversario": "86AIED",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1019,
+      "link": "https://www.chess.com/game/live/173628491410",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1787876040
+    },
+    {
+      "data": "2026-08-27T23:59:02+00:00",
+      "adversario": "ThiagoChessz",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1019,
+      "link": "https://www.chess.com/game/live/173628038792",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1787875142
+    },
+    {
+      "data": "2026-08-27T23:39:52+00:00",
+      "adversario": "MkOrochi",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1019,
+      "link": "https://www.chess.com/game/live/173627624632",
+      "eco": "C50",
+      "pontos": 0.5,
+      "end_time": 1787873992
+    },
+    {
       "data": "2026-08-27T23:22:57+00:00",
       "adversario": "Getterix",
       "cor": "Brancas",
