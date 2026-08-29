@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-28T21:08:13+00:00",
+      "adversario": "fruitamoon",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 662,
+      "link": "https://www.chess.com/game/live/173671702114",
+      "eco": "B06",
+      "pontos": 1.0,
+      "end_time": 1787951293
+    },
+    {
+      "data": "2026-08-28T21:07:17+00:00",
+      "adversario": "aquibsheikh",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 654,
+      "link": "https://www.chess.com/game/live/173671426908",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1787951237
+    },
+    {
       "data": "2026-08-28T20:59:04+00:00",
       "adversario": "rkyve",
       "cor": "Brancas",
@@ -13532,32 +13558,6 @@
       "eco": "C45",
       "pontos": 0.0,
       "end_time": 1756483723
-    },
-    {
-      "data": "2025-08-28T16:29:05+00:00",
-      "adversario": "Endpawer",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1071,
-      "link": "https://www.chess.com/game/live/142444866900",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1756398545
-    },
-    {
-      "data": "2025-08-28T10:45:36+00:00",
-      "adversario": "Exspect01",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1079,
-      "link": "https://www.chess.com/game/live/142432436326",
-      "eco": "A41",
-      "pontos": 0.0,
-      "end_time": 1756377936
     }
   ]
 }
