@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-29T18:32:29+00:00",
+      "adversario": "GuiDelPassant",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1497,
+      "link": "https://www.chess.com/game/live/173712527816",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1788028349
+    },
+    {
       "data": "2026-07-22T11:48:06+00:00",
       "adversario": "Starsoul",
       "cor": "Brancas",
