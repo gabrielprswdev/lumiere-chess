@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-08-29T10:47:33+00:00",
+      "adversario": "Niroumand",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 660,
+      "link": "https://www.chess.com/game/live/173693509332",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1788000453
+    },
+    {
       "data": "2026-08-29T10:38:08+00:00",
       "adversario": "avikmasid",
       "cor": "Pretas",
