@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-30T21:45:29+00:00",
+      "adversario": "nenzsy",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 669,
+      "link": "https://www.chess.com/game/live/173766209298",
+      "eco": "B13",
+      "pontos": 0.5,
+      "end_time": 1788126329
+    },
+    {
+      "data": "2026-08-30T21:35:40+00:00",
+      "adversario": "equilibrer1234",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 669,
+      "link": "https://www.chess.com/game/live/173766053804",
+      "eco": "B40",
+      "pontos": 1.0,
+      "end_time": 1788125740
+    },
+    {
       "data": "2026-08-29T10:47:33+00:00",
       "adversario": "Niroumand",
       "cor": "Brancas",
@@ -13571,45 +13597,6 @@
       "eco": "B20",
       "pontos": 1.0,
       "end_time": 1756541727
-    },
-    {
-      "data": "2025-08-29T16:26:34+00:00",
-      "adversario": "fettispeck",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1064,
-      "link": "https://www.chess.com/game/live/142485427520",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1756484794
-    },
-    {
-      "data": "2025-08-29T16:20:05+00:00",
-      "adversario": "Yivsu_lxr",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1056,
-      "link": "https://www.chess.com/game/live/142484994656",
-      "eco": "D30",
-      "pontos": 0.0,
-      "end_time": 1756484405
-    },
-    {
-      "data": "2025-08-29T16:08:43+00:00",
-      "adversario": "Kutzeku",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1063,
-      "link": "https://www.chess.com/game/live/142484686852",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1756483723
     }
   ]
 }
