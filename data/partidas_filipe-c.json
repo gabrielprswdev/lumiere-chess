@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-08-30T05:02:49+00:00",
+      "adversario": "Nestor_nestor",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1010,
+      "link": "https://www.chess.com/game/live/173729824044",
+      "eco": "C41",
+      "pontos": 1.0,
+      "end_time": 1788066169
+    },
+    {
+      "data": "2026-08-30T05:00:18+00:00",
+      "adversario": "YounesNowara",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1002,
+      "link": "https://www.chess.com/game/live/173729676658",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1788066018
+    },
+    {
+      "data": "2026-08-30T04:54:24+00:00",
+      "adversario": "RESHMA63",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1010,
+      "link": "https://www.chess.com/game/live/173729457614",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1788065664
+    },
+    {
       "data": "2026-08-28T16:43:29+00:00",
       "adversario": "Z-I-D-A-N-10",
       "cor": "Brancas",
