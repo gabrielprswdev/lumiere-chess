@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-08-31T03:15:40+00:00",
+      "adversario": "Mario445566",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/173774079160",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1788146140
+    },
+    {
+      "data": "2026-08-31T03:07:46+00:00",
+      "adversario": "Mario445566",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/173773897668",
+      "eco": "B06",
+      "pontos": 1.0,
+      "end_time": 1788145666
+    },
+    {
       "data": "2026-08-30T16:47:41+00:00",
       "adversario": "Astropidex",
       "cor": "Pretas",
