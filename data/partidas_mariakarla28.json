@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-08-31T11:21:38+00:00",
+      "adversario": "oleg1103ne",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 684,
+      "link": "https://www.chess.com/game/live/173787869896",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1788175298
+    },
+    {
+      "data": "2026-08-31T11:18:33+00:00",
+      "adversario": "Rajat_parnami",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 692,
+      "link": "https://www.chess.com/game/live/173787685274",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1788175113
+    },
+    {
+      "data": "2026-08-31T11:12:55+00:00",
+      "adversario": "MegaCity1",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 684,
+      "link": "https://www.chess.com/game/live/173787566978",
+      "eco": "B40",
+      "pontos": 1.0,
+      "end_time": 1788174775
+    },
+    {
+      "data": "2026-08-31T11:09:55+00:00",
+      "adversario": "Hveem",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 676,
+      "link": "https://www.chess.com/game/live/173787313570",
+      "eco": "B40",
+      "pontos": 1.0,
+      "end_time": 1788174595
+    },
+    {
       "data": "2026-08-30T21:45:29+00:00",
       "adversario": "nenzsy",
       "cor": "Brancas",
@@ -13584,19 +13636,6 @@
       "eco": "B50",
       "pontos": 1.0,
       "end_time": 1756680691
-    },
-    {
-      "data": "2025-08-30T08:15:27+00:00",
-      "adversario": "legend_252025",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1072,
-      "link": "https://www.chess.com/game/live/142508933056",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1756541727
     }
   ]
 }
