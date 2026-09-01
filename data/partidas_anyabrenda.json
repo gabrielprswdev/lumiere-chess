@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-09-01T13:59:42+00:00",
+      "adversario": "RzelXediTs8",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1315,
+      "link": "https://www.chess.com/game/live/173842387440",
+      "eco": "C47",
+      "pontos": 0.5,
+      "end_time": 1788271182
+    },
+    {
+      "data": "2026-09-01T13:57:27+00:00",
+      "adversario": "RzelXediTs8",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1315,
+      "link": "https://www.chess.com/game/live/173842354878",
+      "eco": "A48",
+      "pontos": 1.0,
+      "end_time": 1788271047
+    },
+    {
+      "data": "2026-09-01T13:56:36+00:00",
+      "adversario": "raffiandht",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1307,
+      "link": "https://www.chess.com/game/live/173842267108",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1788270996
+    },
+    {
+      "data": "2026-09-01T13:54:43+00:00",
+      "adversario": "Dheerajnegi-1",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1299,
+      "link": "https://www.chess.com/game/live/173842173220",
+      "eco": "B51",
+      "pontos": 0.0,
+      "end_time": 1788270883
+    },
+    {
+      "data": "2026-09-01T13:52:33+00:00",
+      "adversario": "1biccard",
+      "cor": "Pretas",
+      "resultado": "stalemate",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1307,
+      "link": "https://www.chess.com/game/live/173842062226",
+      "eco": "D04",
+      "pontos": 0.5,
+      "end_time": 1788270753
+    },
+    {
       "data": "2026-08-31T03:15:40+00:00",
       "adversario": "Mario445566",
       "cor": "Pretas",
