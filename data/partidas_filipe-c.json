@@ -1,6 +1,123 @@
 {
   "partidas": [
     {
+      "data": "2026-08-31T23:58:32+00:00",
+      "adversario": "CARLITOxxt",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "120+1",
+      "rating": 247,
+      "link": "https://www.chess.com/game/live/182534300963",
+      "eco": "C43",
+      "pontos": 0.0,
+      "end_time": 1788220712
+    },
+    {
+      "data": "2026-08-31T23:53:11+00:00",
+      "adversario": "erikpparraga",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "120+1",
+      "rating": 247,
+      "link": "https://www.chess.com/game/live/182533701317",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1788220391
+    },
+    {
+      "data": "2026-08-31T23:42:14+00:00",
+      "adversario": "Rui_Tuga",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "120+1",
+      "rating": 247,
+      "link": "https://www.chess.com/game/live/182533101275",
+      "eco": "B01",
+      "pontos": 0.0,
+      "end_time": 1788219734
+    },
+    {
+      "data": "2026-08-31T23:29:29+00:00",
+      "adversario": "erikpparraga",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 502,
+      "link": "https://www.chess.com/game/live/182531901449",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1788218969
+    },
+    {
+      "data": "2026-08-31T23:18:13+00:00",
+      "adversario": "cas_luu",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 502,
+      "link": "https://www.chess.com/game/live/182531301423",
+      "eco": "C44",
+      "pontos": 1.0,
+      "end_time": 1788218293
+    },
+    {
+      "data": "2026-08-31T23:10:39+00:00",
+      "adversario": "Afonsoide",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 502,
+      "link": "https://www.chess.com/game/live/182530701357",
+      "eco": "C00",
+      "pontos": 0.0,
+      "end_time": 1788217839
+    },
+    {
+      "data": "2026-08-31T22:57:42+00:00",
+      "adversario": "kinhaha",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 502,
+      "link": "https://www.chess.com/game/live/182530101291",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1788217062
+    },
+    {
+      "data": "2026-08-31T22:47:19+00:00",
+      "adversario": "jas70",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 502,
+      "link": "https://www.chess.com/game/live/182529501479",
+      "eco": "A00",
+      "pontos": 0.0,
+      "end_time": 1788216439
+    },
+    {
+      "data": "2026-08-31T22:34:11+00:00",
+      "adversario": "matheuslopesreis01",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "60",
+      "rating": 247,
+      "link": "https://www.chess.com/game/live/173815213854",
+      "eco": "B50",
+      "pontos": 0.0,
+      "end_time": 1788215651
+    },
+    {
       "data": "2026-08-31T22:24:28+00:00",
       "adversario": "Rui_Tuga",
       "cor": "Pretas",
@@ -39298,19 +39415,6 @@
       "eco": "B02",
       "pontos": 0.0,
       "end_time": 1756684960
-    },
-    {
-      "data": "2025-08-31T23:49:07+00:00",
-      "adversario": "Bunt4711",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 429,
-      "link": "https://www.chess.com/game/live/142576278416",
-      "eco": "A04",
-      "pontos": 0.0,
-      "end_time": 1756684147
     }
   ]
 }
