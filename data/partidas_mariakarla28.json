@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-01T12:11:42+00:00",
+      "adversario": "NatanBen01",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1274,
+      "link": "https://www.chess.com/game/live/173837426670",
+      "eco": "B50",
+      "pontos": 0.0,
+      "end_time": 1788264702
+    },
+    {
       "data": "2026-08-31T11:21:38+00:00",
       "adversario": "oleg1103ne",
       "cor": "Brancas",
@@ -13623,19 +13636,6 @@
       "eco": "D00",
       "pontos": 0.5,
       "end_time": 1756718145
-    },
-    {
-      "data": "2025-08-31T22:51:31+00:00",
-      "adversario": "Michulek",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1080,
-      "link": "https://www.chess.com/game/live/142574877510",
-      "eco": "B50",
-      "pontos": 1.0,
-      "end_time": 1756680691
     }
   ]
 }
