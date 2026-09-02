@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-09-02T23:37:33+00:00",
+      "adversario": "lemitico",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "120+1",
+      "rating": 1756,
+      "link": "https://www.chess.com/game/live/173912558032",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1788392253
+    },
+    {
+      "data": "2026-09-02T23:31:45+00:00",
+      "adversario": "cubanitorico",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "120+1",
+      "rating": 1748,
+      "link": "https://www.chess.com/game/live/173912487698",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1788391905
+    },
+    {
+      "data": "2026-09-02T23:13:23+00:00",
+      "adversario": "naa_shekan",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "120+1",
+      "rating": 1756,
+      "link": "https://www.chess.com/game/live/173911973516",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1788390803
+    },
+    {
+      "data": "2026-09-02T23:07:57+00:00",
+      "adversario": "CorsicaLibera",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "120+1",
+      "rating": 1747,
+      "link": "https://www.chess.com/game/live/173911842434",
+      "eco": "C30",
+      "pontos": 0.0,
+      "end_time": 1788390477
+    },
+    {
       "data": "2026-09-02T08:40:07+00:00",
       "adversario": "Gemini3-0",
       "cor": "Brancas",
