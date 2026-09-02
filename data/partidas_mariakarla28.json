@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-02T12:27:40+00:00",
+      "adversario": "cchyse",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1265,
+      "link": "https://www.chess.com/game/live/173886079416",
+      "eco": "B40",
+      "pontos": 0.0,
+      "end_time": 1788352060
+    },
+    {
       "data": "2026-09-01T12:11:42+00:00",
       "adversario": "NatanBen01",
       "cor": "Pretas",
@@ -13610,32 +13623,6 @@
       "eco": "A00",
       "pontos": 0.0,
       "end_time": 1756813148
-    },
-    {
-      "data": "2025-09-01T09:21:50+00:00",
-      "adversario": "Aadi2404",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/142588176388",
-      "eco": "B01",
-      "pontos": 1.0,
-      "end_time": 1756718510
-    },
-    {
-      "data": "2025-09-01T09:15:45+00:00",
-      "adversario": "ashishpratap0505",
-      "cor": "Pretas",
-      "resultado": "agreed",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1079,
-      "link": "https://www.chess.com/game/live/142588095566",
-      "eco": "D00",
-      "pontos": 0.5,
-      "end_time": 1756718145
     }
   ]
 }
