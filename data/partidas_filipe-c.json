@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-02T21:25:54+00:00",
+      "adversario": "alsayed131",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 945,
+      "link": "https://www.chess.com/game/live/173908618968",
+      "eco": "A04",
+      "pontos": 0.0,
+      "end_time": 1788384354
+    },
+    {
       "data": "2026-09-01T23:58:53+00:00",
       "adversario": "kondagorlavenkataswamy",
       "cor": "Brancas",
