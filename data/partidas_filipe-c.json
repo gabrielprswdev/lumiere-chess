@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-03T00:07:32+00:00",
+      "adversario": "Ediglejob",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 945,
+      "link": "https://www.chess.com/game/live/182707101369",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1788394052
+    },
+    {
       "data": "2026-09-02T23:44:59+00:00",
       "adversario": "Rui_Tuga",
       "cor": "Pretas",
@@ -39753,19 +39766,6 @@
       "eco": "A21",
       "pontos": 0.5,
       "end_time": 1756858316
-    },
-    {
-      "data": "2025-09-02T03:17:45+00:00",
-      "adversario": "twinn1020",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 437,
-      "link": "https://www.chess.com/game/live/142619900840",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1756783065
     }
   ]
 }

@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-03T00:51:06+00:00",
+      "adversario": "accardenas",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "120+1",
+      "rating": 1764,
+      "link": "https://www.chess.com/game/live/173914358940",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1788396666
+    },
+    {
       "data": "2026-09-02T23:37:33+00:00",
       "adversario": "lemitico",
       "cor": "Pretas",
@@ -104415,84 +104428,6 @@
       "eco": "B01",
       "pontos": 1.0,
       "end_time": 1756926252
-    },
-    {
-      "data": "2025-09-02T19:31:38+00:00",
-      "adversario": "ASmallPuma",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1566,
-      "link": "https://www.chess.com/game/live/142649291290",
-      "eco": "C42",
-      "pontos": 0.0,
-      "end_time": 1756841498
-    },
-    {
-      "data": "2025-09-02T19:16:35+00:00",
-      "adversario": "andreasevincel",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1770,
-      "link": "https://www.chess.com/game/live/142648579958",
-      "eco": "C42",
-      "pontos": 1.0,
-      "end_time": 1756840595
-    },
-    {
-      "data": "2025-09-02T19:02:38+00:00",
-      "adversario": "Adeline241",
-      "cor": "Brancas",
-      "resultado": "repetition",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1762,
-      "link": "https://www.chess.com/game/live/142647906396",
-      "eco": "B33",
-      "pontos": 0.5,
-      "end_time": 1756839758
-    },
-    {
-      "data": "2025-09-02T18:40:24+00:00",
-      "adversario": "ezio_7",
-      "cor": "Pretas",
-      "resultado": "abandoned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1761,
-      "link": "https://www.chess.com/game/live/142647398838",
-      "eco": "A28",
-      "pontos": 0.0,
-      "end_time": 1756838424
-    },
-    {
-      "data": "2025-09-02T18:31:49+00:00",
-      "adversario": "Sebastian211212",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1769,
-      "link": "https://www.chess.com/game/live/142647120278",
-      "eco": "B03",
-      "pontos": 0.0,
-      "end_time": 1756837909
-    },
-    {
-      "data": "2025-09-02T18:23:26+00:00",
-      "adversario": "SoaresMarcio",
-      "cor": "Pretas",
-      "resultado": "agreed",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1777,
-      "link": "https://www.chess.com/game/live/142646673764",
-      "eco": "C48",
-      "pontos": 0.5,
-      "end_time": 1756837406
     }
   ]
 }
