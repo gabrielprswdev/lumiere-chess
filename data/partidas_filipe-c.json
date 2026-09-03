@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-03T19:31:18+00:00",
+      "adversario": "Kragl79",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 954,
+      "link": "https://www.chess.com/game/live/173952402738",
+      "eco": "C46",
+      "pontos": 1.0,
+      "end_time": 1788463878
+    },
+    {
       "data": "2026-09-03T00:07:32+00:00",
       "adversario": "Ediglejob",
       "cor": "Brancas",

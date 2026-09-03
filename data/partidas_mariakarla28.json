@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-03T18:57:05+00:00",
+      "adversario": "fffest",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1256,
+      "link": "https://www.chess.com/game/live/173951356506",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1788461825
+    },
+    {
       "data": "2026-09-02T12:27:40+00:00",
       "adversario": "cchyse",
       "cor": "Pretas",
@@ -13597,32 +13610,6 @@
       "eco": "C53",
       "pontos": 1.0,
       "end_time": 1756917440
-    },
-    {
-      "data": "2025-09-02T18:22:40+00:00",
-      "adversario": "joelhecht10",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 397,
-      "link": "https://www.chess.com/game/live/142646958140",
-      "eco": "D02",
-      "pontos": 1.0,
-      "end_time": 1756837360
-    },
-    {
-      "data": "2025-09-02T11:39:08+00:00",
-      "adversario": "Rush3DD",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1079,
-      "link": "https://www.chess.com/game/live/142631836386",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1756813148
     }
   ]
 }
