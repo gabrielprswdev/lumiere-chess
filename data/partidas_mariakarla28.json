@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-04T22:47:46+00:00",
+      "adversario": "onlyRookz242",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1248,
+      "link": "https://www.chess.com/game/live/174008386722",
+      "eco": "B13",
+      "pontos": 0.0,
+      "end_time": 1788562066
+    },
+    {
       "data": "2026-09-03T18:57:05+00:00",
       "adversario": "fffest",
       "cor": "Brancas",
@@ -13584,32 +13597,6 @@
       "eco": "C50",
       "pontos": 0.0,
       "end_time": 1756996217
-    },
-    {
-      "data": "2025-09-03T18:53:38+00:00",
-      "adversario": "DankPotato420",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 386,
-      "link": "https://www.chess.com/game/live/142688504718",
-      "eco": "C42",
-      "pontos": 0.0,
-      "end_time": 1756925618
-    },
-    {
-      "data": "2025-09-03T16:37:20+00:00",
-      "adversario": "Chikkadinni9986AG",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/142682944074",
-      "eco": "C53",
-      "pontos": 1.0,
-      "end_time": 1756917440
     }
   ]
 }
