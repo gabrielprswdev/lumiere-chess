@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-05T15:40:02+00:00",
+      "adversario": "spridermen",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1257,
+      "link": "https://www.chess.com/game/live/174039349672",
+      "eco": "B44",
+      "pontos": 1.0,
+      "end_time": 1788622802
+    },
+    {
       "data": "2026-09-04T22:47:46+00:00",
       "adversario": "onlyRookz242",
       "cor": "Brancas",
@@ -13571,32 +13584,6 @@
       "eco": "C50",
       "pontos": 0.0,
       "end_time": 1757074876
-    },
-    {
-      "data": "2025-09-04T17:12:06+00:00",
-      "adversario": "saltiwalti2",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/142724694946",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1757005926
-    },
-    {
-      "data": "2025-09-04T14:30:17+00:00",
-      "adversario": "Minnyiaung",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1079,
-      "link": "https://www.chess.com/game/live/142718793290",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1756996217
     }
   ]
 }
