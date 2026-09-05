@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-09-05T00:04:39+00:00",
+      "adversario": "pawnandroid",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600+5",
+      "rating": 987,
+      "link": "https://www.chess.com/game/live/174010286218",
+      "eco": "C57",
+      "pontos": 0.0,
+      "end_time": 1788566679
+    },
+    {
+      "data": "2026-09-04T23:55:43+00:00",
+      "adversario": "ngelo_ches",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 987,
+      "link": "https://www.chess.com/game/live/174010045644",
+      "eco": "A46",
+      "pontos": 0.0,
+      "end_time": 1788566143
+    },
+    {
+      "data": "2026-09-04T23:47:01+00:00",
+      "adversario": "Davi-carneiro-32",
+      "cor": "Pretas",
+      "resultado": "insufficient",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 987,
+      "link": "https://www.chess.com/game/live/174009641816",
+      "eco": "C41",
+      "pontos": 0.5,
+      "end_time": 1788565621
+    },
+    {
       "data": "2026-09-04T23:31:38+00:00",
       "adversario": "Bufa_Forte",
       "cor": "Pretas",
