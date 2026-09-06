@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-06T17:58:29+00:00",
+      "adversario": "Moteur01",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1248,
+      "link": "https://www.chess.com/game/live/174091765328",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1788717509
+    },
+    {
       "data": "2026-09-05T15:40:02+00:00",
       "adversario": "spridermen",
       "cor": "Pretas",
@@ -13571,19 +13584,6 @@
       "eco": "C42",
       "pontos": 1.0,
       "end_time": 1757256690
-    },
-    {
-      "data": "2025-09-05T12:21:16+00:00",
-      "adversario": "rahul1iitr23",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1079,
-      "link": "https://www.chess.com/game/live/142754539830",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1757074876
     }
   ]
 }
