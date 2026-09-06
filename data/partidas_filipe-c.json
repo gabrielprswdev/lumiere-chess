@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-06T19:50:23+00:00",
+      "adversario": "arielsonguimaraes",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 697,
+      "link": "https://www.chess.com/game/daily/1016559962",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1788724223
+    },
+    {
       "data": "2026-09-05T00:04:39+00:00",
       "adversario": "pawnandroid",
       "cor": "Brancas",
@@ -40299,32 +40312,6 @@
       "eco": "C20",
       "pontos": 1.0,
       "end_time": 1757124027
-    },
-    {
-      "data": "2025-09-05T18:09:58+00:00",
-      "adversario": "Alepicci10",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 443,
-      "link": "https://www.chess.com/game/live/142767737162",
-      "eco": "C40",
-      "pontos": 1.0,
-      "end_time": 1757095798
-    },
-    {
-      "data": "2025-09-05T15:32:35+00:00",
-      "adversario": "AbdSam45",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 436,
-      "link": "https://www.chess.com/game/live/142761708946",
-      "eco": "C23",
-      "pontos": 1.0,
-      "end_time": 1757086355
     }
   ]
 }
