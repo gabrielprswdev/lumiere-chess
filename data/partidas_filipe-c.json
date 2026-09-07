@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-07T02:03:34+00:00",
+      "adversario": "AnvithChess",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 995,
+      "link": "https://www.chess.com/game/live/174106634080",
+      "eco": "C28",
+      "pontos": 1.0,
+      "end_time": 1788746614
+    },
+    {
       "data": "2026-09-06T21:58:49+00:00",
       "adversario": "FHOX85",
       "cor": "Pretas",
@@ -40351,19 +40364,6 @@
       "eco": "C21",
       "pontos": 1.0,
       "end_time": 1757209212
-    },
-    {
-      "data": "2025-09-06T02:00:27+00:00",
-      "adversario": "minhnguyenn6",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 451,
-      "link": "https://www.chess.com/game/live/142779537914",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1757124027
     }
   ]
 }
