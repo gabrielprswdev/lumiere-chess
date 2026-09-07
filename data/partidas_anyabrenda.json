@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-09-07T15:55:56+00:00",
+      "adversario": "Mario445566",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/174133511574",
+      "eco": "D04",
+      "pontos": 1.0,
+      "end_time": 1788796556
+    },
+    {
+      "data": "2026-09-07T15:46:03+00:00",
+      "adversario": "FXFTX",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1258,
+      "link": "https://www.chess.com/game/live/174133356142",
+      "eco": "B27",
+      "pontos": 1.0,
+      "end_time": 1788795963
+    },
+    {
+      "data": "2026-09-07T15:42:32+00:00",
+      "adversario": "alexsmallpipi",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1250,
+      "link": "https://www.chess.com/game/live/174133197520",
+      "eco": "B01",
+      "pontos": 0.0,
+      "end_time": 1788795752
+    },
+    {
       "data": "2026-09-05T18:19:31+00:00",
       "adversario": "PhilippeAP",
       "cor": "Brancas",
