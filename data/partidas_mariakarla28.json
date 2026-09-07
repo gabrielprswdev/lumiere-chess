@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-07T11:06:45+00:00",
+      "adversario": "Shah-ghzaly",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1257,
+      "link": "https://www.chess.com/game/live/174121530298",
+      "eco": "B20",
+      "pontos": 1.0,
+      "end_time": 1788779205
+    },
+    {
       "data": "2026-09-06T17:58:29+00:00",
       "adversario": "Moteur01",
       "cor": "Brancas",
