@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-08T10:56:41+00:00",
+      "adversario": "fayz0808",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1248,
+      "link": "https://www.chess.com/game/live/174169219394",
+      "eco": "C40",
+      "pontos": 0.0,
+      "end_time": 1788865001
+    },
+    {
       "data": "2026-09-07T11:06:45+00:00",
       "adversario": "Shah-ghzaly",
       "cor": "Pretas",
@@ -13558,45 +13571,6 @@
       "eco": "C42",
       "pontos": 0.0,
       "end_time": 1757340788
-    },
-    {
-      "data": "2025-09-07T20:50:58+00:00",
-      "adversario": "Willpar",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/142851545638",
-      "eco": "B50",
-      "pontos": 1.0,
-      "end_time": 1757278258
-    },
-    {
-      "data": "2025-09-07T15:19:23+00:00",
-      "adversario": "andretop1",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1079,
-      "link": "https://www.chess.com/game/live/142840579894",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1757258363
-    },
-    {
-      "data": "2025-09-07T14:51:30+00:00",
-      "adversario": "Mugwanya9",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1087,
-      "link": "https://www.chess.com/game/live/142839481176",
-      "eco": "C42",
-      "pontos": 1.0,
-      "end_time": 1757256690
     }
   ]
 }
