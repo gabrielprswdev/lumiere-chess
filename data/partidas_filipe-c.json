@@ -1,6 +1,97 @@
 {
   "partidas": [
     {
+      "data": "2026-09-08T21:27:55+00:00",
+      "adversario": "DADR_2025",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1003,
+      "link": "https://www.chess.com/game/live/174195722132",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1788902875
+    },
+    {
+      "data": "2026-09-08T21:10:12+00:00",
+      "adversario": "GersonAires",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1012,
+      "link": "https://www.chess.com/game/live/174195222044",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1788901812
+    },
+    {
+      "data": "2026-09-08T20:57:49+00:00",
+      "adversario": "phlegsplend",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1004,
+      "link": "https://www.chess.com/game/live/174194770044",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1788901069
+    },
+    {
+      "data": "2026-09-08T20:39:32+00:00",
+      "adversario": "albidacia",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1012,
+      "link": "https://www.chess.com/game/live/174194045828",
+      "eco": "C22",
+      "pontos": 1.0,
+      "end_time": 1788899972
+    },
+    {
+      "data": "2026-09-08T20:13:52+00:00",
+      "adversario": "bpr78",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1004,
+      "link": "https://www.chess.com/game/live/174193196438",
+      "eco": "B02",
+      "pontos": 0.5,
+      "end_time": 1788898432
+    },
+    {
+      "data": "2026-09-08T20:01:20+00:00",
+      "adversario": "doreroldan",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1004,
+      "link": "https://www.chess.com/game/live/174192805164",
+      "eco": "C23",
+      "pontos": 0.0,
+      "end_time": 1788897680
+    },
+    {
+      "data": "2026-09-08T19:45:06+00:00",
+      "adversario": "ali_abu-siraj",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1011,
+      "link": "https://www.chess.com/game/live/174191893376",
+      "eco": "C00",
+      "pontos": 1.0,
+      "end_time": 1788896706
+    },
+    {
       "data": "2026-09-07T23:57:45+00:00",
       "adversario": "piomario1",
       "cor": "Brancas",
@@ -40689,19 +40780,6 @@
       "eco": "A40",
       "pontos": 0.0,
       "end_time": 1758378015
-    },
-    {
-      "data": "2025-09-07T01:40:12+00:00",
-      "adversario": "kerdo87",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 459,
-      "link": "https://www.chess.com/game/live/142818342734",
-      "eco": "C21",
-      "pontos": 1.0,
-      "end_time": 1757209212
     }
   ]
 }
