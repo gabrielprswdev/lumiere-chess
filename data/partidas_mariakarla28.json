@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-09T12:03:11+00:00",
+      "adversario": "moonty1",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1256,
+      "link": "https://www.chess.com/game/live/174220155490",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1788955391
+    },
+    {
       "data": "2026-09-08T10:56:41+00:00",
       "adversario": "fayz0808",
       "cor": "Brancas",
@@ -13558,19 +13571,6 @@
       "eco": "A00",
       "pontos": 0.0,
       "end_time": 1757422392
-    },
-    {
-      "data": "2025-09-08T14:13:08+00:00",
-      "adversario": "idk112211",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1079,
-      "link": "https://www.chess.com/game/live/142876823246",
-      "eco": "C42",
-      "pontos": 0.0,
-      "end_time": 1757340788
     }
   ]
 }
