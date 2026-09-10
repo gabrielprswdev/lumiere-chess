@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-09-09T23:56:24+00:00",
+      "adversario": "walkingSea",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 525,
+      "link": "https://www.chess.com/game/live/174248362870",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1788998184
+    },
+    {
+      "data": "2026-09-09T23:46:36+00:00",
+      "adversario": "erikpparraga",
+      "cor": "Pretas",
+      "resultado": "agreed",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1035,
+      "link": "https://www.chess.com/game/live/183310101439",
+      "eco": "C55",
+      "pontos": 0.5,
+      "end_time": 1788997596
+    },
+    {
+      "data": "2026-09-09T23:19:21+00:00",
+      "adversario": "CapaBlunderChess",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1035,
+      "link": "https://www.chess.com/game/live/183308901309",
+      "eco": "B00",
+      "pontos": 0.5,
+      "end_time": 1788995961
+    },
+    {
+      "data": "2026-09-09T22:55:23+00:00",
+      "adversario": "Luizotavio01",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1035,
+      "link": "https://www.chess.com/game/live/183307701265",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1788994523
+    },
+    {
       "data": "2026-09-09T22:43:02+00:00",
       "adversario": "wylldsg",
       "cor": "Brancas",
