@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-09-10T20:51:22+00:00",
+      "adversario": "Zuzalito",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1248,
+      "link": "https://www.chess.com/game/live/174291247826",
+      "eco": "B50",
+      "pontos": 0.0,
+      "end_time": 1789073482
+    },
+    {
+      "data": "2026-09-10T20:41:43+00:00",
+      "adversario": "AJuezDrez",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1256,
+      "link": "https://www.chess.com/game/live/174290965462",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1789072903
+    },
+    {
       "data": "2026-09-10T12:38:38+00:00",
       "adversario": "2Arthorius",
       "cor": "Pretas",
