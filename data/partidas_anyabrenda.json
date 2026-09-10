@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-10T16:02:50+00:00",
+      "adversario": "ozgurdemirel",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1266,
+      "link": "https://www.chess.com/game/live/174279459852",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1789056170
+    },
+    {
       "data": "2026-09-07T15:55:56+00:00",
       "adversario": "Mario445566",
       "cor": "Pretas",
