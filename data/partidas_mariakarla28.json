@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-10T12:38:38+00:00",
+      "adversario": "2Arthorius",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1248,
+      "link": "https://www.chess.com/game/live/174269937918",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1789043918
+    },
+    {
       "data": "2026-09-09T12:03:11+00:00",
       "adversario": "moonty1",
       "cor": "Pretas",
@@ -13480,97 +13493,6 @@
       "eco": "B07",
       "pontos": 0.0,
       "end_time": 1757502565
-    },
-    {
-      "data": "2025-09-09T22:47:28+00:00",
-      "adversario": "Joaojorgesnow",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1071,
-      "link": "https://www.chess.com/game/live/142934011188",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1757458048
-    },
-    {
-      "data": "2025-09-09T18:10:46+00:00",
-      "adversario": "juancarlosabdusetir",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1079,
-      "link": "https://www.chess.com/game/live/142925601176",
-      "eco": "B40",
-      "pontos": 1.0,
-      "end_time": 1757441446
-    },
-    {
-      "data": "2025-09-09T17:56:16+00:00",
-      "adversario": "debasis58",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1071,
-      "link": "https://www.chess.com/game/live/142925103362",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1757440576
-    },
-    {
-      "data": "2025-09-09T17:43:23+00:00",
-      "adversario": "sadness_24",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1063,
-      "link": "https://www.chess.com/game/live/142924956506",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1757439803
-    },
-    {
-      "data": "2025-09-09T17:35:11+00:00",
-      "adversario": "MatthewSclafani",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1071,
-      "link": "https://www.chess.com/game/live/142924523874",
-      "eco": "B15",
-      "pontos": 1.0,
-      "end_time": 1757439311
-    },
-    {
-      "data": "2025-09-09T17:27:27+00:00",
-      "adversario": "DangerDragonn",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1063,
-      "link": "https://www.chess.com/game/live/142924396338",
-      "eco": "A45",
-      "pontos": 0.0,
-      "end_time": 1757438847
-    },
-    {
-      "data": "2025-09-09T12:53:12+00:00",
-      "adversario": "Hypnotizedddd",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1071,
-      "link": "https://www.chess.com/game/live/142913860928",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1757422392
     }
   ]
 }
