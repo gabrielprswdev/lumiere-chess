@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-09-11T19:21:19+00:00",
+      "adversario": "Alguem-qual",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 680,
+      "link": "https://www.chess.com/game/daily/1024361260",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1789154479
+    },
+    {
+      "data": "2026-09-11T19:19:54+00:00",
+      "adversario": "MARABOUTALTF4",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1026,
+      "link": "https://www.chess.com/game/live/174336526326",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1789154394
+    },
+    {
       "data": "2026-09-11T15:29:40+00:00",
       "adversario": "Coach-David",
       "cor": "Brancas",

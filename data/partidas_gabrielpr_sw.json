@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-09-11T17:37:58+00:00",
+      "adversario": "bonoho91",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "60",
+      "rating": 1715,
+      "link": "https://www.chess.com/game/live/174332520428",
+      "eco": "C59",
+      "pontos": 1.0,
+      "end_time": 1789148278
+    },
+    {
+      "data": "2026-09-11T17:33:37+00:00",
+      "adversario": "dannnydamannny",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "60",
+      "rating": 1715,
+      "link": "https://www.chess.com/game/live/174332353300",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1789148017
+    },
+    {
       "data": "2026-09-11T16:41:13+00:00",
       "adversario": "Und0000",
       "cor": "Brancas",
