@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-09-11T20:16:37+00:00",
+      "adversario": "Mahoka",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1258,
+      "link": "https://www.chess.com/game/live/174338986420",
+      "eco": "A04",
+      "pontos": 1.0,
+      "end_time": 1789157797
+    },
+    {
+      "data": "2026-09-11T20:15:35+00:00",
+      "adversario": "INguidnice",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1250,
+      "link": "https://www.chess.com/game/live/174338915090",
+      "eco": "B13",
+      "pontos": 0.0,
+      "end_time": 1789157735
+    },
+    {
+      "data": "2026-09-11T20:13:33+00:00",
+      "adversario": "dioniziovs",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1258,
+      "link": "https://www.chess.com/game/live/174338853718",
+      "eco": "C47",
+      "pontos": 0.0,
+      "end_time": 1789157613
+    },
+    {
       "data": "2026-09-10T16:02:50+00:00",
       "adversario": "ozgurdemirel",
       "cor": "Pretas",
