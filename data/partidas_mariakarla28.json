@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-11T15:45:58+00:00",
+      "adversario": "chesskingtut",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1240,
+      "link": "https://www.chess.com/game/live/174327266976",
+      "eco": "C41",
+      "pontos": 0.0,
+      "end_time": 1789141558
+    },
+    {
       "data": "2026-09-10T20:51:22+00:00",
       "adversario": "Zuzalito",
       "cor": "Pretas",
@@ -13493,32 +13506,6 @@
       "eco": "B29",
       "pontos": 0.0,
       "end_time": 1757550286
-    },
-    {
-      "data": "2025-09-10T16:42:57+00:00",
-      "adversario": "edinju",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1056,
-      "link": "https://www.chess.com/game/live/142961984874",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1757522577
-    },
-    {
-      "data": "2025-09-10T11:09:25+00:00",
-      "adversario": "Naser162",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1064,
-      "link": "https://www.chess.com/game/live/142950399290",
-      "eco": "B07",
-      "pontos": 0.0,
-      "end_time": 1757502565
     }
   ]
 }
