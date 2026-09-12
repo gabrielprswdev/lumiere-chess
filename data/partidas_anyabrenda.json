@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-12T19:02:59+00:00",
+      "adversario": "Hossam_Gomaa",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1265,
+      "link": "https://www.chess.com/game/live/174383704314",
+      "eco": "C23",
+      "pontos": 1.0,
+      "end_time": 1789239779
+    },
+    {
       "data": "2026-09-11T20:16:37+00:00",
       "adversario": "Mahoka",
       "cor": "Brancas",
