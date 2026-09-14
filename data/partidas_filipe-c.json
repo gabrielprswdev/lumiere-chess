@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-14T13:08:26+00:00",
+      "adversario": "MagdielNegrao",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 680,
+      "link": "https://www.chess.com/game/daily/1027376878",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1789391306
+    },
+    {
       "data": "2026-09-14T03:11:02+00:00",
       "adversario": "JMoney2790",
       "cor": "Pretas",
