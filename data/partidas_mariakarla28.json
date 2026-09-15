@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-15T12:41:21+00:00",
+      "adversario": "MadeniyetToibazarov",
+      "cor": "Brancas",
+      "resultado": "abandoned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1223,
+      "link": "https://www.chess.com/game/live/174511425644",
+      "eco": "C43",
+      "pontos": 0.0,
+      "end_time": 1789476081
+    },
+    {
       "data": "2026-09-14T12:05:33+00:00",
       "adversario": "jhone87",
       "cor": "Pretas",
@@ -12674,110 +12687,6 @@
       "eco": "B40",
       "pontos": 0.0,
       "end_time": 1757929999
-    },
-    {
-      "data": "2025-09-14T12:50:39+00:00",
-      "adversario": "irwanmwlnaa",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1009,
-      "link": "https://www.chess.com/game/live/143109757064",
-      "eco": "C40",
-      "pontos": 1.0,
-      "end_time": 1757854239
-    },
-    {
-      "data": "2025-09-14T02:18:54+00:00",
-      "adversario": "QueenHangsForNothing",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1001,
-      "link": "https://www.chess.com/game/live/143094142710",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1757816334
-    },
-    {
-      "data": "2025-09-14T02:06:56+00:00",
-      "adversario": "Lozaruschessmk12346",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1009,
-      "link": "https://www.chess.com/game/live/143094062228",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1757815616
-    },
-    {
-      "data": "2025-09-14T02:02:30+00:00",
-      "adversario": "SixStringPat",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1017,
-      "link": "https://www.chess.com/game/live/143094004086",
-      "eco": "D00",
-      "pontos": 0.0,
-      "end_time": 1757815350
-    },
-    {
-      "data": "2025-09-14T00:53:28+00:00",
-      "adversario": "TironaCity",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1025,
-      "link": "https://www.chess.com/game/live/143092561996",
-      "eco": "B13",
-      "pontos": 0.0,
-      "end_time": 1757811208
-    },
-    {
-      "data": "2025-09-14T00:17:01+00:00",
-      "adversario": "CheckPleese",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 379,
-      "link": "https://www.chess.com/game/live/143092161816",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1757809021
-    },
-    {
-      "data": "2025-09-14T00:15:04+00:00",
-      "adversario": "Joedonmalone",
-      "cor": "Pretas",
-      "resultado": "abandoned",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 387,
-      "link": "https://www.chess.com/game/live/143092138296",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1757808904
-    },
-    {
-      "data": "2025-09-14T00:13:59+00:00",
-      "adversario": "SteveDZapata",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 395,
-      "link": "https://www.chess.com/game/live/143092103064",
-      "eco": "C00",
-      "pontos": 0.0,
-      "end_time": 1757808839
     }
   ]
 }
