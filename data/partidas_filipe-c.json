@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-15T19:46:35+00:00",
+      "adversario": "Heniek57",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1067,
+      "link": "https://www.chess.com/game/live/174530103628",
+      "eco": "C41",
+      "pontos": 0.0,
+      "end_time": 1789501595
+    },
+    {
       "data": "2026-09-14T23:58:08+00:00",
       "adversario": "heltonsouzamartins",
       "cor": "Pretas",
