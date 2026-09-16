@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-16T11:43:27+00:00",
+      "adversario": "aliuagron",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 915,
+      "link": "https://www.chess.com/game/daily/1028495572",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1789559007
+    },
+    {
       "data": "2026-09-15T12:41:21+00:00",
       "adversario": "MadeniyetToibazarov",
       "cor": "Brancas",
@@ -12583,110 +12596,6 @@
       "eco": "A13",
       "pontos": 1.0,
       "end_time": 1758023082
-    },
-    {
-      "data": "2025-09-15T22:58:58+00:00",
-      "adversario": "Vtx09",
-      "cor": "Brancas",
-      "resultado": "repetition",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 338,
-      "link": "https://www.chess.com/game/live/143168264118",
-      "eco": "C10",
-      "pontos": 0.5,
-      "end_time": 1757977138
-    },
-    {
-      "data": "2025-09-15T22:56:11+00:00",
-      "adversario": "TanukiDC",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 338,
-      "link": "https://www.chess.com/game/live/143168218976",
-      "eco": "C10",
-      "pontos": 0.0,
-      "end_time": 1757976971
-    },
-    {
-      "data": "2025-09-15T22:54:07+00:00",
-      "adversario": "mossaabrz",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 346,
-      "link": "https://www.chess.com/game/live/143168201458",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1757976847
-    },
-    {
-      "data": "2025-09-15T22:53:12+00:00",
-      "adversario": "Rodri_mt",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 354,
-      "link": "https://www.chess.com/game/live/143168156390",
-      "eco": "C53",
-      "pontos": 0.0,
-      "end_time": 1757976792
-    },
-    {
-      "data": "2025-09-15T22:50:53+00:00",
-      "adversario": "doctormidnight_1",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 362,
-      "link": "https://www.chess.com/game/live/143168115880",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1757976653
-    },
-    {
-      "data": "2025-09-15T22:12:49+00:00",
-      "adversario": "WrathfulTrolley",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "60",
-      "rating": 371,
-      "link": "https://www.chess.com/game/live/143167265082",
-      "eco": "A05",
-      "pontos": 0.0,
-      "end_time": 1757974369
-    },
-    {
-      "data": "2025-09-15T14:53:27+00:00",
-      "adversario": "st3b1110",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1009,
-      "link": "https://www.chess.com/game/live/143152133764",
-      "eco": "C55",
-      "pontos": 1.0,
-      "end_time": 1757948007
-    },
-    {
-      "data": "2025-09-15T09:53:19+00:00",
-      "adversario": "minaasgar",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1001,
-      "link": "https://www.chess.com/game/live/143142256278",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1757929999
     }
   ]
 }
