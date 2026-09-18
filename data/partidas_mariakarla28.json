@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-18T22:30:01+00:00",
+      "adversario": "toniwin1",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1240,
+      "link": "https://www.chess.com/game/live/184034224776",
+      "eco": "B23",
+      "pontos": 1.0,
+      "end_time": 1789770601
+    },
+    {
       "data": "2026-09-17T14:58:41+00:00",
       "adversario": "jniegas21",
       "cor": "Pretas",
@@ -12401,71 +12414,6 @@
       "eco": "B34",
       "pontos": 0.0,
       "end_time": 1758154655
-    },
-    {
-      "data": "2025-09-17T23:31:15+00:00",
-      "adversario": "Odnowi",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1059,
-      "link": "https://www.chess.com/game/live/143248659894",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1758151875
-    },
-    {
-      "data": "2025-09-17T20:26:44+00:00",
-      "adversario": "d4rknss",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1051,
-      "link": "https://www.chess.com/game/live/143244150134",
-      "eco": "A45",
-      "pontos": 0.0,
-      "end_time": 1758140804
-    },
-    {
-      "data": "2025-09-17T19:19:17+00:00",
-      "adversario": "Rotoror",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 330,
-      "link": "https://www.chess.com/game/live/143242231360",
-      "eco": "B22",
-      "pontos": 0.0,
-      "end_time": 1758136757
-    },
-    {
-      "data": "2025-09-17T12:58:01+00:00",
-      "adversario": "Lebo4991",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180+2",
-      "rating": 364,
-      "link": "https://www.chess.com/game/live/143228263878",
-      "eco": "B01",
-      "pontos": 0.0,
-      "end_time": 1758113881
-    },
-    {
-      "data": "2025-09-17T10:23:45+00:00",
-      "adversario": "wilko-1010",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1058,
-      "link": "https://www.chess.com/game/live/143223137766",
-      "eco": "C55",
-      "pontos": 1.0,
-      "end_time": 1758104625
     }
   ]
 }
