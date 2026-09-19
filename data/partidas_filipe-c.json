@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-09-19T12:20:24+00:00",
+      "adversario": "Magnus_carsen104",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 672,
+      "link": "https://www.chess.com/game/daily/1025510308",
+      "eco": "E90",
+      "pontos": 0.0,
+      "end_time": 1789820424
+    },
+    {
+      "data": "2026-09-19T12:20:19+00:00",
+      "adversario": "Magnus_carsen104",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 674,
+      "link": "https://www.chess.com/game/daily/1025510166",
+      "eco": "B30",
+      "pontos": 0.0,
+      "end_time": 1789820419
+    },
+    {
       "data": "2026-09-19T01:47:16+00:00",
       "adversario": "viggomortensen",
       "cor": "Brancas",
