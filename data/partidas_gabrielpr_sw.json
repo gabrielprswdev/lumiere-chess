@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-09-19T16:19:41+00:00",
+      "adversario": "JDHR101211",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1702,
+      "link": "https://www.chess.com/game/live/184068161742",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1789834781
+    },
+    {
+      "data": "2026-09-19T16:17:29+00:00",
+      "adversario": "dtjv",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1694,
+      "link": "https://www.chess.com/game/live/184068056898",
+      "eco": "B95",
+      "pontos": 1.0,
+      "end_time": 1789834649
+    },
+    {
+      "data": "2026-09-19T16:15:12+00:00",
+      "adversario": "53yamir",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1686,
+      "link": "https://www.chess.com/game/live/184067954664",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1789834512
+    },
+    {
       "data": "2026-09-19T16:12:56+00:00",
       "adversario": "12random12",
       "cor": "Brancas",
