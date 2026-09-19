@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-19T16:04:16+00:00",
+      "adversario": "DezmereanPavel",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1248,
+      "link": "https://www.chess.com/game/live/184067035194",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1789833856
+    },
+    {
       "data": "2026-09-18T22:30:01+00:00",
       "adversario": "toniwin1",
       "cor": "Pretas",
@@ -12323,97 +12336,6 @@
       "eco": "D00",
       "pontos": 0.0,
       "end_time": 1758278485
-    },
-    {
-      "data": "2025-09-18T20:48:52+00:00",
-      "adversario": "antobenve",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "1800",
-      "rating": 1061,
-      "link": "https://www.chess.com/game/live/143283504676",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1758228532
-    },
-    {
-      "data": "2025-09-18T20:01:27+00:00",
-      "adversario": "fettispeck",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1053,
-      "link": "https://www.chess.com/game/live/143282965074",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1758225687
-    },
-    {
-      "data": "2025-09-18T19:32:28+00:00",
-      "adversario": "OleksiiVakal",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 321,
-      "link": "https://www.chess.com/game/live/143282305088",
-      "eco": "D00",
-      "pontos": 0.0,
-      "end_time": 1758223948
-    },
-    {
-      "data": "2025-09-18T18:56:28+00:00",
-      "adversario": "ayychuyy",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1044,
-      "link": "https://www.chess.com/game/live/143280698916",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1758221788
-    },
-    {
-      "data": "2025-09-18T11:47:47+00:00",
-      "adversario": "madhan91",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1036,
-      "link": "https://www.chess.com/game/live/143265339106",
-      "eco": "B21",
-      "pontos": 0.0,
-      "end_time": 1758196067
-    },
-    {
-      "data": "2025-09-18T11:14:19+00:00",
-      "adversario": "Senjachess",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1044,
-      "link": "https://www.chess.com/game/live/143264449740",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1758194059
-    },
-    {
-      "data": "2025-09-18T00:17:35+00:00",
-      "adversario": "Pico736",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1052,
-      "link": "https://www.chess.com/game/live/143249461148",
-      "eco": "B34",
-      "pontos": 0.0,
-      "end_time": 1758154655
     }
   ]
 }
