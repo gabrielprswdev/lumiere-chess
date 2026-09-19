@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-19T01:47:16+00:00",
+      "adversario": "viggomortensen",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 676,
+      "link": "https://www.chess.com/game/daily/1026424338",
+      "eco": "B02",
+      "pontos": 0.0,
+      "end_time": 1789782436
+    },
+    {
       "data": "2026-09-15T23:59:19+00:00",
       "adversario": "bsk427",
       "cor": "Brancas",
