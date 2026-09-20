@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-20T20:34:11+00:00",
+      "adversario": "kasinoiv",
+      "cor": "Brancas",
+      "resultado": "agreed",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1241,
+      "link": "https://www.chess.com/game/live/184126017852",
+      "eco": "C45",
+      "pontos": 0.5,
+      "end_time": 1789936451
+    },
+    {
       "data": "2026-09-20T17:57:26+00:00",
       "adversario": "ergun33",
       "cor": "Pretas",
