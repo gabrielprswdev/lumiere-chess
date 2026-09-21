@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-21T12:21:59+00:00",
+      "adversario": "Karl_OVitch",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1233,
+      "link": "https://www.chess.com/game/live/184153069674",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1789993319
+    },
+    {
       "data": "2026-09-20T20:34:11+00:00",
       "adversario": "kasinoiv",
       "cor": "Brancas",
@@ -12284,19 +12297,6 @@
       "eco": "C50",
       "pontos": 1.0,
       "end_time": 1758467429
-    },
-    {
-      "data": "2025-09-20T23:33:57+00:00",
-      "adversario": "MagnusKarltzyyy",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1045,
-      "link": "https://www.chess.com/game/live/143366297906",
-      "eco": "C55",
-      "pontos": 0.0,
-      "end_time": 1758411237
     }
   ]
 }
