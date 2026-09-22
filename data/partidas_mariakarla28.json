@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-22T10:25:30+00:00",
+      "adversario": "123456789crl",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1225,
+      "link": "https://www.chess.com/game/live/184198122308",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1790072730
+    },
+    {
       "data": "2026-09-21T12:21:59+00:00",
       "adversario": "Karl_OVitch",
       "cor": "Pretas",
@@ -12245,58 +12258,6 @@
       "eco": "C55",
       "pontos": 0.0,
       "end_time": 1758543990
-    },
-    {
-      "data": "2025-09-21T22:19:15+00:00",
-      "adversario": "manny2k19",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1045,
-      "link": "https://www.chess.com/game/live/143403242824",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1758493155
-    },
-    {
-      "data": "2025-09-21T19:53:16+00:00",
-      "adversario": "shadyyy007",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1053,
-      "link": "https://www.chess.com/game/live/143399527044",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1758484396
-    },
-    {
-      "data": "2025-09-21T19:30:19+00:00",
-      "adversario": "jbenitez75",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "1800",
-      "rating": 1045,
-      "link": "https://www.chess.com/game/live/143398585930",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1758483019
-    },
-    {
-      "data": "2025-09-21T15:10:29+00:00",
-      "adversario": "granirise",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "1800",
-      "rating": 1053,
-      "link": "https://www.chess.com/game/live/143389723554",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1758467429
     }
   ]
 }
