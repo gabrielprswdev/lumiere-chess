@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-22T22:27:31+00:00",
+      "adversario": "Janero74",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1232,
+      "link": "https://www.chess.com/game/live/184228803332",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1790116051
+    },
+    {
       "data": "2026-09-22T10:25:30+00:00",
       "adversario": "123456789crl",
       "cor": "Brancas",
