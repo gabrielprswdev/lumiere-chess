@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-23T02:09:37+00:00",
+      "adversario": "josh2679",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180+2",
+      "rating": 692,
+      "link": "https://www.chess.com/game/live/184234302008",
+      "eco": "A41",
+      "pontos": 1.0,
+      "end_time": 1790129377
+    },
+    {
       "data": "2026-09-22T22:27:31+00:00",
       "adversario": "Janero74",
       "cor": "Pretas",
@@ -12193,84 +12206,6 @@
       "eco": "B40",
       "pontos": 0.0,
       "end_time": 1758622157
-    },
-    {
-      "data": "2025-09-22T21:35:07+00:00",
-      "adversario": "Sean315280",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1045,
-      "link": "https://www.chess.com/game/live/143441421710",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1758576907
-    },
-    {
-      "data": "2025-09-22T21:17:32+00:00",
-      "adversario": "noelgarcia777",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1053,
-      "link": "https://www.chess.com/game/live/143441153502",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1758575852
-    },
-    {
-      "data": "2025-09-22T20:53:58+00:00",
-      "adversario": "deetee9591",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1045,
-      "link": "https://www.chess.com/game/live/143440471644",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1758574438
-    },
-    {
-      "data": "2025-09-22T20:44:13+00:00",
-      "adversario": "Khazuma22",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1037,
-      "link": "https://www.chess.com/game/live/143440138864",
-      "eco": "B40",
-      "pontos": 1.0,
-      "end_time": 1758573853
-    },
-    {
-      "data": "2025-09-22T14:27:58+00:00",
-      "adversario": "Bogdan5404",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "1800",
-      "rating": 1029,
-      "link": "https://www.chess.com/game/live/143426133418",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1758551278
-    },
-    {
-      "data": "2025-09-22T12:26:30+00:00",
-      "adversario": "pioslo",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "1800",
-      "rating": 1037,
-      "link": "https://www.chess.com/game/live/143422154616",
-      "eco": "C55",
-      "pontos": 0.0,
-      "end_time": 1758543990
     }
   ]
 }

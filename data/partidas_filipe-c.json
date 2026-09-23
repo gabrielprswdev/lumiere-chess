@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-09-22T23:44:17+00:00",
+      "adversario": "bellison890",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1044,
+      "link": "https://www.chess.com/game/live/184230787118",
+      "eco": "C46",
+      "pontos": 1.0,
+      "end_time": 1790120657
+    },
+    {
+      "data": "2026-09-22T23:34:52+00:00",
+      "adversario": "Deidoucarry",
+      "cor": "Brancas",
+      "resultado": "stalemate",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 635,
+      "link": "https://www.chess.com/game/live/184230544502",
+      "eco": "B06",
+      "pontos": 0.5,
+      "end_time": 1790120092
+    },
+    {
       "data": "2026-09-22T23:23:59+00:00",
       "adversario": "xandy4172",
       "cor": "Brancas",
@@ -42912,32 +42938,6 @@
       "eco": "B00",
       "pontos": 1.0,
       "end_time": 1758594307
-    },
-    {
-      "data": "2025-09-22T02:34:28+00:00",
-      "adversario": "Latorreceleste",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 443,
-      "link": "https://www.chess.com/game/live/143408140106",
-      "eco": "A50",
-      "pontos": 1.0,
-      "end_time": 1758508468
-    },
-    {
-      "data": "2025-09-22T02:22:29+00:00",
-      "adversario": "Latorreceleste",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 436,
-      "link": "https://www.chess.com/game/live/143407935138",
-      "eco": "A02",
-      "pontos": 1.0,
-      "end_time": 1758507749
     }
   ]
 }
