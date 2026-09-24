@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-24T12:58:28+00:00",
+      "adversario": "Titoran06",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1232,
+      "link": "https://www.chess.com/game/live/184304408338",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1790254708
+    },
+    {
       "data": "2026-09-23T14:29:42+00:00",
       "adversario": "Murtazo05",
       "cor": "Brancas",
@@ -12128,97 +12141,6 @@
       "eco": "B20",
       "pontos": 0.0,
       "end_time": 1758715671
-    },
-    {
-      "data": "2025-09-23T19:06:50+00:00",
-      "adversario": "Gtgtkh",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1021,
-      "link": "https://www.chess.com/game/live/143476940322",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1758654410
-    },
-    {
-      "data": "2025-09-23T17:15:00+00:00",
-      "adversario": "MICHAELlindo25",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1029,
-      "link": "https://www.chess.com/game/live/143472819046",
-      "eco": "B10",
-      "pontos": 0.0,
-      "end_time": 1758647700
-    },
-    {
-      "data": "2025-09-23T16:52:53+00:00",
-      "adversario": "cbrt_i",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1037,
-      "link": "https://www.chess.com/game/live/143472153396",
-      "eco": "B21",
-      "pontos": 1.0,
-      "end_time": 1758646373
-    },
-    {
-      "data": "2025-09-23T16:28:49+00:00",
-      "adversario": "Im_playmaker",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1029,
-      "link": "https://www.chess.com/game/live/143471100064",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1758644929
-    },
-    {
-      "data": "2025-09-23T12:05:17+00:00",
-      "adversario": "MaxlChess12",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1021,
-      "link": "https://www.chess.com/game/live/143461397646",
-      "eco": "B12",
-      "pontos": 0.0,
-      "end_time": 1758629117
-    },
-    {
-      "data": "2025-09-23T11:50:45+00:00",
-      "adversario": "munesh72",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1029,
-      "link": "https://www.chess.com/game/live/143461117692",
-      "eco": "C00",
-      "pontos": 0.0,
-      "end_time": 1758628245
-    },
-    {
-      "data": "2025-09-23T10:09:17+00:00",
-      "adversario": "tugral1t",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1037,
-      "link": "https://www.chess.com/game/live/143457943886",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1758622157
     }
   ]
 }
