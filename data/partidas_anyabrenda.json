@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-09-25T20:41:32+00:00",
+      "adversario": "Sean_Benot",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1247,
+      "link": "https://www.chess.com/game/live/184375415642",
+      "eco": "A48",
+      "pontos": 1.0,
+      "end_time": 1790368892
+    },
+    {
+      "data": "2026-09-25T20:32:53+00:00",
+      "adversario": "JJVTR",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1497,
+      "link": "https://www.chess.com/game/live/184374789024",
+      "eco": "A07",
+      "pontos": 1.0,
+      "end_time": 1790368373
+    },
+    {
+      "data": "2026-09-25T20:20:55+00:00",
+      "adversario": "JJVTR",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1497,
+      "link": "https://www.chess.com/game/live/184374636132",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1790367655
+    },
+    {
+      "data": "2026-09-25T20:15:48+00:00",
+      "adversario": "HikaruZionis",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1240,
+      "link": "https://www.chess.com/game/live/184374506172",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1790367348
+    },
+    {
       "data": "2026-09-25T20:13:43+00:00",
       "adversario": "SmallNla",
       "cor": "Brancas",
