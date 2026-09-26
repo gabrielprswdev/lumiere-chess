@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-26T12:29:22+00:00",
+      "adversario": "saifelmehy55",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1230,
+      "link": "https://www.chess.com/game/live/184402331290",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1790425762
+    },
+    {
       "data": "2026-09-25T23:58:03+00:00",
       "adversario": "julie_exe7",
       "cor": "Pretas",
