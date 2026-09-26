@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-25T23:58:03+00:00",
+      "adversario": "julie_exe7",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1239,
+      "link": "https://www.chess.com/game/live/184380984020",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1790380683
+    },
+    {
       "data": "2026-09-24T12:58:28+00:00",
       "adversario": "Titoran06",
       "cor": "Pretas",
@@ -12063,84 +12076,6 @@
       "eco": "B20",
       "pontos": 0.0,
       "end_time": 1758846959
-    },
-    {
-      "data": "2025-09-25T22:49:52+00:00",
-      "adversario": "TheJackRabb1t",
-      "cor": "Pretas",
-      "resultado": "abandoned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1020,
-      "link": "https://www.chess.com/game/live/143562265604",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1758840592
-    },
-    {
-      "data": "2025-09-25T04:33:22+00:00",
-      "adversario": "suryan123oke",
-      "cor": "Pretas",
-      "resultado": "abandoned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1029,
-      "link": "https://www.chess.com/game/live/143529458162",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1758774802
-    },
-    {
-      "data": "2025-09-25T01:29:19+00:00",
-      "adversario": "newzorker",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1037,
-      "link": "https://www.chess.com/game/live/143525700886",
-      "eco": "C53",
-      "pontos": 1.0,
-      "end_time": 1758763759
-    },
-    {
-      "data": "2025-09-25T00:44:57+00:00",
-      "adversario": "mostroargento",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1029,
-      "link": "https://www.chess.com/game/live/143524819896",
-      "eco": "B21",
-      "pontos": 1.0,
-      "end_time": 1758761097
-    },
-    {
-      "data": "2025-09-24T20:18:06+00:00",
-      "adversario": "RedEdward24",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1021,
-      "link": "https://www.chess.com/game/live/143518754724",
-      "eco": "C24",
-      "pontos": 1.0,
-      "end_time": 1758745086
-    },
-    {
-      "data": "2025-09-24T12:07:51+00:00",
-      "adversario": "ElMarchand",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1013,
-      "link": "https://www.chess.com/game/live/143501312720",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1758715671
     }
   ]
 }
