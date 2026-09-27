@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-26T23:49:49+00:00",
+      "adversario": "Eagle51834",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1222,
+      "link": "https://www.chess.com/game/live/184428765932",
+      "eco": "B13",
+      "pontos": 0.0,
+      "end_time": 1790466589
+    },
+    {
       "data": "2026-09-26T12:29:22+00:00",
       "adversario": "saifelmehy55",
       "cor": "Brancas",
@@ -12037,58 +12050,6 @@
       "eco": "D00",
       "pontos": 0.0,
       "end_time": 1758975600
-    },
-    {
-      "data": "2025-09-26T14:36:54+00:00",
-      "adversario": "andyraharja",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 988,
-      "link": "https://www.chess.com/game/live/143585571486",
-      "eco": "B23",
-      "pontos": 0.0,
-      "end_time": 1758897414
-    },
-    {
-      "data": "2025-09-26T10:36:27+00:00",
-      "adversario": "Janardhan369i",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 996,
-      "link": "https://www.chess.com/game/live/143577572090",
-      "eco": "C55",
-      "pontos": 0.0,
-      "end_time": 1758882987
-    },
-    {
-      "data": "2025-09-26T01:39:57+00:00",
-      "adversario": "kifirion",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1004,
-      "link": "https://www.chess.com/game/live/143565423694",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1758850797
-    },
-    {
-      "data": "2025-09-26T00:35:59+00:00",
-      "adversario": "mas-yono",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1012,
-      "link": "https://www.chess.com/game/live/143564370554",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1758846959
     }
   ]
 }
