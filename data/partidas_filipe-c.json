@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-09-27T20:19:41+00:00",
+      "adversario": "Sigma-Chess64",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 672,
+      "link": "https://www.chess.com/game/daily/1033284790",
+      "eco": "C40",
+      "pontos": 0.0,
+      "end_time": 1790540381
+    },
+    {
+      "data": "2026-09-27T19:56:29+00:00",
+      "adversario": "GM_santiago_silva",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 672,
+      "link": "https://www.chess.com/game/daily/1033743834",
+      "eco": "C40",
+      "pontos": 0.0,
+      "end_time": 1790538989
+    },
+    {
       "data": "2026-09-24T23:30:41+00:00",
       "adversario": "Bassman41275",
       "cor": "Brancas",
