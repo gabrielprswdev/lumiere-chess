@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-28T10:39:12+00:00",
+      "adversario": "BuffetDesert",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1238,
+      "link": "https://www.chess.com/game/live/184495329772",
+      "eco": "D40",
+      "pontos": 1.0,
+      "end_time": 1790591952
+    },
+    {
       "data": "2026-09-27T13:52:34+00:00",
       "adversario": "Rus2306",
       "cor": "Brancas",
@@ -12024,45 +12037,6 @@
       "eco": "B20",
       "pontos": 1.0,
       "end_time": 1759020861
-    },
-    {
-      "data": "2025-09-27T18:37:59+00:00",
-      "adversario": "khsntalks",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 964,
-      "link": "https://www.chess.com/game/live/143632861486",
-      "eco": "B40",
-      "pontos": 0.0,
-      "end_time": 1758998279
-    },
-    {
-      "data": "2025-09-27T18:30:23+00:00",
-      "adversario": "AndresNetworks",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 972,
-      "link": "https://www.chess.com/game/live/143632699564",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1758997823
-    },
-    {
-      "data": "2025-09-27T12:20:00+00:00",
-      "adversario": "MMMAAAQQQ",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 980,
-      "link": "https://www.chess.com/game/live/143619742790",
-      "eco": "D00",
-      "pontos": 0.0,
-      "end_time": 1758975600
     }
   ]
 }
