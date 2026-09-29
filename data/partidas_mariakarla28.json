@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-29T18:41:58+00:00",
+      "adversario": "Julek187",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1254,
+      "link": "https://www.chess.com/game/live/184567840040",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1790707318
+    },
+    {
       "data": "2026-09-29T11:16:54+00:00",
       "adversario": "mort_ibus",
       "cor": "Brancas",
