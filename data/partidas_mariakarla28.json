@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-09-30T13:47:08+00:00",
+      "adversario": "mynameistrinity",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1262,
+      "link": "https://www.chess.com/game/live/184604900682",
+      "eco": "D30",
+      "pontos": 1.0,
+      "end_time": 1790776028
+    },
+    {
       "data": "2026-09-29T18:41:58+00:00",
       "adversario": "Julek187",
       "cor": "Brancas",
@@ -11881,97 +11894,6 @@
       "eco": "B08",
       "pontos": 0.0,
       "end_time": 1759190500
-    },
-    {
-      "data": "2025-09-29T23:44:29+00:00",
-      "adversario": "your_boy_lawrence",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 971,
-      "link": "https://www.chess.com/game/live/143717571192",
-      "eco": "A13",
-      "pontos": 0.0,
-      "end_time": 1759189469
-    },
-    {
-      "data": "2025-09-29T23:28:47+00:00",
-      "adversario": "Kloc126",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 980,
-      "link": "https://www.chess.com/game/live/143717275310",
-      "eco": "D00",
-      "pontos": 1.0,
-      "end_time": 1759188527
-    },
-    {
-      "data": "2025-09-29T18:37:10+00:00",
-      "adversario": "adhjogando",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 972,
-      "link": "https://www.chess.com/game/live/143709241010",
-      "eco": "B34",
-      "pontos": 1.0,
-      "end_time": 1759171030
-    },
-    {
-      "data": "2025-09-29T18:31:50+00:00",
-      "adversario": "adhjogando",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 972,
-      "link": "https://www.chess.com/game/live/143708931552",
-      "eco": "D00",
-      "pontos": 1.0,
-      "end_time": 1759170710
-    },
-    {
-      "data": "2025-09-29T18:23:05+00:00",
-      "adversario": "adhjogando",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 972,
-      "link": "https://www.chess.com/game/live/143708322368",
-      "eco": "B33",
-      "pontos": 0.0,
-      "end_time": 1759170185
-    },
-    {
-      "data": "2025-09-29T18:05:21+00:00",
-      "adversario": "adhjogando",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 972,
-      "link": "https://www.chess.com/game/live/143707583606",
-      "eco": "D00",
-      "pontos": 0.0,
-      "end_time": 1759169121
-    },
-    {
-      "data": "2025-09-29T10:56:49+00:00",
-      "adversario": "Teag42",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 972,
-      "link": "https://www.chess.com/game/live/143692925774",
-      "eco": "B02",
-      "pontos": 0.0,
-      "end_time": 1759143409
     }
   ]
 }
