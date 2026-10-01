@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-01T11:25:16+00:00",
+      "adversario": "SYQEIRA",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 672,
+      "link": "https://www.chess.com/game/daily/1036183524",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1790853916
+    },
+    {
       "data": "2026-10-01T00:23:42+00:00",
       "adversario": "erikpparraga",
       "cor": "Pretas",

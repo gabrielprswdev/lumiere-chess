@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-01T14:09:52+00:00",
+      "adversario": "Adonis848",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1253,
+      "link": "https://www.chess.com/game/live/184655924100",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1790863792
+    },
+    {
       "data": "2026-09-30T17:26:31+00:00",
       "adversario": "YobaFromStar_War",
       "cor": "Pretas",
@@ -11790,136 +11803,6 @@
       "eco": "C47",
       "pontos": 0.0,
       "end_time": 1759334408
-    },
-    {
-      "data": "2025-09-30T23:58:26+00:00",
-      "adversario": "pedronunes98",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 988,
-      "link": "https://www.chess.com/game/live/143757249252",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1759276706
-    },
-    {
-      "data": "2025-09-30T23:44:05+00:00",
-      "adversario": "Kingslande",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 996,
-      "link": "https://www.chess.com/game/live/143757210988",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1759275845
-    },
-    {
-      "data": "2025-09-30T23:34:21+00:00",
-      "adversario": "naufal2104",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1004,
-      "link": "https://www.chess.com/game/live/143756804128",
-      "eco": "D02",
-      "pontos": 1.0,
-      "end_time": 1759275261
-    },
-    {
-      "data": "2025-09-30T23:20:28+00:00",
-      "adversario": "redandwhite11",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 996,
-      "link": "https://www.chess.com/game/live/143756752690",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1759274428
-    },
-    {
-      "data": "2025-09-30T17:30:01+00:00",
-      "adversario": "watucan",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 988,
-      "link": "https://www.chess.com/game/live/143746236738",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1759253401
-    },
-    {
-      "data": "2025-09-30T17:15:21+00:00",
-      "adversario": "wernerlobos",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 980,
-      "link": "https://www.chess.com/game/live/143745838550",
-      "eco": "D30",
-      "pontos": 1.0,
-      "end_time": 1759252521
-    },
-    {
-      "data": "2025-09-30T16:29:56+00:00",
-      "adversario": "JSM1662",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 972,
-      "link": "https://www.chess.com/game/live/143744005812",
-      "eco": "D40",
-      "pontos": 0.0,
-      "end_time": 1759249796
-    },
-    {
-      "data": "2025-09-30T13:13:20+00:00",
-      "adversario": "XB3HNAMx",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 980,
-      "link": "https://www.chess.com/game/live/143736835456",
-      "eco": "B86",
-      "pontos": 1.0,
-      "end_time": 1759238000
-    },
-    {
-      "data": "2025-09-30T12:37:01+00:00",
-      "adversario": "lobobarros",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 972,
-      "link": "https://www.chess.com/game/live/143735848700",
-      "eco": "B21",
-      "pontos": 1.0,
-      "end_time": 1759235821
-    },
-    {
-      "data": "2025-09-30T00:01:40+00:00",
-      "adversario": "hikkyou",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 963,
-      "link": "https://www.chess.com/game/live/143717902494",
-      "eco": "B08",
-      "pontos": 0.0,
-      "end_time": 1759190500
     }
   ]
 }
