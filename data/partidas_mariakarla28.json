@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-02T12:39:06+00:00",
+      "adversario": "Bosswily",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1261,
+      "link": "https://www.chess.com/game/live/184701650416",
+      "eco": "D05",
+      "pontos": 1.0,
+      "end_time": 1790944746
+    },
+    {
       "data": "2026-10-01T14:09:52+00:00",
       "adversario": "Adonis848",
       "cor": "Brancas",
@@ -11738,71 +11751,6 @@
       "eco": "A00",
       "pontos": 1.0,
       "end_time": 1759365171
-    },
-    {
-      "data": "2025-10-01T23:15:15+00:00",
-      "adversario": "Noplanman",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 964,
-      "link": "https://www.chess.com/game/live/143794959922",
-      "eco": "B50",
-      "pontos": 0.0,
-      "end_time": 1759360515
-    },
-    {
-      "data": "2025-10-01T22:56:22+00:00",
-      "adversario": "pedramvtd",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 972,
-      "link": "https://www.chess.com/game/live/143794654928",
-      "eco": "B18",
-      "pontos": 0.0,
-      "end_time": 1759359382
-    },
-    {
-      "data": "2025-10-01T16:29:04+00:00",
-      "adversario": "chesswithjazz",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 980,
-      "link": "https://www.chess.com/game/live/143782628494",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1759336144
-    },
-    {
-      "data": "2025-10-01T16:14:15+00:00",
-      "adversario": "Liverpool_77",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 988,
-      "link": "https://www.chess.com/game/live/143782213664",
-      "eco": "B20",
-      "pontos": 1.0,
-      "end_time": 1759335255
-    },
-    {
-      "data": "2025-10-01T16:00:08+00:00",
-      "adversario": "superroyete",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 980,
-      "link": "https://www.chess.com/game/live/143781995700",
-      "eco": "C47",
-      "pontos": 0.0,
-      "end_time": 1759334408
     }
   ]
 }
