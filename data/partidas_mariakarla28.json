@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-03T18:22:55+00:00",
+      "adversario": "AnasAli91",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1253,
+      "link": "https://www.chess.com/game/live/184767515472",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1791051775
+    },
+    {
       "data": "2026-10-02T12:39:06+00:00",
       "adversario": "Bosswily",
       "cor": "Pretas",
@@ -11647,110 +11660,6 @@
       "eco": "B40",
       "pontos": 1.0,
       "end_time": 1759453434
-    },
-    {
-      "data": "2025-10-02T22:39:35+00:00",
-      "adversario": "3MN95RESP",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 988,
-      "link": "https://www.chess.com/game/live/143833142370",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1759444775
-    },
-    {
-      "data": "2025-10-02T20:14:58+00:00",
-      "adversario": "zQuickyyx",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 980,
-      "link": "https://www.chess.com/game/live/143829281566",
-      "eco": "B21",
-      "pontos": 1.0,
-      "end_time": 1759436098
-    },
-    {
-      "data": "2025-10-02T20:05:32+00:00",
-      "adversario": "rapapobi",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 972,
-      "link": "https://www.chess.com/game/live/143829104772",
-      "eco": "B50",
-      "pontos": 1.0,
-      "end_time": 1759435532
-    },
-    {
-      "data": "2025-10-02T20:00:07+00:00",
-      "adversario": "Norviema-1",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 964,
-      "link": "https://www.chess.com/game/live/143828657252",
-      "eco": "B01",
-      "pontos": 1.0,
-      "end_time": 1759435207
-    },
-    {
-      "data": "2025-10-02T19:46:07+00:00",
-      "adversario": "Tarek11233",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 956,
-      "link": "https://www.chess.com/game/live/143828594144",
-      "eco": "B20",
-      "pontos": 0.0,
-      "end_time": 1759434367
-    },
-    {
-      "data": "2025-10-02T12:19:31+00:00",
-      "adversario": "zz8m8zz",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 964,
-      "link": "https://www.chess.com/game/live/143812601514",
-      "eco": "D32",
-      "pontos": 0.0,
-      "end_time": 1759407571
-    },
-    {
-      "data": "2025-10-02T11:00:05+00:00",
-      "adversario": "adhjogando",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 964,
-      "link": "https://www.chess.com/game/live/143810197934",
-      "eco": "D00",
-      "pontos": 1.0,
-      "end_time": 1759402805
-    },
-    {
-      "data": "2025-10-02T00:32:51+00:00",
-      "adversario": "modalnouns",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 329,
-      "link": "https://www.chess.com/game/live/143796455788",
-      "eco": "A00",
-      "pontos": 1.0,
-      "end_time": 1759365171
     }
   ]
 }
