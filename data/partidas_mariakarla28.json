@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-03T21:24:15+00:00",
+      "adversario": "Jarral-alking",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1245,
+      "link": "https://www.chess.com/game/live/184774612342",
+      "eco": "C42",
+      "pontos": 0.0,
+      "end_time": 1791062655
+    },
+    {
       "data": "2026-10-03T18:22:55+00:00",
       "adversario": "AnasAli91",
       "cor": "Pretas",
