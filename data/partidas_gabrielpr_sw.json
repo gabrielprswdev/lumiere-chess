@@ -1,6 +1,97 @@
 {
   "partidas": [
     {
+      "data": "2026-10-03T00:06:51+00:00",
+      "adversario": "you_are_scared_to_rematch",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1671,
+      "link": "https://www.chess.com/game/live/184730426702",
+      "eco": "B22",
+      "pontos": 1.0,
+      "end_time": 1790986011
+    },
+    {
+      "data": "2026-10-03T00:06:35+00:00",
+      "adversario": "CameronIsTheBestAtChess",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1663,
+      "link": "https://www.chess.com/game/live/184730373914",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1790985995
+    },
+    {
+      "data": "2026-10-03T00:04:21+00:00",
+      "adversario": "beerandnachos",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1655,
+      "link": "https://www.chess.com/game/live/184730325036",
+      "eco": "D40",
+      "pontos": 1.0,
+      "end_time": 1790985861
+    },
+    {
+      "data": "2026-10-03T00:02:19+00:00",
+      "adversario": "jul071986",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1647,
+      "link": "https://www.chess.com/game/live/184730307684",
+      "eco": "C01",
+      "pontos": 1.0,
+      "end_time": 1790985739
+    },
+    {
+      "data": "2026-10-03T00:01:35+00:00",
+      "adversario": "sidicley-estrela",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1639,
+      "link": "https://www.chess.com/game/live/184730254600",
+      "eco": "C53",
+      "pontos": 0.0,
+      "end_time": 1790985695
+    },
+    {
+      "data": "2026-10-02T23:59:21+00:00",
+      "adversario": "MohammadAli628",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1647,
+      "link": "https://www.chess.com/game/live/184730206386",
+      "eco": "D40",
+      "pontos": 0.0,
+      "end_time": 1790985561
+    },
+    {
+      "data": "2026-10-02T23:57:21+00:00",
+      "adversario": "JavIORZ",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1655,
+      "link": "https://www.chess.com/game/live/184730162086",
+      "eco": "C42",
+      "pontos": 0.0,
+      "end_time": 1790985441
+    },
+    {
       "data": "2026-10-02T13:01:44+00:00",
       "adversario": "davilov53",
       "cor": "Brancas",
@@ -110252,19 +110343,6 @@
       "eco": "C50",
       "pontos": 1.0,
       "end_time": 1759585336
-    },
-    {
-      "data": "2025-10-02T20:38:48+00:00",
-      "adversario": "Casper3313",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 1829,
-      "link": "https://www.chess.com/game/live/143829766298",
-      "eco": "D32",
-      "pontos": 1.0,
-      "end_time": 1759437528
     }
   ]
 }
