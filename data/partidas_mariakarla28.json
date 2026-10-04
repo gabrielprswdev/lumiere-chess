@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-04T16:52:14+00:00",
+      "adversario": "alice-strasbourg",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1245,
+      "link": "https://www.chess.com/game/live/184812998486",
+      "eco": "C50",
+      "pontos": 0.5,
+      "end_time": 1791132734
+    },
+    {
       "data": "2026-10-03T21:24:15+00:00",
       "adversario": "Jarral-alking",
       "cor": "Brancas",
@@ -11660,19 +11673,6 @@
       "eco": "C41",
       "pontos": 1.0,
       "end_time": 1759570096
-    },
-    {
-      "data": "2025-10-03T01:03:54+00:00",
-      "adversario": "DOODMarlo",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 996,
-      "link": "https://www.chess.com/game/live/143835900686",
-      "eco": "B40",
-      "pontos": 1.0,
-      "end_time": 1759453434
     }
   ]
 }
