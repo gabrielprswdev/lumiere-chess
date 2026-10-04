@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-10-04T19:17:07+00:00",
+      "adversario": "donnyash01",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1800,
+      "link": "https://www.chess.com/game/live/184820045376",
+      "eco": "C44",
+      "pontos": 1.0,
+      "end_time": 1791141427
+    },
+    {
+      "data": "2026-10-04T19:15:30+00:00",
+      "adversario": "smart_12",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1792,
+      "link": "https://www.chess.com/game/live/184819989426",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1791141330
+    },
+    {
+      "data": "2026-10-04T19:14:11+00:00",
+      "adversario": "andrewuxonmontesinos",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1784,
+      "link": "https://www.chess.com/game/live/184819896906",
+      "eco": "B01",
+      "pontos": 0.0,
+      "end_time": 1791141251
+    },
+    {
+      "data": "2026-10-04T19:11:56+00:00",
+      "adversario": "Nek1977",
+      "cor": "Brancas",
+      "resultado": "stalemate",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1790,
+      "link": "https://www.chess.com/game/live/184819826830",
+      "eco": "C41",
+      "pontos": 0.5,
+      "end_time": 1791141116
+    },
+    {
+      "data": "2026-10-04T19:10:15+00:00",
+      "adversario": "dunerzdad",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1789,
+      "link": "https://www.chess.com/game/live/184819733548",
+      "eco": "A54",
+      "pontos": 1.0,
+      "end_time": 1791141015
+    },
+    {
       "data": "2026-10-04T19:08:02+00:00",
       "adversario": "bbnorth",
       "cor": "Brancas",
