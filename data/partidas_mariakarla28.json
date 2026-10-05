@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-05T11:50:06+00:00",
+      "adversario": "jotarokujop",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1237,
+      "link": "https://www.chess.com/game/live/184848716806",
+      "eco": "B20",
+      "pontos": 0.0,
+      "end_time": 1791201006
+    },
+    {
       "data": "2026-10-04T16:52:14+00:00",
       "adversario": "alice-strasbourg",
       "cor": "Brancas",
@@ -11608,71 +11621,6 @@
       "eco": "C45",
       "pontos": 1.0,
       "end_time": 1759657582
-    },
-    {
-      "data": "2025-10-04T21:09:54+00:00",
-      "adversario": "diegoevans",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1004,
-      "link": "https://www.chess.com/game/live/143908019186",
-      "eco": "B40",
-      "pontos": 1.0,
-      "end_time": 1759612194
-    },
-    {
-      "data": "2025-10-04T15:43:21+00:00",
-      "adversario": "drieM123",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 996,
-      "link": "https://www.chess.com/game/live/143897829292",
-      "eco": "D00",
-      "pontos": 0.0,
-      "end_time": 1759592601
-    },
-    {
-      "data": "2025-10-04T15:21:16+00:00",
-      "adversario": "KosaGeneral",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1004,
-      "link": "https://www.chess.com/game/live/143896812488",
-      "eco": "B00",
-      "pontos": 0.0,
-      "end_time": 1759591276
-    },
-    {
-      "data": "2025-10-04T09:49:10+00:00",
-      "adversario": "Kitex60",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1012,
-      "link": "https://www.chess.com/game/live/143886152326",
-      "eco": "A00",
-      "pontos": 1.0,
-      "end_time": 1759571350
-    },
-    {
-      "data": "2025-10-04T09:28:16+00:00",
-      "adversario": "karansidhu03",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1004,
-      "link": "https://www.chess.com/game/live/143885567750",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1759570096
     }
   ]
 }
