@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-10-05T23:49:25+00:00",
+      "adversario": "thiagodfsouza",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "180+2",
+      "rating": 635,
+      "link": "https://www.chess.com/game/live/184878987034",
+      "eco": "C41",
+      "pontos": 0.0,
+      "end_time": 1791244165
+    },
+    {
+      "data": "2026-10-05T23:45:18+00:00",
+      "adversario": "opatrickbarbosa",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180+2",
+      "rating": 635,
+      "link": "https://www.chess.com/game/live/184878804592",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1791243918
+    },
+    {
       "data": "2026-10-05T23:38:39+00:00",
       "adversario": "Joao-Miguel-2017",
       "cor": "Brancas",
