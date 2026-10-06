@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-06T12:21:39+00:00",
+      "adversario": "ahlat69",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1245,
+      "link": "https://www.chess.com/game/live/184901116042",
+      "eco": "A01",
+      "pontos": 1.0,
+      "end_time": 1791289299
+    },
+    {
       "data": "2026-10-05T11:50:06+00:00",
       "adversario": "jotarokujop",
       "cor": "Pretas",
@@ -11543,84 +11556,6 @@
       "eco": "C41",
       "pontos": 1.0,
       "end_time": 1759751119
-    },
-    {
-      "data": "2025-10-05T14:01:10+00:00",
-      "adversario": "Peki83",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1012,
-      "link": "https://www.chess.com/game/live/143932212968",
-      "eco": "D05",
-      "pontos": 0.0,
-      "end_time": 1759672870
-    },
-    {
-      "data": "2025-10-05T13:30:43+00:00",
-      "adversario": "ohmona220219",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1020,
-      "link": "https://www.chess.com/game/live/143930750682",
-      "eco": "C43",
-      "pontos": 0.0,
-      "end_time": 1759671043
-    },
-    {
-      "data": "2025-10-05T12:11:06+00:00",
-      "adversario": "el_idot",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "300",
-      "rating": 378,
-      "link": "https://www.chess.com/game/live/143928545822",
-      "eco": "B45",
-      "pontos": 1.0,
-      "end_time": 1759666266
-    },
-    {
-      "data": "2025-10-05T10:13:17+00:00",
-      "adversario": "AndreasT1970",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1028,
-      "link": "https://www.chess.com/game/live/143924982300",
-      "eco": "B50",
-      "pontos": 1.0,
-      "end_time": 1759659197
-    },
-    {
-      "data": "2025-10-05T09:53:19+00:00",
-      "adversario": "Bahy_Said",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1020,
-      "link": "https://www.chess.com/game/live/143924574920",
-      "eco": "C47",
-      "pontos": 1.0,
-      "end_time": 1759657999
-    },
-    {
-      "data": "2025-10-05T09:46:22+00:00",
-      "adversario": "mozi_7",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1012,
-      "link": "https://www.chess.com/game/live/143924237602",
-      "eco": "C45",
-      "pontos": 1.0,
-      "end_time": 1759657582
     }
   ]
 }
