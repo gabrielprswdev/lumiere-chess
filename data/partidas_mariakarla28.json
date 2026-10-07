@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-07T11:47:02+00:00",
+      "adversario": "Levy_Sac",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1253,
+      "link": "https://www.chess.com/game/live/184950553354",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1791373622
+    },
+    {
       "data": "2026-10-06T12:21:39+00:00",
       "adversario": "ahlat69",
       "cor": "Pretas",
@@ -11543,19 +11556,6 @@
       "eco": "C26",
       "pontos": 0.0,
       "end_time": 1759837060
-    },
-    {
-      "data": "2025-10-06T11:45:19+00:00",
-      "adversario": "Romu44",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1020,
-      "link": "https://www.chess.com/game/live/143965228342",
-      "eco": "C41",
-      "pontos": 1.0,
-      "end_time": 1759751119
     }
   ]
 }
