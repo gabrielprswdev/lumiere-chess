@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-07T21:07:55+00:00",
+      "adversario": "VetTetra",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1261,
+      "link": "https://www.chess.com/game/live/184976107254",
+      "eco": "B22",
+      "pontos": 1.0,
+      "end_time": 1791407275
+    },
+    {
       "data": "2026-10-07T11:47:02+00:00",
       "adversario": "Levy_Sac",
       "cor": "Brancas",
