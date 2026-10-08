@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-10-08T21:48:43+00:00",
+      "adversario": "Deiada",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1558,
+      "link": "https://www.chess.com/game/live/185029021072",
+      "eco": "C64",
+      "pontos": 1.0,
+      "end_time": 1791496123
+    },
+    {
+      "data": "2026-10-08T21:31:13+00:00",
+      "adversario": "yerlan717",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1544,
+      "link": "https://www.chess.com/game/live/185028947054",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1791495073
+    },
+    {
+      "data": "2026-10-08T21:29:03+00:00",
+      "adversario": "leo66677788",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1528,
+      "link": "https://www.chess.com/game/live/185028908038",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1791494943
+    },
+    {
+      "data": "2026-10-08T19:38:12+00:00",
+      "adversario": "creepdizz",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1547,
+      "link": "https://www.chess.com/game/live/185024082780",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1791488292
+    },
+    {
       "data": "2026-10-07T22:30:44+00:00",
       "adversario": "Ryckn7",
       "cor": "Pretas",

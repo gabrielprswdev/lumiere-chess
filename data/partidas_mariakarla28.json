@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-10-08T21:22:31+00:00",
+      "adversario": "prashantasen",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1302,
+      "link": "https://www.chess.com/game/live/185028489360",
+      "eco": "B00",
+      "pontos": 1.0,
+      "end_time": 1791494551
+    },
+    {
+      "data": "2026-10-08T21:07:48+00:00",
+      "adversario": "Divulgazione",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1294,
+      "link": "https://www.chess.com/game/live/185027744224",
+      "eco": "B18",
+      "pontos": 1.0,
+      "end_time": 1791493668
+    },
+    {
       "data": "2026-10-08T16:30:18+00:00",
       "adversario": "GrandpaPlayer87",
       "cor": "Pretas",
