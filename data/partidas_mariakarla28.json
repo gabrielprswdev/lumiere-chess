@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-10-08T16:30:18+00:00",
+      "adversario": "GrandpaPlayer87",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1285,
+      "link": "https://www.chess.com/game/live/185015333776",
+      "eco": "B40",
+      "pontos": 1.0,
+      "end_time": 1791477018
+    },
+    {
+      "data": "2026-10-08T16:14:10+00:00",
+      "adversario": "piiyush18",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1277,
+      "link": "https://www.chess.com/game/live/185014398738",
+      "eco": "B21",
+      "pontos": 1.0,
+      "end_time": 1791476050
+    },
+    {
+      "data": "2026-10-08T12:19:17+00:00",
+      "adversario": "CTommy11",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1269,
+      "link": "https://www.chess.com/game/live/185003222312",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1791461957
+    },
+    {
       "data": "2026-10-07T21:07:55+00:00",
       "adversario": "VetTetra",
       "cor": "Pretas",
@@ -11517,58 +11556,6 @@
       "eco": "D30",
       "pontos": 0.0,
       "end_time": 1759934887
-    },
-    {
-      "data": "2025-10-07T17:38:51+00:00",
-      "adversario": "elgaustt",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1003,
-      "link": "https://www.chess.com/game/live/144017738878",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1759858731
-    },
-    {
-      "data": "2025-10-07T16:55:20+00:00",
-      "adversario": "MiguelFerreira10",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1011,
-      "link": "https://www.chess.com/game/live/144016400548",
-      "eco": "B45",
-      "pontos": 1.0,
-      "end_time": 1759856120
-    },
-    {
-      "data": "2025-10-07T11:44:02+00:00",
-      "adversario": "Yous89300",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1003,
-      "link": "https://www.chess.com/game/live/144005371408",
-      "eco": "C55",
-      "pontos": 0.0,
-      "end_time": 1759837442
-    },
-    {
-      "data": "2025-10-07T11:37:40+00:00",
-      "adversario": "Matt4406",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1012,
-      "link": "https://www.chess.com/game/live/144005278344",
-      "eco": "C26",
-      "pontos": 0.0,
-      "end_time": 1759837060
     }
   ]
 }
