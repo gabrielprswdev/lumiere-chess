@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-09T21:39:49+00:00",
+      "adversario": "FLjuliochess",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 666,
+      "link": "https://www.chess.com/game/daily/1037721564",
+      "eco": "C41",
+      "pontos": 0.0,
+      "end_time": 1791581989
+    },
+    {
       "data": "2026-10-06T23:58:23+00:00",
       "adversario": "GM_hunglerdog",
       "cor": "Brancas",

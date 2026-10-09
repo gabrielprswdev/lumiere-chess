@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-09T17:18:54+00:00",
+      "adversario": "Freet1me",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1543,
+      "link": "https://www.chess.com/game/live/185069550990",
+      "eco": "A43",
+      "pontos": 1.0,
+      "end_time": 1791566334
+    },
+    {
       "data": "2026-10-09T17:10:17+00:00",
       "adversario": "Bracon",
       "cor": "Pretas",
