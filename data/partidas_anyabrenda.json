@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-10-09T17:10:17+00:00",
+      "adversario": "Bracon",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1530,
+      "link": "https://www.chess.com/game/live/185069313144",
+      "eco": "A45",
+      "pontos": 0.0,
+      "end_time": 1791565817
+    },
+    {
+      "data": "2026-10-09T17:05:17+00:00",
+      "adversario": "kareemessam88",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1544,
+      "link": "https://www.chess.com/game/live/185069090972",
+      "eco": "A43",
+      "pontos": 0.0,
+      "end_time": 1791565517
+    },
+    {
       "data": "2026-10-08T21:48:43+00:00",
       "adversario": "Deiada",
       "cor": "Pretas",
