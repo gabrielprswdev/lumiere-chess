@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-10-12T20:10:03+00:00",
+      "adversario": "dallasblanton",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1555,
+      "link": "https://www.chess.com/game/live/185229794214",
+      "eco": "C23",
+      "pontos": 1.0,
+      "end_time": 1791835803
+    },
+    {
+      "data": "2026-10-12T20:02:30+00:00",
+      "adversario": "blackheim45",
+      "cor": "Brancas",
+      "resultado": "timevsinsufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1543,
+      "link": "https://www.chess.com/game/live/185228888524",
+      "eco": "D02",
+      "pontos": 0.5,
+      "end_time": 1791835350
+    },
+    {
       "data": "2026-10-09T17:18:54+00:00",
       "adversario": "Freet1me",
       "cor": "Brancas",
@@ -28599,84 +28625,6 @@
       "eco": "B22",
       "pontos": 0.0,
       "end_time": 1760304294
-    },
-    {
-      "data": "2025-10-11T17:52:56+00:00",
-      "adversario": "jjboveda",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1171,
-      "link": "https://www.chess.com/game/live/144175226422",
-      "eco": "E70",
-      "pontos": 1.0,
-      "end_time": 1760205176
-    },
-    {
-      "data": "2025-10-11T17:50:16+00:00",
-      "adversario": "Novi40k88",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1164,
-      "link": "https://www.chess.com/game/live/144175011168",
-      "eco": "C45",
-      "pontos": 1.0,
-      "end_time": 1760205016
-    },
-    {
-      "data": "2025-10-11T17:44:04+00:00",
-      "adversario": "CiryiaSama",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1155,
-      "link": "https://www.chess.com/game/live/144174916648",
-      "eco": "C02",
-      "pontos": 0.0,
-      "end_time": 1760204644
-    },
-    {
-      "data": "2025-10-11T17:41:19+00:00",
-      "adversario": "user_239019621",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1163,
-      "link": "https://www.chess.com/game/live/144174861500",
-      "eco": "A04",
-      "pontos": 0.0,
-      "end_time": 1760204479
-    },
-    {
-      "data": "2025-10-11T17:38:38+00:00",
-      "adversario": "spaceshuttle04",
-      "cor": "Pretas",
-      "resultado": "timevsinsufficient",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1171,
-      "link": "https://www.chess.com/game/live/144174614228",
-      "eco": "C50",
-      "pontos": 0.5,
-      "end_time": 1760204318
-    },
-    {
-      "data": "2025-10-11T17:31:05+00:00",
-      "adversario": "fysfloe",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1171,
-      "link": "https://www.chess.com/game/live/144174416124",
-      "eco": "C47",
-      "pontos": 1.0,
-      "end_time": 1760203865
     }
   ]
 }
