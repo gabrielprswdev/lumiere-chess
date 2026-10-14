@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-10-14T19:03:04+00:00",
+      "adversario": "pancakeeatergermany",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1555,
+      "link": "https://www.chess.com/game/live/185332616232",
+      "eco": "A46",
+      "pontos": 1.0,
+      "end_time": 1792004584
+    },
+    {
+      "data": "2026-10-14T18:56:37+00:00",
+      "adversario": "Dave5122",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1544,
+      "link": "https://www.chess.com/game/live/185332061796",
+      "eco": "A07",
+      "pontos": 0.0,
+      "end_time": 1792004197
+    },
+    {
       "data": "2026-10-13T21:49:40+00:00",
       "adversario": "LeoPettenon",
       "cor": "Pretas",

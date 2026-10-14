@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-10-14T20:21:22+00:00",
+      "adversario": "kunu_1234",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1101,
+      "link": "https://www.chess.com/game/live/185335960284",
+      "eco": "C23",
+      "pontos": 1.0,
+      "end_time": 1792009282
+    },
+    {
+      "data": "2026-10-14T20:08:31+00:00",
+      "adversario": "Nosiol",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1093,
+      "link": "https://www.chess.com/game/live/185335684292",
+      "eco": "C24",
+      "pontos": 1.0,
+      "end_time": 1792008511
+    },
+    {
       "data": "2026-10-14T00:05:27+00:00",
       "adversario": "Leeh_Souza",
       "cor": "Pretas",
