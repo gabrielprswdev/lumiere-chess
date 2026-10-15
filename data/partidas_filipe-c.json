@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-10-14T23:58:32+00:00",
+      "adversario": "matheuslopesreis01",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 619,
+      "link": "https://www.chess.com/game/live/185343059534",
+      "eco": "C41",
+      "pontos": 0.0,
+      "end_time": 1792022312
+    },
+    {
+      "data": "2026-10-14T23:48:11+00:00",
+      "adversario": "pawnandroid",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1118,
+      "link": "https://www.chess.com/game/live/185342504426",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1792021691
+    },
+    {
       "data": "2026-10-14T23:29:16+00:00",
       "adversario": "AYANOKOJI_FALS",
       "cor": "Brancas",
@@ -46084,58 +46110,6 @@
       "eco": "A09",
       "pontos": 0.5,
       "end_time": 1760486584
-    },
-    {
-      "data": "2025-10-14T23:49:06+00:00",
-      "adversario": "Martinzinho2025",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 429,
-      "link": "https://www.chess.com/game/live/144301550546",
-      "eco": "C23",
-      "pontos": 1.0,
-      "end_time": 1760485746
-    },
-    {
-      "data": "2025-10-14T23:15:49+00:00",
-      "adversario": "Martinzinho2025",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 426,
-      "link": "https://www.chess.com/game/live/144300781182",
-      "eco": "C00",
-      "pontos": 0.0,
-      "end_time": 1760483749
-    },
-    {
-      "data": "2025-10-14T15:53:34+00:00",
-      "adversario": "dagfinmyhre",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 439,
-      "link": "https://www.chess.com/game/live/144286732158",
-      "eco": "A03",
-      "pontos": 1.0,
-      "end_time": 1760457214
-    },
-    {
-      "data": "2025-10-14T00:17:28+00:00",
-      "adversario": "Fenrirva",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 431,
-      "link": "https://www.chess.com/game/live/144262648470",
-      "eco": "A10",
-      "pontos": 0.0,
-      "end_time": 1760401048
     }
   ]
 }
