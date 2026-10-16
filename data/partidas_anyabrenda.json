@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-15T22:05:30+00:00",
+      "adversario": "mslahaldyn723",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1566,
+      "link": "https://www.chess.com/game/live/185392934658",
+      "eco": "C30",
+      "pontos": 1.0,
+      "end_time": 1792101930
+    },
+    {
       "data": "2026-10-14T19:03:04+00:00",
       "adversario": "pancakeeatergermany",
       "cor": "Brancas",
@@ -28430,71 +28443,6 @@
       "eco": "C50",
       "pontos": 0.0,
       "end_time": 1760749870
-    },
-    {
-      "data": "2025-10-15T02:18:23+00:00",
-      "adversario": "retrtadgfewr",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1199,
-      "link": "https://www.chess.com/game/live/144304446962",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1760494703
-    },
-    {
-      "data": "2025-10-15T02:12:47+00:00",
-      "adversario": "John_Emmett17",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1191,
-      "link": "https://www.chess.com/game/live/144304391496",
-      "eco": "C44",
-      "pontos": 1.0,
-      "end_time": 1760494367
-    },
-    {
-      "data": "2025-10-14T19:22:13+00:00",
-      "adversario": "ritiksraj",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1182,
-      "link": "https://www.chess.com/game/live/144294719296",
-      "eco": "C22",
-      "pontos": 1.0,
-      "end_time": 1760469733
-    },
-    {
-      "data": "2025-10-14T19:18:30+00:00",
-      "adversario": "migo79",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1174,
-      "link": "https://www.chess.com/game/live/144294596522",
-      "eco": "B22",
-      "pontos": 0.0,
-      "end_time": 1760469510
-    },
-    {
-      "data": "2025-10-14T09:59:34+00:00",
-      "adversario": "DmitriyKrivoshlyk",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1182,
-      "link": "https://www.chess.com/game/live/144275289786",
-      "eco": "C46",
-      "pontos": 0.0,
-      "end_time": 1760435974
     }
   ]
 }
