@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-10-17T00:27:59+00:00",
+      "adversario": "ND_Chris",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1566,
+      "link": "https://www.chess.com/game/live/185450475140",
+      "eco": "A80",
+      "pontos": 1.0,
+      "end_time": 1792196879
+    },
+    {
+      "data": "2026-10-17T00:16:31+00:00",
+      "adversario": "titodibo",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1556,
+      "link": "https://www.chess.com/game/live/185450210930",
+      "eco": "C20",
+      "pontos": 0.0,
+      "end_time": 1792196191
+    },
+    {
       "data": "2026-10-15T22:05:30+00:00",
       "adversario": "mslahaldyn723",
       "cor": "Pretas",
