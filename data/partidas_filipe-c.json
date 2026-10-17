@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-17T21:01:36+00:00",
+      "adversario": "Medeiros2000",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/86400",
+      "rating": 666,
+      "link": "https://www.chess.com/game/daily/1044748012",
+      "eco": "C34",
+      "pontos": 0.0,
+      "end_time": 1792270896
+    },
+    {
       "data": "2026-10-17T00:24:32+00:00",
       "adversario": "TiagoChess18",
       "cor": "Brancas",
