@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-18T00:50:54+00:00",
+      "adversario": "michel_gmes",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "1/86400",
+      "rating": 666,
+      "link": "https://www.chess.com/game/daily/1044335102",
+      "eco": "C41",
+      "pontos": 0.0,
+      "end_time": 1792284654
+    },
+    {
       "data": "2026-10-17T21:01:36+00:00",
       "adversario": "Medeiros2000",
       "cor": "Pretas",
@@ -46552,45 +46565,6 @@
       "eco": "C20",
       "pontos": 1.0,
       "end_time": 1760752277
-    },
-    {
-      "data": "2025-10-17T20:49:21+00:00",
-      "adversario": "Martinzinho2025",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 416,
-      "link": "https://www.chess.com/game/live/144415564402",
-      "eco": "B01",
-      "pontos": 1.0,
-      "end_time": 1760734161
-    },
-    {
-      "data": "2025-10-17T20:38:01+00:00",
-      "adversario": "Martinzinho2025",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 412,
-      "link": "https://www.chess.com/game/live/144415201064",
-      "eco": "A20",
-      "pontos": 1.0,
-      "end_time": 1760733481
-    },
-    {
-      "data": "2025-10-17T20:17:06+00:00",
-      "adversario": "loban4ik_13",
-      "cor": "Pretas",
-      "resultado": "repetition",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 407,
-      "link": "https://www.chess.com/game/live/144414762314",
-      "eco": "B00",
-      "pontos": 0.5,
-      "end_time": 1760732226
     }
   ]
 }
