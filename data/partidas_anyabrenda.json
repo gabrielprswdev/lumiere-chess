@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-10-17T23:57:52+00:00",
+      "adversario": "Novato_98",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1574,
+      "link": "https://www.chess.com/game/live/185501924210",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1792281472
+    },
+    {
+      "data": "2026-10-17T23:49:54+00:00",
+      "adversario": "Bryan_McCoy",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1566,
+      "link": "https://www.chess.com/game/live/185501611808",
+      "eco": "D02",
+      "pontos": 0.5,
+      "end_time": 1792280994
+    },
+    {
       "data": "2026-10-17T00:27:59+00:00",
       "adversario": "ND_Chris",
       "cor": "Brancas",
