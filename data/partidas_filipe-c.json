@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-19T00:57:07+00:00",
+      "adversario": "MBNas01",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1144,
+      "link": "https://www.chess.com/game/live/185556377568",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1792371427
+    },
+    {
       "data": "2026-10-18T00:50:54+00:00",
       "adversario": "michel_gmes",
       "cor": "Pretas",
@@ -46539,32 +46552,6 @@
       "eco": "C21",
       "pontos": 0.0,
       "end_time": 1760880766
-    },
-    {
-      "data": "2025-10-18T18:32:39+00:00",
-      "adversario": "Martinzinho2025",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 428,
-      "link": "https://www.chess.com/game/live/144449583984",
-      "eco": "A10",
-      "pontos": 1.0,
-      "end_time": 1760812359
-    },
-    {
-      "data": "2025-10-18T01:51:17+00:00",
-      "adversario": "perazzo_09",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 424,
-      "link": "https://www.chess.com/game/live/144422032396",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1760752277
     }
   ]
 }
