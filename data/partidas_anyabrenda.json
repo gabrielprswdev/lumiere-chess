@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-23T03:50:00+00:00",
+      "adversario": "yfarensiuzz",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1533,
+      "link": "https://www.chess.com/game/live/185785997316",
+      "eco": "A45",
+      "pontos": 1.0,
+      "end_time": 1792727400
+    },
+    {
       "data": "2026-10-22T03:37:29+00:00",
       "adversario": "arghhhhh12",
       "cor": "Brancas",
@@ -27988,84 +28001,6 @@
       "eco": "B01",
       "pontos": 0.0,
       "end_time": 1761249971
-    },
-    {
-      "data": "2025-10-22T02:08:53+00:00",
-      "adversario": "TusharVi0",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1206,
-      "link": "https://www.chess.com/game/live/144578764286",
-      "eco": "E61",
-      "pontos": 1.0,
-      "end_time": 1761098933
-    },
-    {
-      "data": "2025-10-22T02:03:42+00:00",
-      "adversario": "Dilentant",
-      "cor": "Pretas",
-      "resultado": "timeout",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1198,
-      "link": "https://www.chess.com/game/live/144578645324",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1761098622
-    },
-    {
-      "data": "2025-10-22T01:56:59+00:00",
-      "adversario": "05_harsh",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1206,
-      "link": "https://www.chess.com/game/live/144578611464",
-      "eco": "C46",
-      "pontos": 1.0,
-      "end_time": 1761098219
-    },
-    {
-      "data": "2025-10-22T01:55:35+00:00",
-      "adversario": "ettur13",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1198,
-      "link": "https://www.chess.com/game/live/144578501792",
-      "eco": "B06",
-      "pontos": 1.0,
-      "end_time": 1761098135
-    },
-    {
-      "data": "2025-10-22T00:37:16+00:00",
-      "adversario": "SureshHK",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1190,
-      "link": "https://www.chess.com/game/live/144577035724",
-      "eco": "C00",
-      "pontos": 1.0,
-      "end_time": 1761093436
-    },
-    {
-      "data": "2025-10-22T00:32:19+00:00",
-      "adversario": "mrob87",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1182,
-      "link": "https://www.chess.com/game/live/144576965224",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1761093139
     }
   ]
 }
