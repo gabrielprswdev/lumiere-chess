@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-24T03:29:31+00:00",
+      "adversario": "coconochao",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1049,
+      "link": "https://www.chess.com/game/live/185843147096",
+      "eco": "C36",
+      "pontos": 0.0,
+      "end_time": 1792812571
+    },
+    {
       "data": "2026-10-24T03:13:54+00:00",
       "adversario": "c-mon_HRS17",
       "cor": "Brancas",
