@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-25T06:29:48+00:00",
+      "adversario": "sidi60",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1549,
+      "link": "https://www.chess.com/game/live/185904601174",
+      "eco": "C34",
+      "pontos": 1.0,
+      "end_time": 1792909788
+    },
+    {
       "data": "2026-10-24T04:00:58+00:00",
       "adversario": "Kaplog17",
       "cor": "Pretas",
@@ -27715,84 +27728,6 @@
       "eco": "C23",
       "pontos": 0.0,
       "end_time": 1761418649
-    },
-    {
-      "data": "2025-10-24T23:21:13+00:00",
-      "adversario": "ImLxx",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1234,
-      "link": "https://www.chess.com/game/live/144695694400",
-      "eco": "E64",
-      "pontos": 1.0,
-      "end_time": 1761348073
-    },
-    {
-      "data": "2025-10-24T23:17:17+00:00",
-      "adversario": "nedbutler1",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1226,
-      "link": "https://www.chess.com/game/live/144695545476",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1761347837
-    },
-    {
-      "data": "2025-10-24T23:11:14+00:00",
-      "adversario": "Tomas-Pelikan",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1218,
-      "link": "https://www.chess.com/game/live/144695490368",
-      "eco": "C40",
-      "pontos": 1.0,
-      "end_time": 1761347474
-    },
-    {
-      "data": "2025-10-24T23:08:34+00:00",
-      "adversario": "FPRodrigues",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1212,
-      "link": "https://www.chess.com/game/live/144695395398",
-      "eco": "B34",
-      "pontos": 0.0,
-      "end_time": 1761347314
-    },
-    {
-      "data": "2025-10-24T23:03:57+00:00",
-      "adversario": "fecosta2",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1220,
-      "link": "https://www.chess.com/game/live/144695324134",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1761347037
-    },
-    {
-      "data": "2025-10-24T23:00:48+00:00",
-      "adversario": "mikihershcovitz",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1212,
-      "link": "https://www.chess.com/game/live/144695200794",
-      "eco": "C50",
-      "pontos": 1.0,
-      "end_time": 1761346848
     }
   ]
 }
