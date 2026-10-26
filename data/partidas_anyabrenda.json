@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-26T03:37:01+00:00",
+      "adversario": "wesleyjoao",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1557,
+      "link": "https://www.chess.com/game/live/185956482412",
+      "eco": "E01",
+      "pontos": 1.0,
+      "end_time": 1792985821
+    },
+    {
       "data": "2026-10-25T06:29:48+00:00",
       "adversario": "sidi60",
       "cor": "Pretas",
@@ -27663,71 +27676,6 @@
       "eco": "B22",
       "pontos": 0.5,
       "end_time": 1762299570
-    },
-    {
-      "data": "2025-10-25T19:16:41+00:00",
-      "adversario": "STORM_SHADOW_42",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "120+1",
-      "rating": 1042,
-      "link": "https://www.chess.com/game/live/144727679896",
-      "eco": "A45",
-      "pontos": 1.0,
-      "end_time": 1761419801
-    },
-    {
-      "data": "2025-10-25T19:11:23+00:00",
-      "adversario": "78SitoS87",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "120+1",
-      "rating": 986,
-      "link": "https://www.chess.com/game/live/144727604268",
-      "eco": "C62",
-      "pontos": 1.0,
-      "end_time": 1761419483
-    },
-    {
-      "data": "2025-10-25T19:08:51+00:00",
-      "adversario": "Andy019",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "120+1",
-      "rating": 925,
-      "link": "https://www.chess.com/game/live/144727464544",
-      "eco": "B02",
-      "pontos": 0.0,
-      "end_time": 1761419331
-    },
-    {
-      "data": "2025-10-25T19:04:29+00:00",
-      "adversario": "Ocnor",
-      "cor": "Pretas",
-      "resultado": "stalemate",
-      "rated": true,
-      "timeControl": "120+1",
-      "rating": 1017,
-      "link": "https://www.chess.com/game/live/144727245174",
-      "eco": "C45",
-      "pontos": 0.5,
-      "end_time": 1761419069
-    },
-    {
-      "data": "2025-10-25T18:57:29+00:00",
-      "adversario": "HardtSkritt",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "60+1",
-      "rating": 1007,
-      "link": "https://www.chess.com/game/live/144727135104",
-      "eco": "C23",
-      "pontos": 0.0,
-      "end_time": 1761418649
     }
   ]
 }
