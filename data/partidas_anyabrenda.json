@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-10-27T05:18:23+00:00",
+      "adversario": "abdalla0556",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1557,
+      "link": "https://www.chess.com/game/live/186017356154",
+      "eco": "D03",
+      "pontos": 1.0,
+      "end_time": 1793078303
+    },
+    {
+      "data": "2026-10-27T05:11:54+00:00",
+      "adversario": "keengpawn",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1549,
+      "link": "https://www.chess.com/game/live/186017172428",
+      "eco": "D11",
+      "pontos": 0.0,
+      "end_time": 1793077914
+    },
+    {
+      "data": "2026-10-27T02:32:38+00:00",
+      "adversario": "Mario445566",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/186012776062",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1793068358
+    },
+    {
+      "data": "2026-10-27T02:20:33+00:00",
+      "adversario": "Mario445566",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/186012612838",
+      "eco": "E61",
+      "pontos": 1.0,
+      "end_time": 1793067633
+    },
+    {
       "data": "2026-10-26T03:37:01+00:00",
       "adversario": "wesleyjoao",
       "cor": "Brancas",
