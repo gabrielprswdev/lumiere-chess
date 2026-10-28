@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-10-28T04:19:00+00:00",
+      "adversario": "SDSHANTO44",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1549,
+      "link": "https://www.chess.com/game/live/186074903034",
+      "eco": "C53",
+      "pontos": 1.0,
+      "end_time": 1793161140
+    },
+    {
+      "data": "2026-10-28T04:11:27+00:00",
+      "adversario": "zircon528",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1541,
+      "link": "https://www.chess.com/game/live/186074703518",
+      "eco": "C48",
+      "pontos": 0.0,
+      "end_time": 1793160687
+    },
+    {
+      "data": "2026-10-28T04:03:46+00:00",
+      "adversario": "CaballoBlancord21",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1549,
+      "link": "https://www.chess.com/game/live/186074587142",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1793160226
+    },
+    {
       "data": "2026-10-27T05:18:23+00:00",
       "adversario": "abdalla0556",
       "cor": "Pretas",
