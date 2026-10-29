@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-10-29T04:53:10+00:00",
+      "adversario": "ndhdztop1tg",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1549,
+      "link": "https://www.chess.com/game/live/186136246274",
+      "eco": "D00",
+      "pontos": 1.0,
+      "end_time": 1793249590
+    },
+    {
+      "data": "2026-10-29T04:48:41+00:00",
+      "adversario": "windgame",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1541,
+      "link": "https://www.chess.com/game/live/186136107014",
+      "eco": "C53",
+      "pontos": 0.0,
+      "end_time": 1793249321
+    },
+    {
       "data": "2026-10-28T04:19:00+00:00",
       "adversario": "SDSHANTO44",
       "cor": "Pretas",
