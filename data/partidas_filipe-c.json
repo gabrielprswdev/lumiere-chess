@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-10-30T01:58:28+00:00",
+      "adversario": "Mithun2050",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1081,
+      "link": "https://www.chess.com/game/live/186192485870",
+      "eco": "B01",
+      "pontos": 1.0,
+      "end_time": 1793325508
+    },
+    {
+      "data": "2026-10-30T01:44:14+00:00",
+      "adversario": "Argo_88",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1074,
+      "link": "https://www.chess.com/game/live/186192168110",
+      "eco": "C44",
+      "pontos": 1.0,
+      "end_time": 1793324654
+    },
+    {
+      "data": "2026-10-30T01:33:21+00:00",
+      "adversario": "kbaker8420",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1066,
+      "link": "https://www.chess.com/game/live/186191994216",
+      "eco": "B07",
+      "pontos": 1.0,
+      "end_time": 1793324001
+    },
+    {
+      "data": "2026-10-30T01:28:46+00:00",
+      "adversario": "OJ4517",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1059,
+      "link": "https://www.chess.com/game/live/186191840010",
+      "eco": "C40",
+      "pontos": 0.0,
+      "end_time": 1793323726
+    },
+    {
+      "data": "2026-10-30T01:18:33+00:00",
+      "adversario": "mberlyant",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1067,
+      "link": "https://www.chess.com/game/live/186191331240",
+      "eco": "C20",
+      "pontos": 1.0,
+      "end_time": 1793323113
+    },
+    {
       "data": "2026-10-29T19:48:16+00:00",
       "adversario": "Maikon_CG",
       "cor": "Brancas",
@@ -47488,58 +47553,6 @@
       "eco": "C47",
       "pontos": 0.0,
       "end_time": 1761784539
-    },
-    {
-      "data": "2025-10-29T12:37:32+00:00",
-      "adversario": "incenso10",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 410,
-      "link": "https://www.chess.com/game/live/144870844140",
-      "eco": "B00",
-      "pontos": 1.0,
-      "end_time": 1761741452
-    },
-    {
-      "data": "2025-10-29T04:59:54+00:00",
-      "adversario": "CamaroPaul",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 403,
-      "link": "https://www.chess.com/game/live/144859288128",
-      "eco": "C48",
-      "pontos": 0.0,
-      "end_time": 1761713994
-    },
-    {
-      "data": "2025-10-29T04:51:11+00:00",
-      "adversario": "Shailesh2225",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 411,
-      "link": "https://www.chess.com/game/live/144859237234",
-      "eco": "C25",
-      "pontos": 1.0,
-      "end_time": 1761713471
-    },
-    {
-      "data": "2025-10-29T04:44:06+00:00",
-      "adversario": "Sanzy07",
-      "cor": "Brancas",
-      "resultado": "stalemate",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 403,
-      "link": "https://www.chess.com/game/live/144858987920",
-      "eco": "C00",
-      "pontos": 0.5,
-      "end_time": 1761713046
     }
   ]
 }

@@ -1,6 +1,71 @@
 {
   "partidas": [
     {
+      "data": "2026-10-30T04:41:29+00:00",
+      "adversario": "fema19",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1548,
+      "link": "https://www.chess.com/game/live/186197361080",
+      "eco": "C22",
+      "pontos": 1.0,
+      "end_time": 1793335289
+    },
+    {
+      "data": "2026-10-30T04:36:10+00:00",
+      "adversario": "mdshakibahmed",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1540,
+      "link": "https://www.chess.com/game/live/186197264470",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1793334970
+    },
+    {
+      "data": "2026-10-30T04:32:58+00:00",
+      "adversario": "yosia35",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1532,
+      "link": "https://www.chess.com/game/live/186196899014",
+      "eco": "D00",
+      "pontos": 0.5,
+      "end_time": 1793334778
+    },
+    {
+      "data": "2026-10-30T04:19:48+00:00",
+      "adversario": "kritofelll",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1533,
+      "link": "https://www.chess.com/game/live/186196779524",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1793333988
+    },
+    {
+      "data": "2026-10-30T04:15:25+00:00",
+      "adversario": "base1379",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1541,
+      "link": "https://www.chess.com/game/live/186196421486",
+      "eco": "C20",
+      "pontos": 0.0,
+      "end_time": 1793333725
+    },
+    {
       "data": "2026-10-29T04:53:10+00:00",
       "adversario": "ndhdztop1tg",
       "cor": "Brancas",
