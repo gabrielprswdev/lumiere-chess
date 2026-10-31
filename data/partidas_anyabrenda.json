@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-10-31T03:53:47+00:00",
+      "adversario": "its_me_gokulraj",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1556,
+      "link": "https://www.chess.com/game/live/186257958272",
+      "eco": "C44",
+      "pontos": 1.0,
+      "end_time": 1793418827
+    },
+    {
       "data": "2026-10-30T04:41:29+00:00",
       "adversario": "fema19",
       "cor": "Pretas",
