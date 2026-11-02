@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-02T06:27:13+00:00",
+      "adversario": "vudangcong2210",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1572,
+      "link": "https://www.chess.com/game/live/186380467658",
+      "eco": "E00",
+      "pontos": 1.0,
+      "end_time": 1793600833
+    },
+    {
       "data": "2026-11-01T07:02:20+00:00",
       "adversario": "ycci",
       "cor": "Brancas",
