@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-03T04:40:48+00:00",
+      "adversario": "Gibson_17",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1581,
+      "link": "https://www.chess.com/game/live/186439689280",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1793680848
+    },
+    {
       "data": "2026-11-02T06:27:13+00:00",
       "adversario": "vudangcong2210",
       "cor": "Brancas",
