@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-04T03:38:43+00:00",
+      "adversario": "veeran7",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1589,
+      "link": "https://www.chess.com/game/live/186500181778",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1793763523
+    },
+    {
       "data": "2026-11-03T04:40:48+00:00",
       "adversario": "Gibson_17",
       "cor": "Pretas",
