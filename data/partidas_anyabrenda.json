@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-11-06T06:51:09+00:00",
+      "adversario": "marlotorres2012",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1557,
+      "link": "https://www.chess.com/game/live/186634516072",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1793947869
+    },
+    {
+      "data": "2026-11-06T06:45:10+00:00",
+      "adversario": "alveric04",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1549,
+      "link": "https://www.chess.com/game/live/186634037474",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1793947510
+    },
+    {
+      "data": "2026-11-06T06:30:55+00:00",
+      "adversario": "josss_25",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1541,
+      "link": "https://www.chess.com/game/live/186633466550",
+      "eco": "C65",
+      "pontos": 0.0,
+      "end_time": 1793946655
+    },
+    {
+      "data": "2026-11-06T06:15:49+00:00",
+      "adversario": "attyjong",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1548,
+      "link": "https://www.chess.com/game/live/186633354494",
+      "eco": "B32",
+      "pontos": 0.0,
+      "end_time": 1793945749
+    },
+    {
       "data": "2026-11-05T06:23:53+00:00",
       "adversario": "rizmaximo",
       "cor": "Pretas",
