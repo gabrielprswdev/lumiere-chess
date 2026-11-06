@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-06T13:34:30+00:00",
+      "adversario": "ovicol",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1017,
+      "link": "https://www.chess.com/game/live/186652587978",
+      "eco": "B00",
+      "pontos": 1.0,
+      "end_time": 1793972070
+    },
+    {
       "data": "2026-11-06T00:05:25+00:00",
       "adversario": "Rankstein",
       "cor": "Brancas",
