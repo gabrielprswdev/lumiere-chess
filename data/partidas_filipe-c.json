@@ -1,6 +1,110 @@
 {
   "partidas": [
     {
+      "data": "2026-11-06T00:05:25+00:00",
+      "adversario": "Rankstein",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1009,
+      "link": "https://www.chess.com/game/live/186621389766",
+      "eco": "B22",
+      "pontos": 0.0,
+      "end_time": 1793923525
+    },
+    {
+      "data": "2026-11-05T23:56:59+00:00",
+      "adversario": "silva_andr",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1009,
+      "link": "https://www.chess.com/game/live/186621020452",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1793923019
+    },
+    {
+      "data": "2026-11-05T23:46:48+00:00",
+      "adversario": "DavidBaszukc",
+      "cor": "Pretas",
+      "resultado": "stalemate",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1009,
+      "link": "https://www.chess.com/game/live/186620602978",
+      "eco": "C22",
+      "pontos": 0.5,
+      "end_time": 1793922408
+    },
+    {
+      "data": "2026-11-05T23:34:03+00:00",
+      "adversario": "Marcosandre0",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1009,
+      "link": "https://www.chess.com/game/live/186620163252",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1793921643
+    },
+    {
+      "data": "2026-11-05T23:18:37+00:00",
+      "adversario": "thamada",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1009,
+      "link": "https://www.chess.com/game/live/186619788264",
+      "eco": "A00",
+      "pontos": 1.0,
+      "end_time": 1793920717
+    },
+    {
+      "data": "2026-11-05T23:10:45+00:00",
+      "adversario": "KingMinaG",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1002,
+      "link": "https://www.chess.com/game/live/186619141184",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1793920245
+    },
+    {
+      "data": "2026-11-05T22:54:53+00:00",
+      "adversario": "LucasLazavik",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 994,
+      "link": "https://www.chess.com/game/live/186618650134",
+      "eco": "B12",
+      "pontos": 0.0,
+      "end_time": 1793919293
+    },
+    {
+      "data": "2026-11-05T22:43:42+00:00",
+      "adversario": "TSVPedro1860",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 994,
+      "link": "https://www.chess.com/game/live/186618002474",
+      "eco": "C01",
+      "pontos": 1.0,
+      "end_time": 1793918622
+    },
+    {
       "data": "2026-11-05T22:23:05+00:00",
       "adversario": "fireshiplive",
       "cor": "Pretas",
@@ -48008,45 +48112,6 @@
       "eco": "B21",
       "pontos": 0.0,
       "end_time": 1762391884
-    },
-    {
-      "data": "2025-11-05T21:53:43+00:00",
-      "adversario": "pjtomas32",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 451,
-      "link": "https://www.chess.com/game/live/145163531000",
-      "eco": "C50",
-      "pontos": 0.0,
-      "end_time": 1762379623
-    },
-    {
-      "data": "2025-11-05T20:46:54+00:00",
-      "adversario": "echeecckk",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 459,
-      "link": "https://www.chess.com/game/live/145161479874",
-      "eco": "B01",
-      "pontos": 0.0,
-      "end_time": 1762375614
-    },
-    {
-      "data": "2025-11-05T17:00:50+00:00",
-      "adversario": "69piku",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 467,
-      "link": "https://www.chess.com/game/live/145153621514",
-      "eco": "B01",
-      "pontos": 0.0,
-      "end_time": 1762362050
     }
   ]
 }
