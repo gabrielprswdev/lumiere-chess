@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-11-06T23:37:19+00:00",
+      "adversario": "Z10000",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1713,
+      "link": "https://www.chess.com/game/live/186686274976",
+      "eco": "B10",
+      "pontos": 1.0,
+      "end_time": 1794008239
+    },
+    {
+      "data": "2026-11-06T22:34:22+00:00",
+      "adversario": "beencho",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1704,
+      "link": "https://www.chess.com/game/live/186683797498",
+      "eco": "C42",
+      "pontos": 1.0,
+      "end_time": 1794004462
+    },
+    {
+      "data": "2026-11-06T22:15:04+00:00",
+      "adversario": "Hana_1395",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "60",
+      "rating": 1696,
+      "link": "https://www.chess.com/game/live/186682961696",
+      "eco": "D20",
+      "pontos": 1.0,
+      "end_time": 1794003304
+    },
+    {
       "data": "2026-11-06T14:46:25+00:00",
       "adversario": "Rubik25062013",
       "cor": "Brancas",
