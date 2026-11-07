@@ -1,6 +1,110 @@
 {
   "partidas": [
     {
+      "data": "2026-11-07T04:35:23+00:00",
+      "adversario": "tholitz03",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1517,
+      "link": "https://www.chess.com/game/live/186696010330",
+      "eco": "A07",
+      "pontos": 1.0,
+      "end_time": 1794026123
+    },
+    {
+      "data": "2026-11-07T04:33:29+00:00",
+      "adversario": "Bugy_638",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1509,
+      "link": "https://www.chess.com/game/live/186695922454",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1794026009
+    },
+    {
+      "data": "2026-11-07T04:30:44+00:00",
+      "adversario": "43hamzeh",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1517,
+      "link": "https://www.chess.com/game/live/186695867512",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1794025844
+    },
+    {
+      "data": "2026-11-07T04:29:00+00:00",
+      "adversario": "SAWSHINYMOON",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1525,
+      "link": "https://www.chess.com/game/live/186695719942",
+      "eco": "A01",
+      "pontos": 0.0,
+      "end_time": 1794025740
+    },
+    {
+      "data": "2026-11-07T04:24:17+00:00",
+      "adversario": "travellingbeard21",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1533,
+      "link": "https://www.chess.com/game/live/186695606258",
+      "eco": "C20",
+      "pontos": 0.0,
+      "end_time": 1794025457
+    },
+    {
+      "data": "2026-11-07T04:20:48+00:00",
+      "adversario": "Arm3303",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1541,
+      "link": "https://www.chess.com/game/live/186695542686",
+      "eco": "A40",
+      "pontos": 0.0,
+      "end_time": 1794025248
+    },
+    {
+      "data": "2026-11-07T04:18:49+00:00",
+      "adversario": "KamranRashnuei",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1549,
+      "link": "https://www.chess.com/game/live/186695411738",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1794025129
+    },
+    {
+      "data": "2026-11-07T04:10:32+00:00",
+      "adversario": "Quaynz",
+      "cor": "Brancas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1557,
+      "link": "https://www.chess.com/game/live/186695018172",
+      "eco": "A40",
+      "pontos": 0.5,
+      "end_time": 1794024632
+    },
+    {
       "data": "2026-11-06T06:51:09+00:00",
       "adversario": "marlotorres2012",
       "cor": "Pretas",
@@ -28183,19 +28287,6 @@
       "eco": "B06",
       "pontos": 1.0,
       "end_time": 1762558149
-    },
-    {
-      "data": "2025-11-06T21:45:28+00:00",
-      "adversario": "ThePreztelMan",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1242,
-      "link": "https://www.chess.com/game/live/145202728754",
-      "eco": "C47",
-      "pontos": 1.0,
-      "end_time": 1762465528
     }
   ]
 }
