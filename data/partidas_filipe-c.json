@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-11-08T01:02:26+00:00",
+      "adversario": "aksageni",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 620,
+      "link": "https://www.chess.com/game/live/186753151162",
+      "eco": "C20",
+      "pontos": 0.0,
+      "end_time": 1794099746
+    },
+    {
+      "data": "2026-11-08T00:59:01+00:00",
+      "adversario": "rickydom",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 634,
+      "link": "https://www.chess.com/game/live/186752920966",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1794099541
+    },
+    {
       "data": "2026-11-06T13:34:30+00:00",
       "adversario": "ovicol",
       "cor": "Brancas",
@@ -48034,97 +48060,6 @@
       "eco": "C41",
       "pontos": 1.0,
       "end_time": 1762568061
-    },
-    {
-      "data": "2025-11-07T21:23:27+00:00",
-      "adversario": "nazlani88",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 458,
-      "link": "https://www.chess.com/game/live/145241937412",
-      "eco": "A07",
-      "pontos": 1.0,
-      "end_time": 1762550607
-    },
-    {
-      "data": "2025-11-07T21:15:09+00:00",
-      "adversario": "kladechujnaplecy",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 450,
-      "link": "https://www.chess.com/game/live/145241846314",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1762550109
-    },
-    {
-      "data": "2025-11-07T20:28:19+00:00",
-      "adversario": "ReinoAngelical",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 442,
-      "link": "https://www.chess.com/game/live/145240087964",
-      "eco": "C20",
-      "pontos": 1.0,
-      "end_time": 1762547299
-    },
-    {
-      "data": "2025-11-07T14:45:12+00:00",
-      "adversario": "ww015",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 434,
-      "link": "https://www.chess.com/game/live/145227958036",
-      "eco": "C21",
-      "pontos": 0.0,
-      "end_time": 1762526712
-    },
-    {
-      "data": "2025-11-07T14:36:22+00:00",
-      "adversario": "xuanphu2110214",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 442,
-      "link": "https://www.chess.com/game/live/145227717702",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1762526182
-    },
-    {
-      "data": "2025-11-06T22:58:25+00:00",
-      "adversario": "Geriatric_GenZ",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 450,
-      "link": "https://www.chess.com/game/live/145204371252",
-      "eco": "B06",
-      "pontos": 1.0,
-      "end_time": 1762469905
-    },
-    {
-      "data": "2025-11-06T01:18:04+00:00",
-      "adversario": "MaX4w",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 442,
-      "link": "https://www.chess.com/game/live/145167908730",
-      "eco": "B21",
-      "pontos": 0.0,
-      "end_time": 1762391884
     }
   ]
 }
