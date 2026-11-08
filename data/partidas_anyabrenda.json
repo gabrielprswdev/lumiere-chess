@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-11-08T03:01:18+00:00",
+      "adversario": "Caio1808caio",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1494,
+      "link": "https://www.chess.com/game/live/186756505892",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1794106878
+    },
+    {
+      "data": "2026-11-08T02:41:33+00:00",
+      "adversario": "Caio1808caio",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1494,
+      "link": "https://www.chess.com/game/live/186756003086",
+      "eco": "E18",
+      "pontos": 0.0,
+      "end_time": 1794105693
+    },
+    {
+      "data": "2026-11-08T02:28:38+00:00",
+      "adversario": "Caio1808caio",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1494,
+      "link": "https://www.chess.com/game/live/186755680280",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1794104918
+    },
+    {
+      "data": "2026-11-08T02:14:43+00:00",
+      "adversario": "RFPOHL",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1494,
+      "link": "https://www.chess.com/game/live/186755094316",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1794104083
+    },
+    {
       "data": "2026-11-07T05:59:39+00:00",
       "adversario": "mmtkamara",
       "cor": "Pretas",
@@ -28417,45 +28469,6 @@
       "eco": "B06",
       "pontos": 0.5,
       "end_time": 1762724022
-    },
-    {
-      "data": "2025-11-07T23:44:53+00:00",
-      "adversario": "RufusThePooch",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1249,
-      "link": "https://www.chess.com/game/live/145245636748",
-      "eco": "C68",
-      "pontos": 1.0,
-      "end_time": 1762559093
-    },
-    {
-      "data": "2025-11-07T23:41:41+00:00",
-      "adversario": "cotibi",
-      "cor": "Pretas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1242,
-      "link": "https://www.chess.com/game/live/145245567002",
-      "eco": "C68",
-      "pontos": 0.0,
-      "end_time": 1762558901
-    },
-    {
-      "data": "2025-11-07T23:29:09+00:00",
-      "adversario": "Brosgas40",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1250,
-      "link": "https://www.chess.com/game/live/145245294696",
-      "eco": "B06",
-      "pontos": 1.0,
-      "end_time": 1762558149
     }
   ]
 }
