@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-10T01:53:23+00:00",
+      "adversario": "sasebastian",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1066,
+      "link": "https://www.chess.com/game/live/186884926092",
+      "eco": "C53",
+      "pontos": 1.0,
+      "end_time": 1794275603
+    },
+    {
       "data": "2026-11-10T01:49:13+00:00",
       "adversario": "433Ataque",
       "cor": "Brancas",

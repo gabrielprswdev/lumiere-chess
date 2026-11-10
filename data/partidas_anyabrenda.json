@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-10T07:56:52+00:00",
+      "adversario": "tyruchi",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1518,
+      "link": "https://www.chess.com/game/live/186896776024",
+      "eco": "E90",
+      "pontos": 1.0,
+      "end_time": 1794297412
+    },
+    {
       "data": "2026-11-09T09:25:58+00:00",
       "adversario": "Lalev84",
       "cor": "Pretas",
