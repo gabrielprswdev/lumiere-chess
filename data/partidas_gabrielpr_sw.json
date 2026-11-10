@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-10T22:15:52+00:00",
+      "adversario": "VerySexy77",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "180",
+      "rating": 1924,
+      "link": "https://www.chess.com/game/live/186945508202",
+      "eco": "C29",
+      "pontos": 1.0,
+      "end_time": 1794348952
+    },
+    {
       "data": "2026-11-10T13:06:32+00:00",
       "adversario": "Joaopedromarrey",
       "cor": "Pretas",
