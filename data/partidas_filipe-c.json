@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-11-10T15:13:05+00:00",
+      "adversario": "AnaClaraRocha",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "900+10",
+      "rating": 1050,
+      "link": "https://www.chess.com/game/live/186919640678",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1794323585
+    },
+    {
+      "data": "2026-11-10T15:01:30+00:00",
+      "adversario": "lenni820",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1050,
+      "link": "https://www.chess.com/game/live/186919542384",
+      "eco": "C34",
+      "pontos": 0.0,
+      "end_time": 1794322890
+    },
+    {
+      "data": "2026-11-10T15:00:31+00:00",
+      "adversario": "rasheedsulaiman",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1058,
+      "link": "https://www.chess.com/game/live/186919111364",
+      "eco": "C20",
+      "pontos": 0.0,
+      "end_time": 1794322831
+    },
+    {
       "data": "2026-11-10T01:53:23+00:00",
       "adversario": "sasebastian",
       "cor": "Pretas",
