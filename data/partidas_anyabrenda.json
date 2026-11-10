@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-09T09:25:58+00:00",
+      "adversario": "Lalev84",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1510,
+      "link": "https://www.chess.com/game/live/186833724682",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1794216358
+    },
+    {
       "data": "2026-11-08T20:46:14+00:00",
       "adversario": "gersonken",
       "cor": "Brancas",
@@ -28365,123 +28378,6 @@
       "eco": "A45",
       "pontos": 1.0,
       "end_time": 1762818060
-    },
-    {
-      "data": "2025-11-09T22:53:19+00:00",
-      "adversario": "catalin_topcea",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1272,
-      "link": "https://www.chess.com/game/live/145321929740",
-      "eco": "D20",
-      "pontos": 1.0,
-      "end_time": 1762728799
-    },
-    {
-      "data": "2025-11-09T22:47:21+00:00",
-      "adversario": "jairbugoliv",
-      "cor": "Pretas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1264,
-      "link": "https://www.chess.com/game/live/145321907588",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1762728441
-    },
-    {
-      "data": "2025-11-09T22:45:42+00:00",
-      "adversario": "roadtogmhehe",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1272,
-      "link": "https://www.chess.com/game/live/145321859048",
-      "eco": "B01",
-      "pontos": 1.0,
-      "end_time": 1762728342
-    },
-    {
-      "data": "2025-11-09T22:15:38+00:00",
-      "adversario": "cursedrookie",
-      "cor": "Brancas",
-      "resultado": "timevsinsufficient",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1265,
-      "link": "https://www.chess.com/game/live/145321004936",
-      "eco": "B01",
-      "pontos": 0.5,
-      "end_time": 1762726538
-    },
-    {
-      "data": "2025-11-09T21:53:53+00:00",
-      "adversario": "championalbiero",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1265,
-      "link": "https://www.chess.com/game/live/145320487062",
-      "eco": "C53",
-      "pontos": 1.0,
-      "end_time": 1762725233
-    },
-    {
-      "data": "2025-11-09T21:46:54+00:00",
-      "adversario": "Theycallmeankur",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1256,
-      "link": "https://www.chess.com/game/live/145320344010",
-      "eco": "B12",
-      "pontos": 1.0,
-      "end_time": 1762724814
-    },
-    {
-      "data": "2025-11-09T21:44:13+00:00",
-      "adversario": "Theycallmeankur",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1249,
-      "link": "https://www.chess.com/game/live/145320275998",
-      "eco": "C45",
-      "pontos": 1.0,
-      "end_time": 1762724653
-    },
-    {
-      "data": "2025-11-09T21:41:43+00:00",
-      "adversario": "Carrywurst23",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1241,
-      "link": "https://www.chess.com/game/live/145320166220",
-      "eco": "B12",
-      "pontos": 0.0,
-      "end_time": 1762724503
-    },
-    {
-      "data": "2025-11-09T21:33:42+00:00",
-      "adversario": "fandubfx",
-      "cor": "Brancas",
-      "resultado": "repetition",
-      "rated": true,
-      "timeControl": "180",
-      "rating": 1249,
-      "link": "https://www.chess.com/game/live/145319910606",
-      "eco": "B06",
-      "pontos": 0.5,
-      "end_time": 1762724022
     }
   ]
 }
