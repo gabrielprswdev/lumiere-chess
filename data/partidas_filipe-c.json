@@ -1,6 +1,110 @@
 {
   "partidas": [
     {
+      "data": "2026-11-11T00:01:38+00:00",
+      "adversario": "whowani",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1066,
+      "link": "https://www.chess.com/game/live/186949613544",
+      "eco": "B06",
+      "pontos": 0.0,
+      "end_time": 1794355298
+    },
+    {
+      "data": "2026-11-10T23:50:12+00:00",
+      "adversario": "jtnthtbrb",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1074,
+      "link": "https://www.chess.com/game/live/186949197576",
+      "eco": "C46",
+      "pontos": 0.0,
+      "end_time": 1794354612
+    },
+    {
+      "data": "2026-11-10T23:38:59+00:00",
+      "adversario": "Mohammadkharaghani",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1082,
+      "link": "https://www.chess.com/game/live/186948927114",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1794353939
+    },
+    {
+      "data": "2026-11-10T23:31:48+00:00",
+      "adversario": "VusiTMbongo",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1091,
+      "link": "https://www.chess.com/game/live/186948505648",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1794353508
+    },
+    {
+      "data": "2026-11-10T23:18:27+00:00",
+      "adversario": "ShoaibJokker",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1099,
+      "link": "https://www.chess.com/game/live/186948140688",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1794352707
+    },
+    {
+      "data": "2026-11-10T23:11:07+00:00",
+      "adversario": "leleligne1",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1091,
+      "link": "https://www.chess.com/game/live/186947832402",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1794352267
+    },
+    {
+      "data": "2026-11-10T23:03:48+00:00",
+      "adversario": "Gabrielvoltei2IA",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1091,
+      "link": "https://www.chess.com/game/live/186947534676",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1794351828
+    },
+    {
+      "data": "2026-11-10T22:54:34+00:00",
+      "adversario": "Rsquared0",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1091,
+      "link": "https://www.chess.com/game/live/186947054292",
+      "eco": "A06",
+      "pontos": 1.0,
+      "end_time": 1794351274
+    },
+    {
       "data": "2026-11-10T22:44:12+00:00",
       "adversario": "ejthewise",
       "cor": "Brancas",
@@ -48489,32 +48593,6 @@
       "eco": "A00",
       "pontos": 0.0,
       "end_time": 1762833976
-    },
-    {
-      "data": "2025-11-10T18:54:24+00:00",
-      "adversario": "Martinzinho2025",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": false,
-      "timeControl": "1800",
-      "rating": 476,
-      "link": "https://www.chess.com/game/live/145353595660",
-      "eco": "A00",
-      "pontos": 1.0,
-      "end_time": 1762800864
-    },
-    {
-      "data": "2025-11-10T18:18:24+00:00",
-      "adversario": "Martinzinho2025",
-      "cor": "Brancas",
-      "resultado": "timeout",
-      "rated": false,
-      "timeControl": "600",
-      "rating": 476,
-      "link": "https://www.chess.com/game/live/145352507324",
-      "eco": "A00",
-      "pontos": 0.0,
-      "end_time": 1762798704
     }
   ]
 }
