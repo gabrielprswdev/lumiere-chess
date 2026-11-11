@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-11-11T18:17:20+00:00",
+      "adversario": "Artur_Sigma_Aun",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1075,
+      "link": "https://www.chess.com/game/live/187000506240",
+      "eco": "C55",
+      "pontos": 1.0,
+      "end_time": 1794421040
+    },
+    {
+      "data": "2026-11-11T18:01:30+00:00",
+      "adversario": "MrShaibelsMustache",
+      "cor": "Pretas",
+      "resultado": "repetition",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1067,
+      "link": "https://www.chess.com/game/live/186999899486",
+      "eco": "C48",
+      "pontos": 0.5,
+      "end_time": 1794420090
+    },
+    {
+      "data": "2026-11-11T17:52:47+00:00",
+      "adversario": "Gautamkumawat322",
+      "cor": "Pretas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1066,
+      "link": "https://www.chess.com/game/live/186999387612",
+      "eco": "D00",
+      "pontos": 0.0,
+      "end_time": 1794419567
+    },
+    {
+      "data": "2026-11-11T17:09:27+00:00",
+      "adversario": "lolikilledu",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1074,
+      "link": "https://www.chess.com/game/live/186996607848",
+      "eco": "C40",
+      "pontos": 1.0,
+      "end_time": 1794416967
+    },
+    {
       "data": "2026-11-11T00:01:38+00:00",
       "adversario": "whowani",
       "cor": "Brancas",
