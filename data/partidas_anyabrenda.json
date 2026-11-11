@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-11T08:17:21+00:00",
+      "adversario": "cradle757",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1526,
+      "link": "https://www.chess.com/game/live/186966589074",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1794385041
+    },
+    {
       "data": "2026-11-10T07:56:52+00:00",
       "adversario": "tyruchi",
       "cor": "Pretas",
@@ -28378,19 +28391,6 @@
       "eco": "B01",
       "pontos": 1.0,
       "end_time": 1762822113
-    },
-    {
-      "data": "2025-11-10T23:41:00+00:00",
-      "adversario": "Ricardo_123456",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 1451,
-      "link": "https://www.chess.com/game/live/145362574728",
-      "eco": "A45",
-      "pontos": 1.0,
-      "end_time": 1762818060
     }
   ]
 }
