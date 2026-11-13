@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-11-12T23:58:20+00:00",
+      "adversario": "Sehm01",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1031,
+      "link": "https://www.chess.com/game/live/187088942088",
+      "eco": "C23",
+      "pontos": 0.0,
+      "end_time": 1794527900
+    },
+    {
+      "data": "2026-11-12T23:40:45+00:00",
+      "adversario": "Zezinho_do_caps",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1039,
+      "link": "https://www.chess.com/game/live/187088665466",
+      "eco": "C55",
+      "pontos": 0.0,
+      "end_time": 1794526845
+    },
+    {
+      "data": "2026-11-12T23:32:56+00:00",
+      "adversario": "mauriciocosta1",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1039,
+      "link": "https://www.chess.com/game/live/187087991216",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1794526376
+    },
+    {
+      "data": "2026-11-12T23:16:41+00:00",
+      "adversario": "mauriciocosta1",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1028,
+      "link": "https://www.chess.com/game/live/187087906946",
+      "eco": "C20",
+      "pontos": 0.0,
+      "end_time": 1794525401
+    },
+    {
       "data": "2026-11-12T23:04:22+00:00",
       "adversario": "nasr_1110",
       "cor": "Pretas",
