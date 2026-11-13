@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-11-13T20:12:57+00:00",
+      "adversario": "trmg2",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1031,
+      "link": "https://www.chess.com/game/live/187149458554",
+      "eco": "C00",
+      "pontos": 1.0,
+      "end_time": 1794600777
+    },
+    {
+      "data": "2026-11-13T20:03:31+00:00",
+      "adversario": "whynametaken",
+      "cor": "Brancas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1023,
+      "link": "https://www.chess.com/game/live/187148202662",
+      "eco": "B00",
+      "pontos": 0.5,
+      "end_time": 1794600211
+    },
+    {
+      "data": "2026-11-13T19:39:46+00:00",
+      "adversario": "dingdongringrong",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1023,
+      "link": "https://www.chess.com/game/live/187147300510",
+      "eco": "B13",
+      "pontos": 0.0,
+      "end_time": 1794598786
+    },
+    {
       "data": "2026-11-12T23:58:20+00:00",
       "adversario": "Sehm01",
       "cor": "Pretas",
