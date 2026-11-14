@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-11-14T05:47:55+00:00",
+      "adversario": "Shmuel710",
+      "cor": "Pretas",
+      "resultado": "insufficient",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1050,
+      "link": "https://www.chess.com/game/live/187172164804",
+      "eco": "D00",
+      "pontos": 0.5,
+      "end_time": 1794635275
+    },
+    {
+      "data": "2026-11-14T05:28:22+00:00",
+      "adversario": "Shreyu27",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1050,
+      "link": "https://www.chess.com/game/live/187171824528",
+      "eco": "C24",
+      "pontos": 1.0,
+      "end_time": 1794634102
+    },
+    {
       "data": "2026-11-13T23:23:38+00:00",
       "adversario": "jodennistorres",
       "cor": "Pretas",
