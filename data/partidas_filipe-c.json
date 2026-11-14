@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-11-14T17:41:57+00:00",
+      "adversario": "Lionzebramonkey",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1049,
+      "link": "https://www.chess.com/game/live/187209084834",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1794678117
+    },
+    {
+      "data": "2026-11-14T17:28:38+00:00",
+      "adversario": "vini2410",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1058,
+      "link": "https://www.chess.com/game/live/187208510390",
+      "eco": "C23",
+      "pontos": 1.0,
+      "end_time": 1794677318
+    },
+    {
       "data": "2026-11-14T05:47:55+00:00",
       "adversario": "Shmuel710",
       "cor": "Pretas",
