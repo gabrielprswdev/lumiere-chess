@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-11-15T11:17:52+00:00",
+      "adversario": "ayahiyus",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1525,
+      "link": "https://www.chess.com/game/live/187255445312",
+      "eco": "C50",
+      "pontos": 1.0,
+      "end_time": 1794741472
+    },
+    {
+      "data": "2026-11-15T11:16:22+00:00",
+      "adversario": "Umesh_107",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1518,
+      "link": "https://www.chess.com/game/live/187255115762",
+      "eco": "C50",
+      "pontos": 0.0,
+      "end_time": 1794741382
+    },
+    {
+      "data": "2026-11-15T11:09:57+00:00",
+      "adversario": "antono2208",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1526,
+      "link": "https://www.chess.com/game/live/187254960624",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1794740997
+    },
+    {
       "data": "2026-11-14T08:57:40+00:00",
       "adversario": "olbah",
       "cor": "Pretas",
