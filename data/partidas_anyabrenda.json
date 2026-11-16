@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-16T08:38:30+00:00",
+      "adversario": "Mithu-26",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1533,
+      "link": "https://www.chess.com/game/live/187316302316",
+      "eco": "A40",
+      "pontos": 1.0,
+      "end_time": 1794818310
+    },
+    {
       "data": "2026-11-15T11:17:52+00:00",
       "adversario": "ayahiyus",
       "cor": "Pretas",
