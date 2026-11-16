@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-11-16T00:06:11+00:00",
+      "adversario": "Kiencuong123456789",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1064,
+      "link": "https://www.chess.com/game/live/187298237874",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1794787571
+    },
+    {
+      "data": "2026-11-15T21:05:37+00:00",
+      "adversario": "QubitLoaf",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1056,
+      "link": "https://www.chess.com/game/live/187290577872",
+      "eco": "B21",
+      "pontos": 1.0,
+      "end_time": 1794776737
+    },
+    {
+      "data": "2026-11-15T20:54:20+00:00",
+      "adversario": "goktan_ozturk",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1048,
+      "link": "https://www.chess.com/game/live/187290114258",
+      "eco": "A04",
+      "pontos": 1.0,
+      "end_time": 1794776060
+    },
+    {
       "data": "2026-11-15T04:14:22+00:00",
       "adversario": "ungarabundu",
       "cor": "Brancas",
@@ -49308,19 +49347,6 @@
       "eco": "C40",
       "pontos": 1.0,
       "end_time": 1763341646
-    },
-    {
-      "data": "2025-11-15T11:57:32+00:00",
-      "adversario": "sesham",
-      "cor": "Brancas",
-      "resultado": "resigned",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 445,
-      "link": "https://www.chess.com/game/live/145539597954",
-      "eco": "B01",
-      "pontos": 0.0,
-      "end_time": 1763207852
     }
   ]
 }
