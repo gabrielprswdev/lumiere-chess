@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-11-17T19:34:08+00:00",
+      "adversario": "KasparovDoBairro",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": false,
+      "timeControl": "600",
+      "rating": 1038,
+      "link": "https://www.chess.com/game/live/187427385384",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1794944048
+    },
+    {
+      "data": "2026-11-17T19:19:47+00:00",
+      "adversario": "KingOfHeian",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1038,
+      "link": "https://www.chess.com/game/live/187426532858",
+      "eco": "B13",
+      "pontos": 1.0,
+      "end_time": 1794943187
+    },
+    {
       "data": "2026-11-17T01:30:55+00:00",
       "adversario": "bpadmani",
       "cor": "Pretas",
