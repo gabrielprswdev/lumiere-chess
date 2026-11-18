@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-18T11:24:03+00:00",
+      "adversario": "boringbum",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1533,
+      "link": "https://www.chess.com/game/live/187468595594",
+      "eco": "A04",
+      "pontos": 1.0,
+      "end_time": 1795001043
+    },
+    {
       "data": "2026-11-17T23:23:01+00:00",
       "adversario": "Domingos_dvc",
       "cor": "Pretas",

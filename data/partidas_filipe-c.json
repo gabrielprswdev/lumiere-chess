@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-11-18T19:33:57+00:00",
+      "adversario": "cryean",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1038,
+      "link": "https://www.chess.com/game/live/187500655368",
+      "eco": "B00",
+      "pontos": 1.0,
+      "end_time": 1795030437
+    },
+    {
+      "data": "2026-11-18T19:25:27+00:00",
+      "adversario": "GM_10-7",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1030,
+      "link": "https://www.chess.com/game/live/187499649558",
+      "eco": "C46",
+      "pontos": 0.0,
+      "end_time": 1795029927
+    },
+    {
       "data": "2026-11-17T23:59:09+00:00",
       "adversario": "KelvinEncantoRN",
       "cor": "Brancas",
