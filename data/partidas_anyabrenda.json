@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-11-17T23:23:01+00:00",
+      "adversario": "Domingos_dvc",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/187440371196",
+      "eco": "A04",
+      "pontos": 1.0,
+      "end_time": 1794957781
+    },
+    {
+      "data": "2026-11-17T23:19:47+00:00",
+      "adversario": "alexD4C",
+      "cor": "Brancas",
+      "resultado": "checkmated",
+      "rated": false,
+      "timeControl": "300",
+      "rating": 1413,
+      "link": "https://www.chess.com/game/live/187439958752",
+      "eco": "E64",
+      "pontos": 0.0,
+      "end_time": 1794957587
+    },
+    {
       "data": "2026-11-17T09:59:07+00:00",
       "adversario": "Khairul682",
       "cor": "Brancas",
