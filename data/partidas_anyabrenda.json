@@ -1,6 +1,58 @@
 {
   "partidas": [
     {
+      "data": "2026-11-19T10:45:27+00:00",
+      "adversario": "Smiling-While-Blundering",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1517,
+      "link": "https://www.chess.com/game/live/187539260642",
+      "eco": "D02",
+      "pontos": 1.0,
+      "end_time": 1795085127
+    },
+    {
+      "data": "2026-11-19T10:41:21+00:00",
+      "adversario": "saumelg",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1509,
+      "link": "https://www.chess.com/game/live/187538614600",
+      "eco": "C41",
+      "pontos": 0.0,
+      "end_time": 1795084881
+    },
+    {
+      "data": "2026-11-19T10:28:44+00:00",
+      "adversario": "katno199",
+      "cor": "Brancas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1517,
+      "link": "https://www.chess.com/game/live/187538379018",
+      "eco": "B00",
+      "pontos": 0.0,
+      "end_time": 1795084124
+    },
+    {
+      "data": "2026-11-19T10:24:05+00:00",
+      "adversario": "Power_Precision",
+      "cor": "Pretas",
+      "resultado": "resigned",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1525,
+      "link": "https://www.chess.com/game/live/187537765964",
+      "eco": "C45",
+      "pontos": 0.0,
+      "end_time": 1795083845
+    },
+    {
       "data": "2026-11-18T11:24:03+00:00",
       "adversario": "boringbum",
       "cor": "Pretas",
