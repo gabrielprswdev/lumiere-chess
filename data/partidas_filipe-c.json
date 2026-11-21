@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-11-21T15:40:30+00:00",
+      "adversario": "miraun19",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "1/259200",
+      "rating": 633,
+      "link": "https://www.chess.com/game/daily/1066137788",
+      "eco": "B22",
+      "pontos": 0.0,
+      "end_time": 1795275630
+    },
+    {
+      "data": "2026-11-21T15:40:22+00:00",
+      "adversario": "miraun19",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": false,
+      "timeControl": "1/259200",
+      "rating": 633,
+      "link": "https://www.chess.com/game/daily/1066137662",
+      "eco": "C00",
+      "pontos": 0.0,
+      "end_time": 1795275622
+    },
+    {
       "data": "2026-11-20T23:55:39+00:00",
       "adversario": "LucasLazavik",
       "cor": "Pretas",

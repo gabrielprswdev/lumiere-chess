@@ -1,6 +1,32 @@
 {
   "partidas": [
     {
+      "data": "2026-11-21T11:29:25+00:00",
+      "adversario": "GMyoussefalaa",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "180",
+      "rating": 1440,
+      "link": "https://www.chess.com/game/live/187687433926",
+      "eco": "A07",
+      "pontos": 1.0,
+      "end_time": 1795260565
+    },
+    {
+      "data": "2026-11-21T11:20:42+00:00",
+      "adversario": "maraku14",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1525,
+      "link": "https://www.chess.com/game/live/187687147974",
+      "eco": "C45",
+      "pontos": 1.0,
+      "end_time": 1795260042
+    },
+    {
       "data": "2026-11-19T10:45:27+00:00",
       "adversario": "Smiling-While-Blundering",
       "cor": "Brancas",
