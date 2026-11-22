@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-22T13:39:19+00:00",
+      "adversario": "Henriquemm23",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/259200",
+      "rating": 633,
+      "link": "https://www.chess.com/game/daily/1065200512",
+      "eco": "D02",
+      "pontos": 0.0,
+      "end_time": 1795354759
+    },
+    {
       "data": "2026-11-21T15:40:30+00:00",
       "adversario": "miraun19",
       "cor": "Brancas",
@@ -49945,45 +49958,6 @@
       "eco": "C23",
       "pontos": 0.0,
       "end_time": 1763784503
-    },
-    {
-      "data": "2025-11-21T21:02:12+00:00",
-      "adversario": "Gastonfedericogonzalo",
-      "cor": "Brancas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 451,
-      "link": "https://www.chess.com/game/live/145798071314",
-      "eco": "C23",
-      "pontos": 1.0,
-      "end_time": 1763758932
-    },
-    {
-      "data": "2025-11-21T21:00:16+00:00",
-      "adversario": "tzmetal",
-      "cor": "Brancas",
-      "resultado": "checkmated",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 443,
-      "link": "https://www.chess.com/game/live/145797769898",
-      "eco": "C45",
-      "pontos": 0.0,
-      "end_time": 1763758816
-    },
-    {
-      "data": "2025-11-21T18:25:18+00:00",
-      "adversario": "amarbenrebouh",
-      "cor": "Pretas",
-      "resultado": "win",
-      "rated": true,
-      "timeControl": "600",
-      "rating": 451,
-      "link": "https://www.chess.com/game/live/145792510784",
-      "eco": "D00",
-      "pontos": 1.0,
-      "end_time": 1763749518
     }
   ]
 }

@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-22T10:01:31+00:00",
+      "adversario": "enrique_LOL",
+      "cor": "Pretas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1533,
+      "link": "https://www.chess.com/game/live/187753658150",
+      "eco": "E60",
+      "pontos": 1.0,
+      "end_time": 1795341691
+    },
+    {
       "data": "2026-11-21T11:29:25+00:00",
       "adversario": "GMyoussefalaa",
       "cor": "Brancas",
