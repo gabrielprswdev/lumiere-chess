@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-24T11:00:26+00:00",
+      "adversario": "Islom_23",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1549,
+      "link": "https://www.chess.com/game/live/187902588198",
+      "eco": "A07",
+      "pontos": 1.0,
+      "end_time": 1795518026
+    },
+    {
       "data": "2026-11-23T09:31:22+00:00",
       "adversario": "Claykow",
       "cor": "Pretas",
