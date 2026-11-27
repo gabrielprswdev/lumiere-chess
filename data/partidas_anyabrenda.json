@@ -1,6 +1,19 @@
 {
   "partidas": [
     {
+      "data": "2026-11-27T13:28:48+00:00",
+      "adversario": "randomkek69",
+      "cor": "Brancas",
+      "resultado": "win",
+      "rated": true,
+      "timeControl": "600",
+      "rating": 1557,
+      "link": "https://www.chess.com/game/live/188139033578",
+      "eco": "D70",
+      "pontos": 1.0,
+      "end_time": 1795786128
+    },
+    {
       "data": "2026-11-24T11:00:26+00:00",
       "adversario": "Islom_23",
       "cor": "Brancas",
