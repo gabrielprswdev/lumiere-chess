@@ -1,6 +1,45 @@
 {
   "partidas": [
     {
+      "data": "2026-11-27T11:13:49+00:00",
+      "adversario": "isakeveborn",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/86400",
+      "rating": 1066,
+      "link": "https://www.chess.com/game/daily/1072003702",
+      "eco": "D40",
+      "pontos": 0.0,
+      "end_time": 1795778029
+    },
+    {
+      "data": "2026-11-27T10:27:18+00:00",
+      "adversario": "PorcupineHat",
+      "cor": "Brancas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/86400",
+      "rating": 1088,
+      "link": "https://www.chess.com/game/daily/1072004740",
+      "eco": "B13",
+      "pontos": 0.0,
+      "end_time": 1795775238
+    },
+    {
+      "data": "2026-11-27T09:05:37+00:00",
+      "adversario": "dgr8akki",
+      "cor": "Pretas",
+      "resultado": "timeout",
+      "rated": true,
+      "timeControl": "1/86400",
+      "rating": 1104,
+      "link": "https://www.chess.com/game/daily/1072004850",
+      "eco": "C42",
+      "pontos": 0.0,
+      "end_time": 1795770337
+    },
+    {
       "data": "2026-11-26T22:40:39+00:00",
       "adversario": "stan_lord",
       "cor": "Brancas",
